@@ -1,0 +1,749 @@
+[{
+	"id": "61",
+	"name": "BRATYSŁAWSKA",
+	"nameD": "BRATYSLAWSKA"
+}, {
+	"id": "63",
+	"name": "KROWODRZA GÓRKA",
+	"nameD": "KROWODRZA GORKA"
+}, {
+	"id": "69",
+	"name": "PRĄDNICKA",
+	"nameD": "PRADNICKA"
+}, {
+	"id": "70",
+	"name": "DWORZEC TOWAROWY",
+	"nameD": "DWORZEC TOWAROWY"
+}, {
+	"id": "71",
+	"name": "NOWY KLEPARZ",
+	"nameD": "NOWY KLEPARZ"
+}, {
+	"id": "72",
+	"name": "PĘDZICHÓW",
+	"nameD": "PEDZICHOW"
+}, {
+	"id": "73",
+	"name": "POLITECHNIKA",
+	"nameD": "POLITECHNIKA"
+}, {
+	"id": "75",
+	"name": "BASZTOWA LOT",
+	"nameD": "BASZTOWA LOT"
+}, {
+	"id": "77",
+	"name": "TEATR BAGATELA",
+	"nameD": "TEATR BAGATELA"
+}, {
+	"id": "78",
+	"name": "BATOREGO",
+	"nameD": "BATOREGO"
+}, {
+	"id": "79",
+	"name": "PLAC INWALIDÓW",
+	"nameD": "PLAC INWALIDOW"
+}, {
+	"id": "83",
+	"name": "URZĘDNICZA",
+	"nameD": "URZEDNICZA"
+}, {
+	"id": "84",
+	"name": "BIPROSTAL",
+	"nameD": "BIPROSTAL"
+}, {
+	"id": "87",
+	"name": "CICHY KĄCIK",
+	"nameD": "CICHY KACIK"
+}, {
+	"id": "88",
+	"name": "UNIWERSYTET PEDAGOGICZNY",
+	"nameD": "UNIWERSYTET PEDAGOGICZNY"
+}, {
+	"id": "89",
+	"name": "BRONOWICE",
+	"nameD": "BRONOWICE"
+}, {
+	"id": "112",
+	"name": "STELLA-SAWICKIEGO",
+	"nameD": "STELLA-SAWICKIEGO"
+}, {
+	"id": "113",
+	"name": "AWF",
+	"nameD": "AWF"
+}, {
+	"id": "114",
+	"name": "WIECZYSTA",
+	"nameD": "WIECZYSTA"
+}, {
+	"id": "124",
+	"name": "CMENTARZ RAKOWICKI",
+	"nameD": "CMENTARZ RAKOWICKI"
+}, {
+	"id": "125",
+	"name": "RONDO MOGILSKIE",
+	"nameD": "RONDO MOGILSKIE"
+}, {
+	"id": "126",
+	"name": "LUBICZ",
+	"nameD": "LUBICZ"
+}, {
+	"id": "127",
+	"name": "UNIWERSYTET EKONOMICZNY",
+	"nameD": "UNIWERSYTET EKONOMICZNY"
+}, {
+	"id": "128",
+	"name": "RAKOWICKA (NŻ)",
+	"nameD": "RAKOWICKA (NZ)"
+}, {
+	"id": "129",
+	"name": "CYSTERSÓW",
+	"nameD": "CYSTERSOW"
+}, {
+	"id": "130",
+	"name": "BIAŁUCHA",
+	"nameD": "BIALUCHA"
+}, {
+	"id": "131",
+	"name": "DWORZEC GŁÓWNY",
+	"nameD": "DWORZEC GLOWNY"
+}, {
+	"id": "133",
+	"name": "WESELE",
+	"nameD": "WESELE"
+}, {
+	"id": "134",
+	"name": "BALICKA WIADUKT",
+	"nameD": "BALICKA WIADUKT"
+}, {
+	"id": "135",
+	"name": "BRONOWICE MAŁE",
+	"nameD": "BRONOWICE MALE"
+}, {
+	"id": "136",
+	"name": "BRONOWICE WIADUKT",
+	"nameD": "BRONOWICE WIADUKT"
+}, {
+	"id": "311",
+	"name": "SALWATOR",
+	"nameD": "SALWATOR"
+}, {
+	"id": "313",
+	"name": "KOMOROWSKIEGO",
+	"nameD": "KOMOROWSKIEGO"
+}, {
+	"id": "318",
+	"name": "CRACOVIA",
+	"nameD": "CRACOVIA"
+}, {
+	"id": "319",
+	"name": "JUBILAT",
+	"nameD": "JUBILAT"
+}, {
+	"id": "320",
+	"name": "REYMANA",
+	"nameD": "REYMANA"
+}, {
+	"id": "321",
+	"name": "UNIWERSYTET JAGIELLOŃSKI",
+	"nameD": "UNIWERSYTET JAGIELLONSKI"
+}, {
+	"id": "322",
+	"name": "FILHARMONIA",
+	"nameD": "FILHARMONIA"
+}, {
+	"id": "325",
+	"name": "WAWEL",
+	"nameD": "WAWEL"
+}, {
+	"id": "357",
+	"name": "POCZTA GŁÓWNA",
+	"nameD": "POCZTA GLOWNA"
+}, {
+	"id": "358",
+	"name": "STAROWIŚLNA",
+	"nameD": "STAROWISLNA"
+}, {
+	"id": "359",
+	"name": "STRADOM",
+	"nameD": "STRADOM"
+}, {
+	"id": "360",
+	"name": "PLAC WOLNICA",
+	"nameD": "PLAC WOLNICA"
+}, {
+	"id": "361",
+	"name": "ORZESZKOWEJ",
+	"nameD": "ORZESZKOWEJ"
+}, {
+	"id": "362",
+	"name": "MIODOWA",
+	"nameD": "MIODOWA"
+}, {
+	"id": "363",
+	"name": "HALA TARGOWA",
+	"nameD": "HALA TARGOWA"
+}, {
+	"id": "365",
+	"name": "RONDO GRZEGÓRZECKIE",
+	"nameD": "RONDO GRZEGORZECKIE"
+}, {
+	"id": "367",
+	"name": "FRANCESCO NULLO",
+	"nameD": "FRANCESCO NULLO"
+}, {
+	"id": "368",
+	"name": "FABRYCZNA",
+	"nameD": "FABRYCZNA"
+}, {
+	"id": "369",
+	"name": "OFIAR DĄBIA",
+	"nameD": "OFIAR DABIA"
+}, {
+	"id": "370",
+	"name": "DĄBIE",
+	"nameD": "DABIE"
+}, {
+	"id": "372",
+	"name": "NOWOHUCKA",
+	"nameD": "NOWOHUCKA"
+}, {
+	"id": "375",
+	"name": "MISTRZEJOWICE",
+	"nameD": "MISTRZEJOWICE"
+}, {
+	"id": "377",
+	"name": "OS. ZŁOTEGO WIEKU",
+	"nameD": "OS. ZLOTEGO WIEKU"
+}, {
+	"id": "378",
+	"name": "OS. PIASTÓW",
+	"nameD": "OS. PIASTOW"
+}, {
+	"id": "379",
+	"name": "PIASTA KOŁODZIEJA",
+	"nameD": "PIASTA KOLODZIEJA"
+}, {
+	"id": "382",
+	"name": "KLEEBERGA",
+	"nameD": "KLEEBERGA"
+}, {
+	"id": "383",
+	"name": "RONDO PIASTOWSKIE",
+	"nameD": "RONDO PIASTOWSKIE"
+}, {
+	"id": "388",
+	"name": "DUNIKOWSKIEGO",
+	"nameD": "DUNIKOWSKIEGO"
+}, {
+	"id": "392",
+	"name": "DH WANDA",
+	"nameD": "DH WANDA"
+}, {
+	"id": "401",
+	"name": "KOCMYRZOWSKA",
+	"nameD": "KOCMYRZOWSKA"
+}, {
+	"id": "407",
+	"name": "CZYŻYNY",
+	"nameD": "CZYZYNY"
+}, {
+	"id": "408",
+	"name": "RONDO CZYŻYŃSKIE",
+	"nameD": "RONDO CZYZYNSKIE"
+}, {
+	"id": "409",
+	"name": "CENTRALNA",
+	"nameD": "CENTRALNA"
+}, {
+	"id": "413",
+	"name": "OS. KOLOROWE",
+	"nameD": "OS. KOLOROWE"
+}, {
+	"id": "418",
+	"name": "OS. ZGODY",
+	"nameD": "OS. ZGODY"
+}, {
+	"id": "420",
+	"name": "TEATR LUDOWY",
+	"nameD": "TEATR LUDOWY"
+}, {
+	"id": "423",
+	"name": "STRUGA",
+	"nameD": "STRUGA"
+}, {
+	"id": "424",
+	"name": "OS. NA SKARPIE",
+	"nameD": "OS. NA SKARPIE"
+}, {
+	"id": "429",
+	"name": "KLASZTORNA",
+	"nameD": "KLASZTORNA"
+}, {
+	"id": "434",
+	"name": "WIADUKTY",
+	"nameD": "WIADUKTY"
+}, {
+	"id": "435",
+	"name": "DARWINA",
+	"nameD": "DARWINA"
+}, {
+	"id": "442",
+	"name": "WZGÓRZA KRZESŁAWICKIE",
+	"nameD": "WZGORZA KRZESLAWICKIE"
+}, {
+	"id": "449",
+	"name": "BARDOSA",
+	"nameD": "BARDOSA"
+}, {
+	"id": "450",
+	"name": "KOPIEC WANDY",
+	"nameD": "KOPIEC WANDY"
+}, {
+	"id": "451",
+	"name": "BRAMA NR 4 (NŻ)",
+	"nameD": "BRAMA NR 4 (NZ)"
+}, {
+	"id": "452",
+	"name": "JEŻYNOWA",
+	"nameD": "JEZYNOWA"
+}, {
+	"id": "453",
+	"name": "BRAMA NR 5 (NŻ)",
+	"nameD": "BRAMA NR 5 (NZ)"
+}, {
+	"id": "454",
+	"name": "MEKSYK (NŻ)",
+	"nameD": "MEKSYK (NZ)"
+}, {
+	"id": "457",
+	"name": "KOKSOCHEMIA (NŻ)",
+	"nameD": "KOKSOCHEMIA (NZ)"
+}, {
+	"id": "458",
+	"name": "PLESZÓW",
+	"nameD": "PLESZOW"
+}, {
+	"id": "459",
+	"name": "KOMBINAT",
+	"nameD": "KOMBINAT"
+}, {
+	"id": "460",
+	"name": "MROZOWA",
+	"nameD": "MROZOWA"
+}, {
+	"id": "461",
+	"name": "BLOKOWA",
+	"nameD": "BLOKOWA"
+}, {
+	"id": "462",
+	"name": "AGENCJA KRAKÓW WSCHÓD",
+	"nameD": "AGENCJA KRAKOW WSCHOD"
+}, {
+	"id": "463",
+	"name": "WALCOWNIA",
+	"nameD": "WALCOWNIA"
+}, {
+	"id": "464",
+	"name": "ELEKTROMONTAŻ (NŻ)",
+	"nameD": "ELEKTROMONTAZ (NZ)"
+}, {
+	"id": "465",
+	"name": "ZAJEZDNIA NOWA HUTA",
+	"nameD": "ZAJEZDNIA NOWA HUTA"
+}, {
+	"id": "466",
+	"name": "PH",
+	"nameD": "PH"
+}, {
+	"id": "560",
+	"name": "GROMADZKA",
+	"nameD": "GROMADZKA"
+}, {
+	"id": "561",
+	"name": "LIPSKA",
+	"nameD": "LIPSKA"
+}, {
+	"id": "567",
+	"name": "KUKLIŃSKIEGO",
+	"nameD": "KUKLINSKIEGO"
+}, {
+	"id": "568",
+	"name": "POWSTAŃCÓW WIELKOPOLSKICH",
+	"nameD": "POWSTANCOW WIELKOPOLSKICH"
+}, {
+	"id": "569",
+	"name": "LIMANOWSKIEGO",
+	"nameD": "LIMANOWSKIEGO"
+}, {
+	"id": "570",
+	"name": "PLAC BOHATERÓW GETTA",
+	"nameD": "PLAC BOHATEROW GETTA"
+}, {
+	"id": "571",
+	"name": "KORONA",
+	"nameD": "KORONA"
+}, {
+	"id": "572",
+	"name": "SMOLKI",
+	"nameD": "SMOLKI"
+}, {
+	"id": "574",
+	"name": "MOST GRUNWALDZKI",
+	"nameD": "MOST GRUNWALDZKI"
+}, {
+	"id": "575",
+	"name": "SZWEDZKA",
+	"nameD": "SZWEDZKA"
+}, {
+	"id": "576",
+	"name": "KAPELANKA",
+	"nameD": "KAPELANKA"
+}, {
+	"id": "577",
+	"name": "SŁOMIANA",
+	"nameD": "SLOMIANA"
+}, {
+	"id": "584",
+	"name": "KOBIERZYŃSKA",
+	"nameD": "KOBIERZYNSKA"
+}, {
+	"id": "587",
+	"name": "ROSTWOROWSKIEGO",
+	"nameD": "ROSTWOROWSKIEGO"
+}, {
+	"id": "589",
+	"name": "RUCZAJ",
+	"nameD": "RUCZAJ"
+}, {
+	"id": "610",
+	"name": "RONDO MATECZNEGO",
+	"nameD": "RONDO MATECZNEGO"
+}, {
+	"id": "611",
+	"name": "RZEMIEŚLNICZA",
+	"nameD": "RZEMIESLNICZA"
+}, {
+	"id": "612",
+	"name": "BORSUCZA",
+	"nameD": "BORSUCZA"
+}, {
+	"id": "613",
+	"name": "BROŻKA (NŻ)",
+	"nameD": "BROZKA (NZ)"
+}, {
+	"id": "614",
+	"name": "PT",
+	"nameD": "PT"
+}, {
+	"id": "615",
+	"name": "SANKTUARIUM BOŻEGO MIŁOSIERDZIA",
+	"nameD": "SANKTUARIUM BOZEGO MILOSIERDZIA"
+}, {
+	"id": "621",
+	"name": "CMENTARZ PODGÓRSKI",
+	"nameD": "CMENTARZ PODGORSKI"
+}, {
+	"id": "623",
+	"name": "DWORCOWA",
+	"nameD": "DWORCOWA"
+}, {
+	"id": "624",
+	"name": "KABEL",
+	"nameD": "KABEL"
+}, {
+	"id": "630",
+	"name": "BIEŻANOWSKA",
+	"nameD": "BIEZANOWSKA"
+}, {
+	"id": "632",
+	"name": "DAUNA",
+	"nameD": "DAUNA"
+}, {
+	"id": "634",
+	"name": "WLOTOWA",
+	"nameD": "WLOTOWA"
+}, {
+	"id": "637",
+	"name": "PROKOCIM",
+	"nameD": "PROKOCIM"
+}, {
+	"id": "679",
+	"name": "ĆWIKLIŃSKIEJ",
+	"nameD": "ĆWIKLINSKIEJ"
+}, {
+	"id": "681",
+	"name": "TELIGI",
+	"nameD": "TELIGI"
+}, {
+	"id": "682",
+	"name": "PROKOCIM SZPITAL",
+	"nameD": "PROKOCIM SZPITAL"
+}, {
+	"id": "715",
+	"name": "NOWOSĄDECKA",
+	"nameD": "NOWOSADECKA"
+}, {
+	"id": "716",
+	"name": "PIASKI NOWE",
+	"nameD": "PIASKI NOWE"
+}, {
+	"id": "718",
+	"name": "WITOSA",
+	"nameD": "WITOSA"
+}, {
+	"id": "744",
+	"name": "KURDWANÓW",
+	"nameD": "KURDWANOW"
+}, {
+	"id": "746",
+	"name": "SOLVAY",
+	"nameD": "SOLVAY"
+}, {
+	"id": "747",
+	"name": "BOREK FAŁĘCKI",
+	"nameD": "BOREK FALECKI"
+}, {
+	"id": "823",
+	"name": "OLEANDRY",
+	"nameD": "OLEANDRY"
+}, {
+	"id": "824",
+	"name": "BOREK FAŁĘCKI I",
+	"nameD": "BOREK FALECKI I"
+}, {
+	"id": "867",
+	"name": "BIEŃCZYCKA",
+	"nameD": "BIENCZYCKA"
+}, {
+	"id": "915",
+	"name": "DAJWÓR",
+	"nameD": "DAJWOR"
+}, {
+	"id": "922",
+	"name": "ŁAGIEWNIKI",
+	"nameD": "LAGIEWNIKI"
+}, {
+	"id": "930",
+	"name": "M1 AL. POKOJU",
+	"nameD": "M1 AL. POKOJU"
+}, {
+	"id": "946",
+	"name": "KLIMECKIEGO",
+	"nameD": "KLIMECKIEGO"
+}, {
+	"id": "959",
+	"name": "KRAKÓW PLAZA",
+	"nameD": "KRAKOW PLAZA"
+}, {
+	"id": "960",
+	"name": "PARK JORDANA",
+	"nameD": "PARK JORDANA"
+}, {
+	"id": "1049",
+	"name": "GŁOWACKIEGO",
+	"nameD": "GLOWACKIEGO"
+}, {
+	"id": "1051",
+	"name": "FORT MOGIŁA (NŻ)",
+	"nameD": "FORT MOGILA (NZ)"
+}, {
+	"id": "1154",
+	"name": "ZABŁOCIE",
+	"nameD": "ZABLOCIE"
+}, {
+	"id": "1173",
+	"name": "DWORZEC GŁÓWNY TUNEL",
+	"nameD": "DWORZEC GLOWNY TUNEL"
+}, {
+	"id": "1262",
+	"name": "RZEBIKA",
+	"nameD": "RZEBIKA"
+}, {
+	"id": "1263",
+	"name": "MAŁY PŁASZÓW",
+	"nameD": "MALY PLASZOW"
+}, {
+	"id": "1360",
+	"name": "PLAC WSZYSTKICH ŚWIĘTYCH",
+	"nameD": "PLAC WSZYSTKICH SWIETYCH"
+}, {
+	"id": "2536",
+	"name": "KORDYLEWSKIEGO",
+	"nameD": "KORDYLEWSKIEGO"
+}, {
+	"id": "2537",
+	"name": "LEMA",
+	"nameD": "LEMA"
+}, {
+	"id": "2538",
+	"name": "MIŚNIEŃSKA",
+	"nameD": "MISNIENSKA"
+}, {
+	"id": "2539",
+	"name": "RONDO HIPOKRATESA",
+	"nameD": "RONDO HIPOKRATESA"
+}, {
+	"id": "2543",
+	"name": "WAŃKOWICZA",
+	"nameD": "WANKOWICZA"
+}, {
+	"id": "2548",
+	"name": "SUCHE STAWY",
+	"nameD": "SUCHE STAWY"
+}, {
+	"id": "2549",
+	"name": "CMENTARZ GRĘBAŁÓW ZACHÓD",
+	"nameD": "CMENTARZ GREBALOW ZACHOD"
+}, {
+	"id": "2580",
+	"name": "NOWY BIEŻANÓW",
+	"nameD": "NOWY BIEZANOW"
+}, {
+	"id": "2582",
+	"name": "NOWY PROKOCIM",
+	"nameD": "NOWY PROKOCIM"
+}, {
+	"id": "2608",
+	"name": "DWORZEC GŁÓWNY ZACHÓD",
+	"nameD": "DWORZEC GLOWNY ZACHOD"
+}, {
+	"id": "2685",
+	"name": "JARZĘBINY",
+	"nameD": "JARZEBINY"
+}, {
+	"id": "2686",
+	"name": "LIPIŃSKIEGO",
+	"nameD": "LIPINSKIEGO"
+}, {
+	"id": "2687",
+	"name": "GROTA-ROWECKIEGO",
+	"nameD": "GROTA-ROWECKIEGO"
+}, {
+	"id": "2688",
+	"name": "NORYMBERSKA",
+	"nameD": "NORYMBERSKA"
+}, {
+	"id": "2690",
+	"name": "KAMPUS UJ",
+	"nameD": "KAMPUS UJ"
+}, {
+	"id": "2691",
+	"name": "CHMIELENIEC",
+	"nameD": "CHMIELENIEC"
+}, {
+	"id": "2726",
+	"name": "MUZEUM INŻYNIERII MIEJSKIEJ",
+	"nameD": "MUZEUM INZYNIERII MIEJSKIEJ"
+}, {
+	"id": "2741",
+	"name": "ŚW.GERTRUDY",
+	"nameD": "SW.GERTRUDY"
+}, {
+	"id": "2742",
+	"name": "ŚW.WAWRZYŃCA",
+	"nameD": "SW.WAWRZYNCA"
+}, {
+	"id": "2744",
+	"name": "PLAC CENTRALNY IM. R.REAGANA",
+	"nameD": "PLAC CENTRALNY IM. R.REAGANA"
+}, {
+	"id": "2745",
+	"name": "RONDO KOCMYRZOWSKIE IM. KS. GORZELANEGO",
+	"nameD": "RONDO KOCMYRZOWSKIE IM. KS. GORZELANEGO"
+}, {
+	"id": "2798",
+	"name": "BOISKO KABEL",
+	"nameD": "BOISKO KABEL"
+}, {
+	"id": "2803",
+	"name": "KRAKÓW ARENA AL. POKOJU",
+	"nameD": "KRAKOW ARENA AL. POKOJU"
+}, {
+	"id": "2811",
+	"name": "MUZEUM LOTNICTWA",
+	"nameD": "MUZEUM LOTNICTWA"
+}, {
+	"id": "2821",
+	"name": "ŁAGIEWNIKI ZUS",
+	"nameD": "LAGIEWNIKI ZUS"
+}, {
+	"id": "2859",
+	"name": "TEATR VARIÉTÉ",
+	"nameD": "TEATR VARIÉTÉ"
+}, {
+	"id": "2870",
+	"name": "DWORZEC PŁASZÓW ESTAKADA",
+	"nameD": "DWORZEC PLASZOW ESTAKADA"
+}, {
+	"id": "2871",
+	"name": "TAURON ARENA KRAKÓW AL. POKOJU (NŻ)",
+	"nameD": "TAURON ARENA KRAKOW AL. POKOJU (NZ)"
+}, {
+	"id": "3032",
+	"name": "STARY KLEPARZ",
+	"nameD": "STARY KLEPARZ"
+}, {
+	"id": "3033",
+	"name": "PLAZA",
+	"nameD": "PLAZA"
+}, {
+	"id": "3036",
+	"name": "SZPITAL NARUTOWICZA",
+	"nameD": "SZPITAL NARUTOWICZA"
+}, {
+	"id": "3037",
+	"name": "CIENISTA",
+	"nameD": "CIENISTA"
+}, {
+	"id": "3038",
+	"name": "CZERWONE MAKI P+R",
+	"nameD": "CZERWONE MAKI P+R"
+}, {
+	"id": "3039",
+	"name": "CENTRUM KONGRESOWE ICE",
+	"nameD": "CENTRUM KONGRESOWE ICE"
+}, {
+	"id": "3040",
+	"name": "TAURON ARENA KRAKÓW WIECZYSTA",
+	"nameD": "TAURON ARENA KRAKOW WIECZYSTA"
+}, {
+	"id": "3041",
+	"name": "RONDO 308. DYWIZJONU",
+	"nameD": "RONDO 308. DYWIZJONU"
+}, {
+	"id": "3141",
+	"name": "MUZEUM NARODOWE",
+	"nameD": "MUZEUM NARODOWE"
+}, {
+	"id": "3158",
+	"name": "PODGÓRZE SKA",
+	"nameD": "PODGORZE SKA"
+}, {
+	"id": "3174",
+	"name": "GIEDROYCIA (NŻ)",
+	"nameD": "GIEDROYCIA (NZ)"
+}, {
+	"id": "3175",
+	"name": "NOWY BIEŻANÓW P+R",
+	"nameD": "NOWY BIEZANOW P+R"
+}, {
+	"id": "3176",
+	"name": "KURDWANÓW P+R",
+	"nameD": "KURDWANOW P+R"
+}, {
+	"id": "3242",
+	"name": "TEATR SŁOWACKIEGO",
+	"nameD": "TEATR SLOWACKIEGO"
+}, {
+	"id": "3310",
+	"name": "MAŁY PŁASZÓW P+R",
+	"nameD": "MALY PLASZOW P+R"
+}, {
+	"id": "3338",
+	"name": "RONDO GRUNWALDZKIE",
+	"nameD": "RONDO GRUNWALDZKIE"
+}, {
+	"id": "3459",
+	"name": "BRONOWICE SKA",
+	"nameD": "BRONOWICE SKA"
+}]

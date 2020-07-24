@@ -1,0 +1,6469 @@
+[{
+	"id": "1",
+	"name": "MŁYNKA PĘTLA",
+	"nameD": "MLYNKA PETLA"
+}, {
+	"id": "5",
+	"name": "UR BALICKA",
+	"nameD": "UR BALICKA"
+}, {
+	"id": "7",
+	"name": "ZAKLIKI (NŻ)",
+	"nameD": "ZAKLIKI (NZ)"
+}, {
+	"id": "8",
+	"name": "MYDLNIKI",
+	"nameD": "MYDLNIKI"
+}, {
+	"id": "9",
+	"name": "MYDLNIKI STAWY (NŻ)",
+	"nameD": "MYDLNIKI STAWY (NZ)"
+}, {
+	"id": "12",
+	"name": "RONDO OFIAR KATYNIA",
+	"nameD": "RONDO OFIAR KATYNIA"
+}, {
+	"id": "13",
+	"name": "KATOWICKA",
+	"nameD": "KATOWICKA"
+}, {
+	"id": "15",
+	"name": "PASTERNIK (NŻ)",
+	"nameD": "PASTERNIK (NZ)"
+}, {
+	"id": "16",
+	"name": "OJCOWSKA DWOREK",
+	"nameD": "OJCOWSKA DWOREK"
+}, {
+	"id": "17",
+	"name": "OJCOWSKA WĄGRODA",
+	"nameD": "OJCOWSKA WAGRODA"
+}, {
+	"id": "18",
+	"name": "OJCOWSKA",
+	"nameD": "OJCOWSKA"
+}, {
+	"id": "19",
+	"name": "BRONOWICE WIELKIE",
+	"nameD": "BRONOWICE WIELKIE"
+}, {
+	"id": "21",
+	"name": "TONIE",
+	"nameD": "TONIE"
+}, {
+	"id": "22",
+	"name": "GOSPODARSKA",
+	"nameD": "GOSPODARSKA"
+}, {
+	"id": "23",
+	"name": "TONIE SKRZYŻOWANIE",
+	"nameD": "TONIE SKRZYZOWANIE"
+}, {
+	"id": "25",
+	"name": "TONIE KĄTY (NŻ)",
+	"nameD": "TONIE KATY (NZ)"
+}, {
+	"id": "28",
+	"name": "OS. MARSZOWIEC",
+	"nameD": "OS. MARSZOWIEC"
+}, {
+	"id": "29",
+	"name": "WITKOWICE",
+	"nameD": "WITKOWICE"
+}, {
+	"id": "30",
+	"name": "WITKOWICE NOWE",
+	"nameD": "WITKOWICE NOWE"
+}, {
+	"id": "31",
+	"name": "DOŻYNKOWA",
+	"nameD": "DOZYNKOWA"
+}, {
+	"id": "32",
+	"name": "SIEWNA",
+	"nameD": "SIEWNA"
+}, {
+	"id": "33",
+	"name": "SIEWNA WIADUKT",
+	"nameD": "SIEWNA WIADUKT"
+}, {
+	"id": "34",
+	"name": "BOCIANA",
+	"nameD": "BOCIANA"
+}, {
+	"id": "35",
+	"name": "GÓRKA NARODOWA",
+	"nameD": "GORKA NARODOWA"
+}, {
+	"id": "36",
+	"name": "CLEPARDIA",
+	"nameD": "CLEPARDIA"
+}, {
+	"id": "37",
+	"name": "MACKIEWICZA",
+	"nameD": "MACKIEWICZA"
+}, {
+	"id": "38",
+	"name": "IMBRAMOWSKA",
+	"nameD": "IMBRAMOWSKA"
+}, {
+	"id": "40",
+	"name": "CHABROWA",
+	"nameD": "CHABROWA"
+}, {
+	"id": "42",
+	"name": "SKRAJNA (NŻ)",
+	"nameD": "SKRAJNA (NZ)"
+}, {
+	"id": "43",
+	"name": "WYKI",
+	"nameD": "WYKI"
+}, {
+	"id": "47",
+	"name": "PLESZOWSKA",
+	"nameD": "PLESZOWSKA"
+}, {
+	"id": "48",
+	"name": "OPOLSKA KŁADKA",
+	"nameD": "OPOLSKA KLADKA"
+}, {
+	"id": "54",
+	"name": "AZORY",
+	"nameD": "AZORY"
+}, {
+	"id": "55",
+	"name": "RÓŻYCKIEGO",
+	"nameD": "ROZYCKIEGO"
+}, {
+	"id": "56",
+	"name": "MAKOWSKIEGO",
+	"nameD": "MAKOWSKIEGO"
+}, {
+	"id": "57",
+	"name": "STACHIEWICZA",
+	"nameD": "STACHIEWICZA"
+}, {
+	"id": "60",
+	"name": "WYBICKIEGO",
+	"nameD": "WYBICKIEGO"
+}, {
+	"id": "61",
+	"name": "BRATYSŁAWSKA",
+	"nameD": "BRATYSLAWSKA"
+}, {
+	"id": "62",
+	"name": "KROWODERSKICH ZUCHÓW",
+	"nameD": "KROWODERSKICH ZUCHOW"
+}, {
+	"id": "63",
+	"name": "KROWODRZA GÓRKA",
+	"nameD": "KROWODRZA GORKA"
+}, {
+	"id": "65",
+	"name": "LEKARSKA",
+	"nameD": "LEKARSKA"
+}, {
+	"id": "67",
+	"name": "URZĄD MARSZAŁKOWSKI",
+	"nameD": "URZAD MARSZALKOWSKI"
+}, {
+	"id": "68",
+	"name": "WROCŁAWSKA",
+	"nameD": "WROCLAWSKA"
+}, {
+	"id": "71",
+	"name": "NOWY KLEPARZ",
+	"nameD": "NOWY KLEPARZ"
+}, {
+	"id": "72",
+	"name": "PĘDZICHÓW",
+	"nameD": "PEDZICHOW"
+}, {
+	"id": "73",
+	"name": "POLITECHNIKA",
+	"nameD": "POLITECHNIKA"
+}, {
+	"id": "76",
+	"name": "GROTTGERA",
+	"nameD": "GROTTGERA"
+}, {
+	"id": "77",
+	"name": "TEATR BAGATELA",
+	"nameD": "TEATR BAGATELA"
+}, {
+	"id": "78",
+	"name": "BATOREGO",
+	"nameD": "BATOREGO"
+}, {
+	"id": "79",
+	"name": "PLAC INWALIDÓW",
+	"nameD": "PLAC INWALIDOW"
+}, {
+	"id": "80",
+	"name": "AGH",
+	"nameD": "AGH"
+}, {
+	"id": "81",
+	"name": "CZARNOWIEJSKA",
+	"nameD": "CZARNOWIEJSKA"
+}, {
+	"id": "82",
+	"name": "KAWIORY",
+	"nameD": "KAWIORY"
+}, {
+	"id": "83",
+	"name": "URZĘDNICZA",
+	"nameD": "URZEDNICZA"
+}, {
+	"id": "84",
+	"name": "BIPROSTAL",
+	"nameD": "BIPROSTAL"
+}, {
+	"id": "85",
+	"name": "MIASTECZKO STUDENCKIE AGH",
+	"nameD": "MIASTECZKO STUDENCKIE AGH"
+}, {
+	"id": "87",
+	"name": "CICHY KĄCIK",
+	"nameD": "CICHY KACIK"
+}, {
+	"id": "88",
+	"name": "UNIWERSYTET PEDAGOGICZNY",
+	"nameD": "UNIWERSYTET PEDAGOGICZNY"
+}, {
+	"id": "89",
+	"name": "BRONOWICE",
+	"nameD": "BRONOWICE"
+}, {
+	"id": "90",
+	"name": "MAZOWIECKA",
+	"nameD": "MAZOWIECKA"
+}, {
+	"id": "92",
+	"name": "OPOLSKA ESTAKADA",
+	"nameD": "OPOLSKA ESTAKADA"
+}, {
+	"id": "94",
+	"name": "LUBLAŃSKA",
+	"nameD": "LUBLANSKA"
+}, {
+	"id": "96",
+	"name": "MAJORA",
+	"nameD": "MAJORA"
+}, {
+	"id": "97",
+	"name": "POWSTAŃCÓW",
+	"nameD": "POWSTANCOW"
+}, {
+	"id": "98",
+	"name": "KUŹNICY KOŁŁĄTAJOWSKIEJ",
+	"nameD": "KUZNICY KOLLATAJOWSKIEJ"
+}, {
+	"id": "100",
+	"name": "PRĄDNIK CZERWONY",
+	"nameD": "PRADNIK CZERWONY"
+}, {
+	"id": "101",
+	"name": "STRZELCÓW",
+	"nameD": "STRZELCOW"
+}, {
+	"id": "102",
+	"name": "OLSZECKA",
+	"nameD": "OLSZECKA"
+}, {
+	"id": "103",
+	"name": "OLSZA II",
+	"nameD": "OLSZA II"
+}, {
+	"id": "104",
+	"name": "MIECHOWITY",
+	"nameD": "MIECHOWITY"
+}, {
+	"id": "108",
+	"name": "OS. OŚWIECENIA",
+	"nameD": "OS. OSWIECENIA"
+}, {
+	"id": "110",
+	"name": "WIŚLICKA",
+	"nameD": "WISLICKA"
+}, {
+	"id": "111",
+	"name": "OS. DYWIZJONU 303",
+	"nameD": "OS. DYWIZJONU 303"
+}, {
+	"id": "112",
+	"name": "STELLA-SAWICKIEGO",
+	"nameD": "STELLA-SAWICKIEGO"
+}, {
+	"id": "113",
+	"name": "AWF",
+	"nameD": "AWF"
+}, {
+	"id": "115",
+	"name": "UGOREK",
+	"nameD": "UGOREK"
+}, {
+	"id": "116",
+	"name": "SPADOCHRONIARZY",
+	"nameD": "SPADOCHRONIARZY"
+}, {
+	"id": "117",
+	"name": "AKACJOWA",
+	"nameD": "AKACJOWA"
+}, {
+	"id": "118",
+	"name": "RONDO MŁYŃSKIE",
+	"nameD": "RONDO MLYNSKIE"
+}, {
+	"id": "119",
+	"name": "PILOTÓW",
+	"nameD": "PILOTOW"
+}, {
+	"id": "120",
+	"name": "ŁUKASIEWICZA",
+	"nameD": "LUKASIEWICZA"
+}, {
+	"id": "121",
+	"name": "NARZYMSKIEGO",
+	"nameD": "NARZYMSKIEGO"
+}, {
+	"id": "122",
+	"name": "BISKUPA PRANDOTY",
+	"nameD": "BISKUPA PRANDOTY"
+}, {
+	"id": "123",
+	"name": "BROGI",
+	"nameD": "BROGI"
+}, {
+	"id": "124",
+	"name": "CMENTARZ RAKOWICKI",
+	"nameD": "CMENTARZ RAKOWICKI"
+}, {
+	"id": "125",
+	"name": "RONDO MOGILSKIE",
+	"nameD": "RONDO MOGILSKIE"
+}, {
+	"id": "126",
+	"name": "LUBICZ",
+	"nameD": "LUBICZ"
+}, {
+	"id": "127",
+	"name": "UNIWERSYTET EKONOMICZNY",
+	"nameD": "UNIWERSYTET EKONOMICZNY"
+}, {
+	"id": "129",
+	"name": "CYSTERSÓW",
+	"nameD": "CYSTERSOW"
+}, {
+	"id": "130",
+	"name": "BIAŁUCHA",
+	"nameD": "BIALUCHA"
+}, {
+	"id": "131",
+	"name": "DWORZEC GŁÓWNY",
+	"nameD": "DWORZEC GLOWNY"
+}, {
+	"id": "132",
+	"name": "RADZIKOWSKIEGO",
+	"nameD": "RADZIKOWSKIEGO"
+}, {
+	"id": "133",
+	"name": "WESELE",
+	"nameD": "WESELE"
+}, {
+	"id": "135",
+	"name": "BRONOWICE MAŁE",
+	"nameD": "BRONOWICE MALE"
+}, {
+	"id": "136",
+	"name": "BRONOWICE WIADUKT",
+	"nameD": "BRONOWICE WIADUKT"
+}, {
+	"id": "137",
+	"name": "ZARZECZE",
+	"nameD": "ZARZECZE"
+}, {
+	"id": "139",
+	"name": "TONDOSA (NŻ)",
+	"nameD": "TONDOSA (NZ)"
+}, {
+	"id": "140",
+	"name": "LAJKONIKA (NŻ)",
+	"nameD": "LAJKONIKA (NZ)"
+}, {
+	"id": "141",
+	"name": "STRZELNICA",
+	"nameD": "STRZELNICA"
+}, {
+	"id": "142",
+	"name": "SIELANKA",
+	"nameD": "SIELANKA"
+}, {
+	"id": "143",
+	"name": "PARK DECJUSZA",
+	"nameD": "PARK DECJUSZA"
+}, {
+	"id": "144",
+	"name": "STARA WOLA",
+	"nameD": "STARA WOLA"
+}, {
+	"id": "145",
+	"name": "BABA JAGA (NŻ)",
+	"nameD": "BABA JAGA (NZ)"
+}, {
+	"id": "146",
+	"name": "ZOO",
+	"nameD": "ZOO"
+}, {
+	"id": "147",
+	"name": "KASZTANOWA",
+	"nameD": "KASZTANOWA"
+}, {
+	"id": "148",
+	"name": "KOPALINA (NŻ)",
+	"nameD": "KOPALINA (NZ)"
+}, {
+	"id": "149",
+	"name": "ZIELONY DÓŁ",
+	"nameD": "ZIELONY DOL"
+}, {
+	"id": "150",
+	"name": "KRÓLOWEJ JADWIGI",
+	"nameD": "KROLOWEJ JADWIGI"
+}, {
+	"id": "151",
+	"name": "CHEŁM",
+	"nameD": "CHELM"
+}, {
+	"id": "152",
+	"name": "CHEŁMSKA (NŻ)",
+	"nameD": "CHELMSKA (NZ)"
+}, {
+	"id": "153",
+	"name": "RZEPICHY (NŻ)",
+	"nameD": "RZEPICHY (NZ)"
+}, {
+	"id": "154",
+	"name": "RACZKIEWICZA (NŻ)",
+	"nameD": "RACZKIEWICZA (NZ)"
+}, {
+	"id": "155",
+	"name": "ZAKAMYCZE",
+	"nameD": "ZAKAMYCZE"
+}, {
+	"id": "156",
+	"name": "KOSMOWSKIEJ (NŻ)",
+	"nameD": "KOSMOWSKIEJ (NZ)"
+}, {
+	"id": "157",
+	"name": "LEŚMIANA",
+	"nameD": "LESMIANA"
+}, {
+	"id": "158",
+	"name": "OLSZANICA KAPLICZKA (NŻ)",
+	"nameD": "OLSZANICA KAPLICZKA (NZ)"
+}, {
+	"id": "161",
+	"name": "OLSZANICA BORY",
+	"nameD": "OLSZANICA BORY"
+}, {
+	"id": "165",
+	"name": "WĘGRZCE CENTRUM",
+	"nameD": "WEGRZCE CENTRUM"
+}, {
+	"id": "170",
+	"name": "GÓRNA WIEŚ",
+	"nameD": "GORNA WIES"
+}, {
+	"id": "172",
+	"name": "WOLA ZACHARIASZOWSKA",
+	"nameD": "WOLA ZACHARIASZOWSKA"
+}, {
+	"id": "174",
+	"name": "GARLICA DUCHOWNA (NŻ)",
+	"nameD": "GARLICA DUCHOWNA (NZ)"
+}, {
+	"id": "175",
+	"name": "GARLICA MUROWANA",
+	"nameD": "GARLICA MUROWANA"
+}, {
+	"id": "177",
+	"name": "ZIELONKI ROZJAZD",
+	"nameD": "ZIELONKI ROZJAZD"
+}, {
+	"id": "178",
+	"name": "TROJANOWICE PĘTLA",
+	"nameD": "TROJANOWICE PETLA"
+}, {
+	"id": "180",
+	"name": "ZIELONKI TRANSFORMATOR",
+	"nameD": "ZIELONKI TRANSFORMATOR"
+}, {
+	"id": "181",
+	"name": "ZIELONKI UG",
+	"nameD": "ZIELONKI UG"
+}, {
+	"id": "182",
+	"name": "ZIELONKI SKRZYŻOWANIE",
+	"nameD": "ZIELONKI SKRZYZOWANIE"
+}, {
+	"id": "183",
+	"name": "TROJANOWICE STRUGI (NŻ)",
+	"nameD": "TROJANOWICE STRUGI (NZ)"
+}, {
+	"id": "184",
+	"name": "TROJANOWICE",
+	"nameD": "TROJANOWICE"
+}, {
+	"id": "185",
+	"name": "JANUSZOWICE",
+	"nameD": "JANUSZOWICE"
+}, {
+	"id": "190",
+	"name": "PRZYBYSŁAWICE I (NŻ)",
+	"nameD": "PRZYBYSLAWICE I (NZ)"
+}, {
+	"id": "191",
+	"name": "PRZYBYSŁAWICE II",
+	"nameD": "PRZYBYSLAWICE II"
+}, {
+	"id": "192",
+	"name": "DROGA DO RZĄSKI (NŻ)",
+	"nameD": "DROGA DO RZASKI (NZ)"
+}, {
+	"id": "193",
+	"name": "RZĄSKA JEDNOSTKA WOJSKOWA (NŻ)",
+	"nameD": "RZASKA JEDNOSTKA WOJSKOWA (NZ)"
+}, {
+	"id": "194",
+	"name": "RZĄSKA UR (NŻ)",
+	"nameD": "RZASKA UR (NZ)"
+}, {
+	"id": "196",
+	"name": "RZĄSKA AUTOSTRADA (NŻ)",
+	"nameD": "RZASKA AUTOSTRADA (NZ)"
+}, {
+	"id": "197",
+	"name": "MODLNICZKA MAŁA",
+	"nameD": "MODLNICZKA MALA"
+}, {
+	"id": "198",
+	"name": "ZABIERZÓW DZIAŁKI (NŻ)",
+	"nameD": "ZABIERZOW DZIALKI (NZ)"
+}, {
+	"id": "199",
+	"name": "ZABIERZÓW",
+	"nameD": "ZABIERZOW"
+}, {
+	"id": "200",
+	"name": "ZABIERZÓW SKLEP",
+	"nameD": "ZABIERZOW SKLEP"
+}, {
+	"id": "201",
+	"name": "ZABIERZÓW PIEKARNIA",
+	"nameD": "ZABIERZOW PIEKARNIA"
+}, {
+	"id": "202",
+	"name": "ZABIERZÓW I",
+	"nameD": "ZABIERZOW I"
+}, {
+	"id": "203",
+	"name": "ZABIERZÓW PIASKI (NŻ)",
+	"nameD": "ZABIERZOW PIASKI (NZ)"
+}, {
+	"id": "204",
+	"name": "ZABIERZÓW PKP",
+	"nameD": "ZABIERZOW PKP"
+}, {
+	"id": "208",
+	"name": "BOLECHOWICE",
+	"nameD": "BOLECHOWICE"
+}, {
+	"id": "209",
+	"name": "ZELKÓW WOLA (NŻ)",
+	"nameD": "ZELKOW WOLA (NZ)"
+}, {
+	"id": "210",
+	"name": "ZELKÓW STAW",
+	"nameD": "ZELKOW STAW"
+}, {
+	"id": "213",
+	"name": "ZABIERZÓW OŚRODEK ZDROWIA",
+	"nameD": "ZABIERZOW OSRODEK ZDROWIA"
+}, {
+	"id": "214",
+	"name": "KOCHANÓW I (NŻ)",
+	"nameD": "KOCHANOW I (NZ)"
+}, {
+	"id": "215",
+	"name": "KOCHANÓW",
+	"nameD": "KOCHANOW"
+}, {
+	"id": "216",
+	"name": "DROGA DO NIEGOSZOWIC (NŻ)",
+	"nameD": "DROGA DO NIEGOSZOWIC (NZ)"
+}, {
+	"id": "217",
+	"name": "RUDAWA (NŻ)",
+	"nameD": "RUDAWA (NZ)"
+}, {
+	"id": "218",
+	"name": "MŁYNKA I (NŻ)",
+	"nameD": "MLYNKA I (NZ)"
+}, {
+	"id": "219",
+	"name": "SKAŁA KMITY (NŻ)",
+	"nameD": "SKALA KMITY (NZ)"
+}, {
+	"id": "220",
+	"name": "SZCZYGLICE",
+	"nameD": "SZCZYGLICE"
+}, {
+	"id": "221",
+	"name": "BALICE AUTOSTRADA (NŻ)",
+	"nameD": "BALICE AUTOSTRADA (NZ)"
+}, {
+	"id": "222",
+	"name": "BALICE SZKOŁA",
+	"nameD": "BALICE SZKOLA"
+}, {
+	"id": "223",
+	"name": "BALICE INSTYTUT (NŻ)",
+	"nameD": "BALICE INSTYTUT (NZ)"
+}, {
+	"id": "224",
+	"name": "SZCZYGLICE MOST (NŻ)",
+	"nameD": "SZCZYGLICE MOST (NZ)"
+}, {
+	"id": "226",
+	"name": "BALICE I (NŻ)",
+	"nameD": "BALICE I (NZ)"
+}, {
+	"id": "228",
+	"name": "CHROSNA STUDNIA (NŻ)",
+	"nameD": "CHROSNA STUDNIA (NZ)"
+}, {
+	"id": "229",
+	"name": "CHROSNA SKLEP (NŻ)",
+	"nameD": "CHROSNA SKLEP (NZ)"
+}, {
+	"id": "230",
+	"name": "CHROSNA KAPLICZKA (NŻ)",
+	"nameD": "CHROSNA KAPLICZKA (NZ)"
+}, {
+	"id": "231",
+	"name": "MORAWICA MOSTEK (NŻ)",
+	"nameD": "MORAWICA MOSTEK (NZ)"
+}, {
+	"id": "232",
+	"name": "MORAWICA KRZYŻÓWKA",
+	"nameD": "MORAWICA KRZYZOWKA"
+}, {
+	"id": "233",
+	"name": "MORAWICA",
+	"nameD": "MORAWICA"
+}, {
+	"id": "234",
+	"name": "MORAWICA CMENTARZ (NŻ)",
+	"nameD": "MORAWICA CMENTARZ (NZ)"
+}, {
+	"id": "235",
+	"name": "ALEKSANDROWICE",
+	"nameD": "ALEKSANDROWICE"
+}, {
+	"id": "236",
+	"name": "ALEKSANDROWICE OSIEDLE (NŻ)",
+	"nameD": "ALEKSANDROWICE OSIEDLE (NZ)"
+}, {
+	"id": "238",
+	"name": "BRZOSKWINIA KOZIARY (NŻ)",
+	"nameD": "BRZOSKWINIA KOZIARY (NZ)"
+}, {
+	"id": "239",
+	"name": "BRZOSKWINIA SKLEP",
+	"nameD": "BRZOSKWINIA SKLEP"
+}, {
+	"id": "240",
+	"name": "BRZOSKWINIA KAMYK (NŻ)",
+	"nameD": "BRZOSKWINIA KAMYK (NZ)"
+}, {
+	"id": "242",
+	"name": "KOPIEC KOŚCIUSZKI",
+	"nameD": "KOPIEC KOSCIUSZKI"
+}, {
+	"id": "248",
+	"name": "MNIKÓW SKLEP (NŻ)",
+	"nameD": "MNIKOW SKLEP (NZ)"
+}, {
+	"id": "252",
+	"name": "CHOLERZYN SKRZYŻOWANIE (NŻ)",
+	"nameD": "CHOLERZYN SKRZYZOWANIE (NZ)"
+}, {
+	"id": "253",
+	"name": "CHOLERZYN SKLEP (NŻ)",
+	"nameD": "CHOLERZYN SKLEP (NZ)"
+}, {
+	"id": "254",
+	"name": "CHOLERZYN (NŻ)",
+	"nameD": "CHOLERZYN (NZ)"
+}, {
+	"id": "257",
+	"name": "KRYSPINÓW SANKA (NŻ)",
+	"nameD": "KRYSPINOW SANKA (NZ)"
+}, {
+	"id": "258",
+	"name": "KRYSPINÓW",
+	"nameD": "KRYSPINOW"
+}, {
+	"id": "260",
+	"name": "BIELANY",
+	"nameD": "BIELANY"
+}, {
+	"id": "261",
+	"name": "BIELANY SZKOŁA",
+	"nameD": "BIELANY SZKOLA"
+}, {
+	"id": "262",
+	"name": "BIELANY KLASZTOR (NŻ)",
+	"nameD": "BIELANY KLASZTOR (NZ)"
+}, {
+	"id": "263",
+	"name": "WODOCIĄGI (NŻ)",
+	"nameD": "WODOCIAGI (NZ)"
+}, {
+	"id": "264",
+	"name": "SKALNA (NŻ)",
+	"nameD": "SKALNA (NZ)"
+}, {
+	"id": "265",
+	"name": "BIELAŃSKA (NŻ)",
+	"nameD": "BIELANSKA (NZ)"
+}, {
+	"id": "269",
+	"name": "PIEKARY SKLEP (NŻ)",
+	"nameD": "PIEKARY SKLEP (NZ)"
+}, {
+	"id": "270",
+	"name": "PIEKARY",
+	"nameD": "PIEKARY"
+}, {
+	"id": "272",
+	"name": "BIELAŃSKIE SKAŁY (NŻ)",
+	"nameD": "BIELANSKIE SKALY (NZ)"
+}, {
+	"id": "273",
+	"name": "NA KRĘPAKU (NŻ)",
+	"nameD": "NA KREPAKU (NZ)"
+}, {
+	"id": "274",
+	"name": "ZASKALE (NŻ)",
+	"nameD": "ZASKALE (NZ)"
+}, {
+	"id": "275",
+	"name": "PRZEGORZAŁY",
+	"nameD": "PRZEGORZALY"
+}, {
+	"id": "276",
+	"name": "GLINNIK (NŻ)",
+	"nameD": "GLINNIK (NZ)"
+}, {
+	"id": "278",
+	"name": "NOWA WIEŚ SZLACHECKA",
+	"nameD": "NOWA WIES SZLACHECKA"
+}, {
+	"id": "279",
+	"name": "NOWA WIEŚ KOŚCIÓŁ (NŻ)",
+	"nameD": "NOWA WIES KOSCIOL (NZ)"
+}, {
+	"id": "280",
+	"name": "NOWA WIEŚ (NŻ)",
+	"nameD": "NOWA WIES (NZ)"
+}, {
+	"id": "281",
+	"name": "NOWA WIEŚ KAPLICZKA (NŻ)",
+	"nameD": "NOWA WIES KAPLICZKA (NZ)"
+}, {
+	"id": "282",
+	"name": "KASZÓW II (NŻ)",
+	"nameD": "KASZOW II (NZ)"
+}, {
+	"id": "283",
+	"name": "KASZÓW",
+	"nameD": "KASZOW"
+}, {
+	"id": "284",
+	"name": "KASZÓW TYRAŁÓWKA (NŻ)",
+	"nameD": "KASZOW TYRALOWKA (NZ)"
+}, {
+	"id": "285",
+	"name": "KASZÓW ŁYSA GÓRA (NŻ)",
+	"nameD": "KASZOW LYSA GORA (NZ)"
+}, {
+	"id": "286",
+	"name": "LISZKI KRZYŻÓWKA",
+	"nameD": "LISZKI KRZYZOWKA"
+}, {
+	"id": "287",
+	"name": "LISZKI UG",
+	"nameD": "LISZKI UG"
+}, {
+	"id": "289",
+	"name": "LISZKI I (NŻ)",
+	"nameD": "LISZKI I (NZ)"
+}, {
+	"id": "292",
+	"name": "WYŹRAŁ SZKOŁA (NŻ)",
+	"nameD": "WYZRAL SZKOLA (NZ)"
+}, {
+	"id": "293",
+	"name": "WYŹRAŁ WIELKA DROGA (NŻ)",
+	"nameD": "WYZRAL WIELKA DROGA (NZ)"
+}, {
+	"id": "296",
+	"name": "RĄCZNA KAPLICZKA (NŻ)",
+	"nameD": "RACZNA KAPLICZKA (NZ)"
+}, {
+	"id": "301",
+	"name": "ŚCIEJOWICE GRANICA (NŻ)",
+	"nameD": "SCIEJOWICE GRANICA (NZ)"
+}, {
+	"id": "306",
+	"name": "RĄCZNA OSIEDLE (NŻ)",
+	"nameD": "RACZNA OSIEDLE (NZ)"
+}, {
+	"id": "310",
+	"name": "MALCZEWSKIEGO (NŻ)",
+	"nameD": "MALCZEWSKIEGO (NZ)"
+}, {
+	"id": "311",
+	"name": "SALWATOR",
+	"nameD": "SALWATOR"
+}, {
+	"id": "313",
+	"name": "KOMOROWSKIEGO",
+	"nameD": "KOMOROWSKIEGO"
+}, {
+	"id": "314",
+	"name": "SŁONECZNIKOWA",
+	"nameD": "SLONECZNIKOWA"
+}, {
+	"id": "315",
+	"name": "HOFMANA",
+	"nameD": "HOFMANA"
+}, {
+	"id": "316",
+	"name": "PRZEGON",
+	"nameD": "PRZEGON"
+}, {
+	"id": "317",
+	"name": "INSTYTUT REUMATOLOGII",
+	"nameD": "INSTYTUT REUMATOLOGII"
+}, {
+	"id": "319",
+	"name": "JUBILAT",
+	"nameD": "JUBILAT"
+}, {
+	"id": "320",
+	"name": "REYMANA (NŻ)",
+	"nameD": "REYMANA (NZ)"
+}, {
+	"id": "321",
+	"name": "UNIWERSYTET JAGIELLOŃSKI",
+	"nameD": "UNIWERSYTET JAGIELLONSKI"
+}, {
+	"id": "322",
+	"name": "FILHARMONIA",
+	"nameD": "FILHARMONIA"
+}, {
+	"id": "325",
+	"name": "WAWEL",
+	"nameD": "WAWEL"
+}, {
+	"id": "326",
+	"name": "KONOPNICKIEJ",
+	"nameD": "KONOPNICKIEJ"
+}, {
+	"id": "327",
+	"name": "WĘGRZCE STAROSTWO POWIATOWE",
+	"nameD": "WEGRZCE STAROSTWO POWIATOWE"
+}, {
+	"id": "328",
+	"name": "WĘGRZCE",
+	"nameD": "WEGRZCE"
+}, {
+	"id": "330",
+	"name": "BIBICE (NŻ)",
+	"nameD": "BIBICE (NZ)"
+}, {
+	"id": "331",
+	"name": "MICHAŁOWICE (NŻ)",
+	"nameD": "MICHALOWICE (NZ)"
+}, {
+	"id": "332",
+	"name": "MICHAŁOWICE KOMORA (NŻ)",
+	"nameD": "MICHALOWICE KOMORA (NZ)"
+}, {
+	"id": "333",
+	"name": "MICHAŁOWICE I",
+	"nameD": "MICHALOWICE I"
+}, {
+	"id": "335",
+	"name": "MICHAŁOWICE LECZNICA (NŻ)",
+	"nameD": "MICHALOWICE LECZNICA (NZ)"
+}, {
+	"id": "336",
+	"name": "MICHAŁOWICE II (NŻ)",
+	"nameD": "MICHALOWICE II (NZ)"
+}, {
+	"id": "337",
+	"name": "LASKOWIEC (NŻ)",
+	"nameD": "LASKOWIEC (NZ)"
+}, {
+	"id": "338",
+	"name": "WARSZÓWKA (NŻ)",
+	"nameD": "WARSZOWKA (NZ)"
+}, {
+	"id": "342",
+	"name": "KOZIERÓW SKRZYŻOWANIE (NŻ)",
+	"nameD": "KOZIEROW SKRZYZOWANIE (NZ)"
+}, {
+	"id": "343",
+	"name": "ŻERKOWICE KOLONIA (NŻ)",
+	"nameD": "ZERKOWICE KOLONIA (NZ)"
+}, {
+	"id": "344",
+	"name": "ŻERKOWICE SKRZYŻOWANIE (NŻ)",
+	"nameD": "ZERKOWICE SKRZYZOWANIE (NZ)"
+}, {
+	"id": "345",
+	"name": "KRASIENIEC STARY (NŻ)",
+	"nameD": "KRASIENIEC STARY (NZ)"
+}, {
+	"id": "346",
+	"name": "KRASIENIEC REMIZA (NŻ)",
+	"nameD": "KRASIENIEC REMIZA (NZ)"
+}, {
+	"id": "348",
+	"name": "WIĘCŁAWICE STARE (NŻ)",
+	"nameD": "WIECLAWICE STARE (NZ)"
+}, {
+	"id": "352",
+	"name": "BATOWICE KAPLICZKA",
+	"nameD": "BATOWICE KAPLICZKA"
+}, {
+	"id": "354",
+	"name": "RACIBOROWICE",
+	"nameD": "RACIBOROWICE"
+}, {
+	"id": "356",
+	"name": "ZASTÓW",
+	"nameD": "ZASTOW"
+}, {
+	"id": "357",
+	"name": "POCZTA GŁÓWNA",
+	"nameD": "POCZTA GLOWNA"
+}, {
+	"id": "358",
+	"name": "STAROWIŚLNA",
+	"nameD": "STAROWISLNA"
+}, {
+	"id": "359",
+	"name": "STRADOM",
+	"nameD": "STRADOM"
+}, {
+	"id": "360",
+	"name": "PLAC WOLNICA",
+	"nameD": "PLAC WOLNICA"
+}, {
+	"id": "361",
+	"name": "ORZESZKOWEJ",
+	"nameD": "ORZESZKOWEJ"
+}, {
+	"id": "362",
+	"name": "MIODOWA",
+	"nameD": "MIODOWA"
+}, {
+	"id": "363",
+	"name": "HALA TARGOWA",
+	"nameD": "HALA TARGOWA"
+}, {
+	"id": "365",
+	"name": "RONDO GRZEGÓRZECKIE",
+	"nameD": "RONDO GRZEGORZECKIE"
+}, {
+	"id": "367",
+	"name": "FRANCESCO NULLO",
+	"nameD": "FRANCESCO NULLO"
+}, {
+	"id": "368",
+	"name": "FABRYCZNA",
+	"nameD": "FABRYCZNA"
+}, {
+	"id": "369",
+	"name": "OFIAR DĄBIA",
+	"nameD": "OFIAR DABIA"
+}, {
+	"id": "370",
+	"name": "DĄBIE",
+	"nameD": "DABIE"
+}, {
+	"id": "374",
+	"name": "ELEKTROCIEPŁOWNIA KRAKÓW",
+	"nameD": "ELEKTROCIEPLOWNIA KRAKOW"
+}, {
+	"id": "375",
+	"name": "MISTRZEJOWICE",
+	"nameD": "MISTRZEJOWICE"
+}, {
+	"id": "377",
+	"name": "OS. ZŁOTEGO WIEKU",
+	"nameD": "OS. ZLOTEGO WIEKU"
+}, {
+	"id": "378",
+	"name": "OS. PIASTÓW",
+	"nameD": "OS. PIASTOW"
+}, {
+	"id": "379",
+	"name": "PIASTA KOŁODZIEJA",
+	"nameD": "PIASTA KOLODZIEJA"
+}, {
+	"id": "380",
+	"name": "POPIELIDÓW",
+	"nameD": "POPIELIDOW"
+}, {
+	"id": "381",
+	"name": "KRUSZWICKA",
+	"nameD": "KRUSZWICKA"
+}, {
+	"id": "382",
+	"name": "KLEEBERGA",
+	"nameD": "KLEEBERGA"
+}, {
+	"id": "383",
+	"name": "RONDO PIASTOWSKIE",
+	"nameD": "RONDO PIASTOWSKIE"
+}, {
+	"id": "384",
+	"name": "ŁĘCZYCKA",
+	"nameD": "LECZYCKA"
+}, {
+	"id": "385",
+	"name": "CEDYŃSKA",
+	"nameD": "CEDYNSKA"
+}, {
+	"id": "386",
+	"name": "OS. KALINOWE",
+	"nameD": "OS. KALINOWE"
+}, {
+	"id": "387",
+	"name": "KUPAŁY",
+	"nameD": "KUPALY"
+}, {
+	"id": "388",
+	"name": "DUNIKOWSKIEGO",
+	"nameD": "DUNIKOWSKIEGO"
+}, {
+	"id": "390",
+	"name": "OS. STRUSIA",
+	"nameD": "OS. STRUSIA"
+}, {
+	"id": "391",
+	"name": "OS. NA LOTNISKU",
+	"nameD": "OS. NA LOTNISKU"
+}, {
+	"id": "392",
+	"name": "DH WANDA",
+	"nameD": "DH WANDA"
+}, {
+	"id": "395",
+	"name": "NOWOLIPKI (NŻ)",
+	"nameD": "NOWOLIPKI (NZ)"
+}, {
+	"id": "397",
+	"name": "ZAJEZDNIA BIEŃCZYCE",
+	"nameD": "ZAJEZDNIA BIENCZYCE"
+}, {
+	"id": "402",
+	"name": "OS. JAGIELLOŃSKIE",
+	"nameD": "OS. JAGIELLONSKIE"
+}, {
+	"id": "403",
+	"name": "ARKA",
+	"nameD": "ARKA"
+}, {
+	"id": "404",
+	"name": "OS.KOŚCIUSZKOWSKIE",
+	"nameD": "OS.KOSCIUSZKOWSKIE"
+}, {
+	"id": "406",
+	"name": "MEDWECKIEGO",
+	"nameD": "MEDWECKIEGO"
+}, {
+	"id": "407",
+	"name": "CZYŻYNY",
+	"nameD": "CZYZYNY"
+}, {
+	"id": "408",
+	"name": "RONDO CZYŻYŃSKIE",
+	"nameD": "RONDO CZYZYNSKIE"
+}, {
+	"id": "409",
+	"name": "CENTRALNA",
+	"nameD": "CENTRALNA"
+}, {
+	"id": "413",
+	"name": "OS. KOLOROWE",
+	"nameD": "OS. KOLOROWE"
+}, {
+	"id": "415",
+	"name": "ALEJA PRZYJAŹNI",
+	"nameD": "ALEJA PRZYJAZNI"
+}, {
+	"id": "416",
+	"name": "ALEJA RÓŻ",
+	"nameD": "ALEJA ROZ"
+}, {
+	"id": "417",
+	"name": "ŻEROMSKIEGO",
+	"nameD": "ZEROMSKIEGO"
+}, {
+	"id": "418",
+	"name": "OS. ZGODY",
+	"nameD": "OS. ZGODY"
+}, {
+	"id": "420",
+	"name": "TEATR LUDOWY",
+	"nameD": "TEATR LUDOWY"
+}, {
+	"id": "421",
+	"name": "OS. GÓRALI",
+	"nameD": "OS. GORALI"
+}, {
+	"id": "422",
+	"name": "OS. ZIELONE",
+	"nameD": "OS. ZIELONE"
+}, {
+	"id": "423",
+	"name": "STRUGA",
+	"nameD": "STRUGA"
+}, {
+	"id": "424",
+	"name": "OS. NA SKARPIE",
+	"nameD": "OS. NA SKARPIE"
+}, {
+	"id": "425",
+	"name": "SZPITAL ŻEROMSKIEGO",
+	"nameD": "SZPITAL ZEROMSKIEGO"
+}, {
+	"id": "427",
+	"name": "KLASZTOR CYSTERSÓW",
+	"nameD": "KLASZTOR CYSTERSOW"
+}, {
+	"id": "428",
+	"name": "OS. WANDY",
+	"nameD": "OS. WANDY"
+}, {
+	"id": "429",
+	"name": "KLASZTORNA",
+	"nameD": "KLASZTORNA"
+}, {
+	"id": "430",
+	"name": "OS. WILLOWE",
+	"nameD": "OS. WILLOWE"
+}, {
+	"id": "431",
+	"name": "ORKANA",
+	"nameD": "ORKANA"
+}, {
+	"id": "432",
+	"name": "BULWAROWA (NŻ)",
+	"nameD": "BULWAROWA (NZ)"
+}, {
+	"id": "434",
+	"name": "WIADUKTY (NŻ)",
+	"nameD": "WIADUKTY (NZ)"
+}, {
+	"id": "435",
+	"name": "DARWINA",
+	"nameD": "DARWINA"
+}, {
+	"id": "436",
+	"name": "OS. NA STOKU SZKOŁA",
+	"nameD": "OS. NA STOKU SZKOLA"
+}, {
+	"id": "437",
+	"name": "ARCHITEKTÓW",
+	"nameD": "ARCHITEKTOW"
+}, {
+	"id": "442",
+	"name": "WZGÓRZA KRZESŁAWICKIE",
+	"nameD": "WZGORZA KRZESLAWICKIE"
+}, {
+	"id": "443",
+	"name": "GRĘBAŁÓW (NŻ)",
+	"nameD": "GREBALOW (NZ)"
+}, {
+	"id": "445",
+	"name": "KANTOROWICE",
+	"nameD": "KANTOROWICE"
+}, {
+	"id": "447",
+	"name": "ZESŁAWICE",
+	"nameD": "ZESLAWICE"
+}, {
+	"id": "448",
+	"name": "CMENTARZ GRĘBAŁÓW",
+	"nameD": "CMENTARZ GREBALOW"
+}, {
+	"id": "453",
+	"name": "BRAMA NR 5 (NŻ)",
+	"nameD": "BRAMA NR 5 (NZ)"
+}, {
+	"id": "455",
+	"name": "GWARECKA (NŻ)",
+	"nameD": "GWARECKA (NZ)"
+}, {
+	"id": "456",
+	"name": "SUCHY JAR (NŻ)",
+	"nameD": "SUCHY JAR (NZ)"
+}, {
+	"id": "457",
+	"name": "KOKSOCHEMIA (NŻ)",
+	"nameD": "KOKSOCHEMIA (NZ)"
+}, {
+	"id": "458",
+	"name": "PLESZÓW",
+	"nameD": "PLESZOW"
+}, {
+	"id": "459",
+	"name": "KOMBINAT",
+	"nameD": "KOMBINAT"
+}, {
+	"id": "460",
+	"name": "MROZOWA (NŻ)",
+	"nameD": "MROZOWA (NZ)"
+}, {
+	"id": "461",
+	"name": "BLOKOWA (NŻ)",
+	"nameD": "BLOKOWA (NZ)"
+}, {
+	"id": "462",
+	"name": "AGENCJA KRAKÓW WSCHÓD (NŻ)",
+	"nameD": "AGENCJA KRAKOW WSCHOD (NZ)"
+}, {
+	"id": "463",
+	"name": "WALCOWNIA",
+	"nameD": "WALCOWNIA"
+}, {
+	"id": "464",
+	"name": "ELEKTROMONTAŻ (NŻ)",
+	"nameD": "ELEKTROMONTAZ (NZ)"
+}, {
+	"id": "465",
+	"name": "ZAJEZDNIA NOWA HUTA",
+	"nameD": "ZAJEZDNIA NOWA HUTA"
+}, {
+	"id": "467",
+	"name": "LUBOCZA PKP (NŻ)",
+	"nameD": "LUBOCZA PKP (NZ)"
+}, {
+	"id": "468",
+	"name": "LUBOCZA BUGAJ (NŻ)",
+	"nameD": "LUBOCZA BUGAJ (NZ)"
+}, {
+	"id": "469",
+	"name": "LUBOCZA PRZYCHODNIA",
+	"nameD": "LUBOCZA PRZYCHODNIA"
+}, {
+	"id": "470",
+	"name": "LUBOCZA SZKOŁA",
+	"nameD": "LUBOCZA SZKOLA"
+}, {
+	"id": "471",
+	"name": "LUBOCZA TRAFO (NŻ)",
+	"nameD": "LUBOCZA TRAFO (NZ)"
+}, {
+	"id": "472",
+	"name": "LUBORZYCA",
+	"nameD": "LUBORZYCA"
+}, {
+	"id": "474",
+	"name": "DOJAZDÓW DZIAŁKI (NŻ)",
+	"nameD": "DOJAZDOW DZIALKI (NZ)"
+}, {
+	"id": "475",
+	"name": "DOJAZDÓW PKS",
+	"nameD": "DOJAZDOW PKS"
+}, {
+	"id": "476",
+	"name": "SULECHÓW (NŻ)",
+	"nameD": "SULECHOW (NZ)"
+}, {
+	"id": "477",
+	"name": "PRUSY WSR (NŻ)",
+	"nameD": "PRUSY WSR (NZ)"
+}, {
+	"id": "478",
+	"name": "PRUSY SZKOŁA (NŻ)",
+	"nameD": "PRUSY SZKOLA (NZ)"
+}, {
+	"id": "479",
+	"name": "PRUSSY",
+	"nameD": "PRUSSY"
+}, {
+	"id": "480",
+	"name": "ŁUCZANOWICE",
+	"nameD": "LUCZANOWICE"
+}, {
+	"id": "482",
+	"name": "ŁUCZANOWICE SKRZYŻOWANIE",
+	"nameD": "LUCZANOWICE SKRZYZOWANIE"
+}, {
+	"id": "483",
+	"name": "WADÓW OSIEDLE (NŻ)",
+	"nameD": "WADOW OSIEDLE (NZ)"
+}, {
+	"id": "484",
+	"name": "WADÓW SZKOŁA",
+	"nameD": "WADOW SZKOLA"
+}, {
+	"id": "485",
+	"name": "WADÓW",
+	"nameD": "WADOW"
+}, {
+	"id": "486",
+	"name": "WADOWSKA (NŻ)",
+	"nameD": "WADOWSKA (NZ)"
+}, {
+	"id": "487",
+	"name": "WĘGRZYNOWICE",
+	"nameD": "WEGRZYNOWICE"
+}, {
+	"id": "488",
+	"name": "WĘGRZYNOWICE CENTRUM (NŻ)",
+	"nameD": "WEGRZYNOWICE CENTRUM (NZ)"
+}, {
+	"id": "492",
+	"name": "WADÓW DZIAŁKI (NŻ)",
+	"nameD": "WADOW DZIALKI (NZ)"
+}, {
+	"id": "496",
+	"name": "CZULICE I (NŻ)",
+	"nameD": "CZULICE I (NZ)"
+}, {
+	"id": "499",
+	"name": "WRÓŻENICE",
+	"nameD": "WROZENICE"
+}, {
+	"id": "502",
+	"name": "RESZTÓWKA",
+	"nameD": "RESZTOWKA"
+}, {
+	"id": "503",
+	"name": "ZABŁOCIE KOŚCIELNICKIE (NŻ)",
+	"nameD": "ZABLOCIE KOSCIELNICKIE (NZ)"
+}, {
+	"id": "505",
+	"name": "BŁONIA KOŚCIELNICKIE (NŻ)",
+	"nameD": "BLONIA KOSCIELNICKIE (NZ)"
+}, {
+	"id": "506",
+	"name": "JANÓWKA (NŻ)",
+	"nameD": "JANOWKA (NZ)"
+}, {
+	"id": "508",
+	"name": "WYCIĄŻE (NŻ)",
+	"nameD": "WYCIAZE (NZ)"
+}, {
+	"id": "510",
+	"name": "IGOŁOMSKA (NŻ)",
+	"nameD": "IGOLOMSKA (NZ)"
+}, {
+	"id": "511",
+	"name": "ZAKŁAD PRZERÓBKI (NŻ)",
+	"nameD": "ZAKLAD PRZEROBKI (NZ)"
+}, {
+	"id": "512",
+	"name": "BRANICE PAGÓREK (NŻ)",
+	"nameD": "BRANICE PAGOREK (NZ)"
+}, {
+	"id": "513",
+	"name": "BRANICE NA DOLE (NŻ)",
+	"nameD": "BRANICE NA DOLE (NZ)"
+}, {
+	"id": "515",
+	"name": "WYCIĄŻE SKLEP (NŻ)",
+	"nameD": "WYCIAZE SKLEP (NZ)"
+}, {
+	"id": "517",
+	"name": "PODSTAWIE (NŻ)",
+	"nameD": "PODSTAWIE (NZ)"
+}, {
+	"id": "518",
+	"name": "DROŻYSKA (NŻ)",
+	"nameD": "DROZYSKA (NZ)"
+}, {
+	"id": "520",
+	"name": "RUSZCZA",
+	"nameD": "RUSZCZA"
+}, {
+	"id": "521",
+	"name": "WYCIĄŻE WIADUKT (NŻ)",
+	"nameD": "WYCIAZE WIADUKT (NZ)"
+}, {
+	"id": "522",
+	"name": "CŁO",
+	"nameD": "CLO"
+}, {
+	"id": "525",
+	"name": "CHAŁUPKI",
+	"nameD": "CHALUPKI"
+}, {
+	"id": "527",
+	"name": "KĄKOLOWA (NŻ)",
+	"nameD": "KAKOLOWA (NZ)"
+}, {
+	"id": "530",
+	"name": "BRANICE (NŻ)",
+	"nameD": "BRANICE (NZ)"
+}, {
+	"id": "531",
+	"name": "BRANICE SZKOŁA",
+	"nameD": "BRANICE SZKOLA"
+}, {
+	"id": "532",
+	"name": "PRZYLASEK RUSIECKI",
+	"nameD": "PRZYLASEK RUSIECKI"
+}, {
+	"id": "534",
+	"name": "ŻWIROWNIA",
+	"nameD": "ZWIROWNIA"
+}, {
+	"id": "536",
+	"name": "WOLICA MOST",
+	"nameD": "WOLICA MOST"
+}, {
+	"id": "537",
+	"name": "WOLICA LAS",
+	"nameD": "WOLICA LAS"
+}, {
+	"id": "538",
+	"name": "WOLICA KOŚCIÓŁ (NŻ)",
+	"nameD": "WOLICA KOSCIOL (NZ)"
+}, {
+	"id": "539",
+	"name": "WOLICA (NŻ)",
+	"nameD": "WOLICA (NZ)"
+}, {
+	"id": "540",
+	"name": "WOLICA SKLEP (NŻ)",
+	"nameD": "WOLICA SKLEP (NZ)"
+}, {
+	"id": "541",
+	"name": "BARTNICZA (NŻ)",
+	"nameD": "BARTNICZA (NZ)"
+}, {
+	"id": "542",
+	"name": "SIEJÓWKA (NŻ)",
+	"nameD": "SIEJOWKA (NZ)"
+}, {
+	"id": "543",
+	"name": "PRZYLASEK WYCIĄSKI (NŻ)",
+	"nameD": "PRZYLASEK WYCIASKI (NZ)"
+}, {
+	"id": "544",
+	"name": "KUJAWY",
+	"nameD": "KUJAWY"
+}, {
+	"id": "546",
+	"name": "KAROWA (NŻ)",
+	"nameD": "KAROWA (NZ)"
+}, {
+	"id": "549",
+	"name": "NA ZAŁĘCZU SZKOŁA (NŻ)",
+	"nameD": "NA ZALECZU SZKOLA (NZ)"
+}, {
+	"id": "550",
+	"name": "NA ZAŁĘCZU",
+	"nameD": "NA ZALECZU"
+}, {
+	"id": "552",
+	"name": "HABINA (NŻ)",
+	"nameD": "HABINA (NZ)"
+}, {
+	"id": "553",
+	"name": "ODMĘTOWA",
+	"nameD": "ODMETOWA"
+}, {
+	"id": "554",
+	"name": "LESISKO",
+	"nameD": "LESISKO"
+}, {
+	"id": "558",
+	"name": "STOCZNIOWCÓW",
+	"nameD": "STOCZNIOWCOW"
+}, {
+	"id": "559",
+	"name": "SASKA",
+	"nameD": "SASKA"
+}, {
+	"id": "560",
+	"name": "GROMADZKA",
+	"nameD": "GROMADZKA"
+}, {
+	"id": "561",
+	"name": "LIPSKA",
+	"nameD": "LIPSKA"
+}, {
+	"id": "562",
+	"name": "SZCZECIŃSKA",
+	"nameD": "SZCZECINSKA"
+}, {
+	"id": "563",
+	"name": "ŁANOWA",
+	"nameD": "LANOWA"
+}, {
+	"id": "564",
+	"name": "PŁASZÓW SZKOŁA",
+	"nameD": "PLASZOW SZKOLA"
+}, {
+	"id": "565",
+	"name": "MOTYLA",
+	"nameD": "MOTYLA"
+}, {
+	"id": "567",
+	"name": "KUKLIŃSKIEGO",
+	"nameD": "KUKLINSKIEGO"
+}, {
+	"id": "570",
+	"name": "PLAC BOHATERÓW GETTA",
+	"nameD": "PLAC BOHATEROW GETTA"
+}, {
+	"id": "571",
+	"name": "KORONA",
+	"nameD": "KORONA"
+}, {
+	"id": "572",
+	"name": "SMOLKI",
+	"nameD": "SMOLKI"
+}, {
+	"id": "575",
+	"name": "SZWEDZKA",
+	"nameD": "SZWEDZKA"
+}, {
+	"id": "576",
+	"name": "KAPELANKA",
+	"nameD": "KAPELANKA"
+}, {
+	"id": "577",
+	"name": "SŁOMIANA",
+	"nameD": "SLOMIANA"
+}, {
+	"id": "578",
+	"name": "BAŁUCKIEGO (NŻ)",
+	"nameD": "BALUCKIEGO (NZ)"
+}, {
+	"id": "579",
+	"name": "RYNEK DĘBNICKI",
+	"nameD": "RYNEK DEBNICKI"
+}, {
+	"id": "580",
+	"name": "PRASKA (NŻ)",
+	"nameD": "PRASKA (NZ)"
+}, {
+	"id": "581",
+	"name": "ZIELIŃSKIEGO (NŻ)",
+	"nameD": "ZIELINSKIEGO (NZ)"
+}, {
+	"id": "582",
+	"name": "OS. ROBOTNICZE",
+	"nameD": "OS. ROBOTNICZE"
+}, {
+	"id": "584",
+	"name": "KOBIERZYŃSKA",
+	"nameD": "KOBIERZYNSKA"
+}, {
+	"id": "589",
+	"name": "RUCZAJ",
+	"nameD": "RUCZAJ"
+}, {
+	"id": "590",
+	"name": "ZACHODNIA",
+	"nameD": "ZACHODNIA"
+}, {
+	"id": "591",
+	"name": "TYNIEC KAMIENIOŁOM",
+	"nameD": "TYNIEC KAMIENIOLOM"
+}, {
+	"id": "592",
+	"name": "BOGUCIANKA",
+	"nameD": "BOGUCIANKA"
+}, {
+	"id": "593",
+	"name": "TYNIEC",
+	"nameD": "TYNIEC"
+}, {
+	"id": "597",
+	"name": "KOSTRZE KAPLICZKA (NŻ)",
+	"nameD": "KOSTRZE KAPLICZKA (NZ)"
+}, {
+	"id": "599",
+	"name": "KOSTRZE OSP",
+	"nameD": "KOSTRZE OSP"
+}, {
+	"id": "600",
+	"name": "DĄBROWA",
+	"nameD": "DABROWA"
+}, {
+	"id": "601",
+	"name": "KOSTRZE",
+	"nameD": "KOSTRZE"
+}, {
+	"id": "603",
+	"name": "PODGÓRKI TYNIECKIE",
+	"nameD": "PODGORKI TYNIECKIE"
+}, {
+	"id": "604",
+	"name": "SKOTNIKI SZKOŁA",
+	"nameD": "SKOTNIKI SZKOLA"
+}, {
+	"id": "605",
+	"name": "KOSTRZE SZKOŁA",
+	"nameD": "KOSTRZE SZKOLA"
+}, {
+	"id": "610",
+	"name": "RONDO MATECZNEGO",
+	"nameD": "RONDO MATECZNEGO"
+}, {
+	"id": "611",
+	"name": "RZEMIEŚLNICZA",
+	"nameD": "RZEMIESLNICZA"
+}, {
+	"id": "612",
+	"name": "BORSUCZA",
+	"nameD": "BORSUCZA"
+}, {
+	"id": "616",
+	"name": "RYNEK FAŁĘCKI",
+	"nameD": "RYNEK FALECKI"
+}, {
+	"id": "617",
+	"name": "FREDRY",
+	"nameD": "FREDRY"
+}, {
+	"id": "618",
+	"name": "SUCHA",
+	"nameD": "SUCHA"
+}, {
+	"id": "619",
+	"name": "KAMIEŃSKIEGO WIADUKT (NŻ)",
+	"nameD": "KAMIENSKIEGO WIADUKT (NZ)"
+}, {
+	"id": "620",
+	"name": "KAMIEŃSKIEGO",
+	"nameD": "KAMIENSKIEGO"
+}, {
+	"id": "621",
+	"name": "CMENTARZ PODGÓRSKI",
+	"nameD": "CMENTARZ PODGORSKI"
+}, {
+	"id": "623",
+	"name": "DWORCOWA",
+	"nameD": "DWORCOWA"
+}, {
+	"id": "624",
+	"name": "KABEL",
+	"nameD": "KABEL"
+}, {
+	"id": "625",
+	"name": "MALBORSKA",
+	"nameD": "MALBORSKA"
+}, {
+	"id": "626",
+	"name": "MAKOWA",
+	"nameD": "MAKOWA"
+}, {
+	"id": "628",
+	"name": "SŁAWKA (NŻ)",
+	"nameD": "SLAWKA (NZ)"
+}, {
+	"id": "629",
+	"name": "WOLA DUCHACKA",
+	"nameD": "WOLA DUCHACKA"
+}, {
+	"id": "630",
+	"name": "BIEŻANOWSKA",
+	"nameD": "BIEZANOWSKA"
+}, {
+	"id": "632",
+	"name": "DAUNA",
+	"nameD": "DAUNA"
+}, {
+	"id": "633",
+	"name": "PROSTA",
+	"nameD": "PROSTA"
+}, {
+	"id": "634",
+	"name": "WLOTOWA",
+	"nameD": "WLOTOWA"
+}, {
+	"id": "636",
+	"name": "MŁODZIEŻY (NŻ)",
+	"nameD": "MLODZIEZY (NZ)"
+}, {
+	"id": "638",
+	"name": "BRZEGI",
+	"nameD": "BRZEGI"
+}, {
+	"id": "639",
+	"name": "BRZEGI I",
+	"nameD": "BRZEGI I"
+}, {
+	"id": "640",
+	"name": "ŁUTNIA",
+	"nameD": "LUTNIA"
+}, {
+	"id": "641",
+	"name": "PRZEWÓZ",
+	"nameD": "PRZEWOZ"
+}, {
+	"id": "643",
+	"name": "WROBELA",
+	"nameD": "WROBELA"
+}, {
+	"id": "644",
+	"name": "PODWIERZBIE",
+	"nameD": "PODWIERZBIE"
+}, {
+	"id": "645",
+	"name": "NAD DRWINĄ",
+	"nameD": "NAD DRWINA"
+}, {
+	"id": "646",
+	"name": "DOMAGAŁY (NŻ)",
+	"nameD": "DOMAGALY (NZ)"
+}, {
+	"id": "651",
+	"name": "SZPARAGOWA",
+	"nameD": "SZPARAGOWA"
+}, {
+	"id": "652",
+	"name": "RYBITWY ROZJAZD (NŻ)",
+	"nameD": "RYBITWY ROZJAZD (NZ)"
+}, {
+	"id": "653",
+	"name": "RYBITWY DOM KULTURY",
+	"nameD": "RYBITWY DOM KULTURY"
+}, {
+	"id": "654",
+	"name": "RYBITWY SKLEP (NŻ)",
+	"nameD": "RYBITWY SKLEP (NZ)"
+}, {
+	"id": "655",
+	"name": "JEŻOWA",
+	"nameD": "JEZOWA"
+}, {
+	"id": "660",
+	"name": "PŁK. DĄBKA",
+	"nameD": "PLK. DABKA"
+}, {
+	"id": "662",
+	"name": "BIEŻANÓW TRAFO",
+	"nameD": "BIEZANOW TRAFO"
+}, {
+	"id": "663",
+	"name": "BIEŻANÓW SZKOŁA",
+	"nameD": "BIEZANOW SZKOLA"
+}, {
+	"id": "665",
+	"name": "BIEŻANÓW POMNIK",
+	"nameD": "BIEZANOW POMNIK"
+}, {
+	"id": "666",
+	"name": "SUCHARSKIEGO (NŻ)",
+	"nameD": "SUCHARSKIEGO (NZ)"
+}, {
+	"id": "667",
+	"name": "BIEŻANÓW",
+	"nameD": "BIEZANOW"
+}, {
+	"id": "668",
+	"name": "JASIEŃSKIEGO (NŻ)",
+	"nameD": "JASIENSKIEGO (NZ)"
+}, {
+	"id": "670",
+	"name": "BIEŻANÓW POTRZASK",
+	"nameD": "BIEZANOW POTRZASK"
+}, {
+	"id": "671",
+	"name": "PRUSZYŃSKIEGO",
+	"nameD": "PRUSZYNSKIEGO"
+}, {
+	"id": "672",
+	"name": "BIEŻANÓW KAIM",
+	"nameD": "BIEZANOW KAIM"
+}, {
+	"id": "675",
+	"name": "KS.ŁACZKA (NŻ)",
+	"nameD": "KS.LACZKA (NZ)"
+}, {
+	"id": "679",
+	"name": "ĆWIKLIŃSKIEJ",
+	"nameD": "ĆWIKLINSKIEJ"
+}, {
+	"id": "681",
+	"name": "TELIGI",
+	"nameD": "TELIGI"
+}, {
+	"id": "682",
+	"name": "PROKOCIM SZPITAL",
+	"nameD": "PROKOCIM SZPITAL"
+}, {
+	"id": "683",
+	"name": "WYDZIAŁ FARMACEUTYCZNY UJ",
+	"nameD": "WYDZIAL FARMACEUTYCZNY UJ"
+}, {
+	"id": "684",
+	"name": "PROKOCIM UJ",
+	"nameD": "PROKOCIM UJ"
+}, {
+	"id": "685",
+	"name": "INSTYTUT PEDIATRII",
+	"nameD": "INSTYTUT PEDIATRII"
+}, {
+	"id": "686",
+	"name": "DOM SPOKOJNEJ STAROŚCI",
+	"nameD": "DOM SPOKOJNEJ STAROSCI"
+}, {
+	"id": "687",
+	"name": "PIASKI WIELKIE",
+	"nameD": "PIASKI WIELKIE"
+}, {
+	"id": "694",
+	"name": "LANDAUA",
+	"nameD": "LANDAUA"
+}, {
+	"id": "695",
+	"name": "RAJSKO",
+	"nameD": "RAJSKO"
+}, {
+	"id": "699",
+	"name": "SOBONIOWICE",
+	"nameD": "SOBONIOWICE"
+}, {
+	"id": "702",
+	"name": "KRZEMIENIECKA (NŻ)",
+	"nameD": "KRZEMIENIECKA (NZ)"
+}, {
+	"id": "703",
+	"name": "BARYCZ (NŻ)",
+	"nameD": "BARYCZ (NZ)"
+}, {
+	"id": "706",
+	"name": "KOSOCICE",
+	"nameD": "KOSOCICE"
+}, {
+	"id": "709",
+	"name": "KURDWANÓW SZKOŁA",
+	"nameD": "KURDWANOW SZKOLA"
+}, {
+	"id": "710",
+	"name": "OS. KURDWANÓW",
+	"nameD": "OS. KURDWANOW"
+}, {
+	"id": "711",
+	"name": "STOJAŁOWSKIEGO",
+	"nameD": "STOJALOWSKIEGO"
+}, {
+	"id": "714",
+	"name": "TUCHOWSKA",
+	"nameD": "TUCHOWSKA"
+}, {
+	"id": "715",
+	"name": "NOWOSĄDECKA",
+	"nameD": "NOWOSADECKA"
+}, {
+	"id": "716",
+	"name": "PIASKI NOWE",
+	"nameD": "PIASKI NOWE"
+}, {
+	"id": "717",
+	"name": "KARPIŃSKIEGO",
+	"nameD": "KARPINSKIEGO"
+}, {
+	"id": "718",
+	"name": "WITOSA",
+	"nameD": "WITOSA"
+}, {
+	"id": "721",
+	"name": "ZBYDNIOWICE",
+	"nameD": "ZBYDNIOWICE"
+}, {
+	"id": "722",
+	"name": "LUSINA DOLNA (NŻ)",
+	"nameD": "LUSINA DOLNA (NZ)"
+}, {
+	"id": "723",
+	"name": "UKRAINA (NŻ)",
+	"nameD": "UKRAINA (NZ)"
+}, {
+	"id": "728",
+	"name": "CHAŁUBIŃSKIEGO (NŻ)",
+	"nameD": "CHALUBINSKIEGO (NZ)"
+}, {
+	"id": "729",
+	"name": "WRÓBLOWICE SZKOŁA",
+	"nameD": "WROBLOWICE SZKOLA"
+}, {
+	"id": "730",
+	"name": "PYTLASIŃSKIEGO",
+	"nameD": "PYTLASINSKIEGO"
+}, {
+	"id": "732",
+	"name": "SWOSZOWICE POCZTA",
+	"nameD": "SWOSZOWICE POCZTA"
+}, {
+	"id": "737",
+	"name": "WILGA (NŻ)",
+	"nameD": "WILGA (NZ)"
+}, {
+	"id": "739",
+	"name": "SWOSZOWICE AUTOSTRADA (NŻ)",
+	"nameD": "SWOSZOWICE AUTOSTRADA (NZ)"
+}, {
+	"id": "740",
+	"name": "MYŚLENICKA (NŻ)",
+	"nameD": "MYSLENICKA (NZ)"
+}, {
+	"id": "741",
+	"name": "HALSZKI",
+	"nameD": "HALSZKI"
+}, {
+	"id": "742",
+	"name": "JUGOWICKA",
+	"nameD": "JUGOWICKA"
+}, {
+	"id": "743",
+	"name": "BUJAKA",
+	"nameD": "BUJAKA"
+}, {
+	"id": "744",
+	"name": "KURDWANÓW",
+	"nameD": "KURDWANOW"
+}, {
+	"id": "745",
+	"name": "PRZYKOPY (NŻ)",
+	"nameD": "PRZYKOPY (NZ)"
+}, {
+	"id": "746",
+	"name": "SOLVAY",
+	"nameD": "SOLVAY"
+}, {
+	"id": "747",
+	"name": "BOREK FAŁĘCKI",
+	"nameD": "BOREK FALECKI"
+}, {
+	"id": "748",
+	"name": "ŻYWIECKA",
+	"nameD": "ZYWIECKA"
+}, {
+	"id": "749",
+	"name": "GÓRA BORKOWSKA (NŻ)",
+	"nameD": "GORA BORKOWSKA (NZ)"
+}, {
+	"id": "750",
+	"name": "LAS BORKOWSKI",
+	"nameD": "LAS BORKOWSKI"
+}, {
+	"id": "751",
+	"name": "ZAWIŁA (NŻ)",
+	"nameD": "ZAWILA (NZ)"
+}, {
+	"id": "752",
+	"name": "SKOŚNA",
+	"nameD": "SKOSNA"
+}, {
+	"id": "753",
+	"name": "BORKOWSKA",
+	"nameD": "BORKOWSKA"
+}, {
+	"id": "754",
+	"name": "FORTECZNA",
+	"nameD": "FORTECZNA"
+}, {
+	"id": "755",
+	"name": "ZAWISZY",
+	"nameD": "ZAWISZY"
+}, {
+	"id": "756",
+	"name": "OS. KLINY",
+	"nameD": "OS. KLINY"
+}, {
+	"id": "758",
+	"name": "JUDYMA",
+	"nameD": "JUDYMA"
+}, {
+	"id": "759",
+	"name": "KĄPIELOWA (NŻ)",
+	"nameD": "KAPIELOWA (NZ)"
+}, {
+	"id": "760",
+	"name": "OPATKOWICE WIADUKT (NŻ)",
+	"nameD": "OPATKOWICE WIADUKT (NZ)"
+}, {
+	"id": "761",
+	"name": "OPATKOWICE",
+	"nameD": "OPATKOWICE"
+}, {
+	"id": "765",
+	"name": "BRÜCKNERA",
+	"nameD": "BRÜCKNERA"
+}, {
+	"id": "766",
+	"name": "SKOTNIKI",
+	"nameD": "SKOTNIKI"
+}, {
+	"id": "767",
+	"name": "BABIŃSKIEGO",
+	"nameD": "BABINSKIEGO"
+}, {
+	"id": "768",
+	"name": "KOBIERZYN",
+	"nameD": "KOBIERZYN"
+}, {
+	"id": "772",
+	"name": "SIDZINA",
+	"nameD": "SIDZINA"
+}, {
+	"id": "779",
+	"name": "SKAWINA",
+	"nameD": "SKAWINA"
+}, {
+	"id": "781",
+	"name": "SKAWINA RYNEK",
+	"nameD": "SKAWINA RYNEK"
+}, {
+	"id": "785",
+	"name": "SKAWINA RZEPNIK",
+	"nameD": "SKAWINA RZEPNIK"
+}, {
+	"id": "786",
+	"name": "RADZISZÓW WŁOSANKA (NŻ)",
+	"nameD": "RADZISZOW WLOSANKA (NZ)"
+}, {
+	"id": "787",
+	"name": "RADZISZÓW ZADWORZE (NŻ)",
+	"nameD": "RADZISZOW ZADWORZE (NZ)"
+}, {
+	"id": "788",
+	"name": "RADZISZÓW CENTRUM",
+	"nameD": "RADZISZOW CENTRUM"
+}, {
+	"id": "789",
+	"name": "RADZISZÓW KAMIONNA (NŻ)",
+	"nameD": "RADZISZOW KAMIONNA (NZ)"
+}, {
+	"id": "790",
+	"name": "GAJ SZKOŁA",
+	"nameD": "GAJ SZKOLA"
+}, {
+	"id": "791",
+	"name": "GAJ ZADZIELE",
+	"nameD": "GAJ ZADZIELE"
+}, {
+	"id": "792",
+	"name": "MOGILANY RYNEK",
+	"nameD": "MOGILANY RYNEK"
+}, {
+	"id": "793",
+	"name": "MOGILANY OŚRODEK ZDROWIA (NŻ)",
+	"nameD": "MOGILANY OSRODEK ZDROWIA (NZ)"
+}, {
+	"id": "794",
+	"name": "MOGILANY WIADUKT (NŻ)",
+	"nameD": "MOGILANY WIADUKT (NZ)"
+}, {
+	"id": "797",
+	"name": "RADZISZÓW LEŚNICZÓWKA (NŻ)",
+	"nameD": "RADZISZOW LESNICZOWKA (NZ)"
+}, {
+	"id": "798",
+	"name": "RADZISZÓW PODLESIE (NŻ)",
+	"nameD": "RADZISZOW PODLESIE (NZ)"
+}, {
+	"id": "799",
+	"name": "KONARY",
+	"nameD": "KONARY"
+}, {
+	"id": "801",
+	"name": "LUSINA GÓRKA (NŻ)",
+	"nameD": "LUSINA GORKA (NZ)"
+}, {
+	"id": "805",
+	"name": "KONARY WŁOSAŃ (NŻ)",
+	"nameD": "KONARY WLOSAN (NZ)"
+}, {
+	"id": "806",
+	"name": "MOGILANY WŁOSAŃ (NŻ)",
+	"nameD": "MOGILANY WLOSAN (NZ)"
+}, {
+	"id": "807",
+	"name": "WŁOSAŃ",
+	"nameD": "WLOSAN"
+}, {
+	"id": "808",
+	"name": "WŁOSAŃ KRZYŻÓWKA (NŻ)",
+	"nameD": "WLOSAN KRZYZOWKA (NZ)"
+}, {
+	"id": "809",
+	"name": "WŁOSAŃ KOPAŃ (NŻ)",
+	"nameD": "WLOSAN KOPAN (NZ)"
+}, {
+	"id": "810",
+	"name": "BORA-KOMOROWSKIEGO",
+	"nameD": "BORA-KOMOROWSKIEGO"
+}, {
+	"id": "811",
+	"name": "ZŁOCIEŃ",
+	"nameD": "ZLOCIEN"
+}, {
+	"id": "812",
+	"name": "PODGAJE",
+	"nameD": "PODGAJE"
+}, {
+	"id": "816",
+	"name": "SMOLEŃSKIEGO",
+	"nameD": "SMOLENSKIEGO"
+}, {
+	"id": "817",
+	"name": "PB",
+	"nameD": "PB"
+}, {
+	"id": "818",
+	"name": "PW",
+	"nameD": "PW"
+}, {
+	"id": "819",
+	"name": "PP",
+	"nameD": "PP"
+}, {
+	"id": "822",
+	"name": "CONRADA",
+	"nameD": "CONRADA"
+}, {
+	"id": "823",
+	"name": "OLEANDRY",
+	"nameD": "OLEANDRY"
+}, {
+	"id": "827",
+	"name": "SZPITAL RYDYGIERA",
+	"nameD": "SZPITAL RYDYGIERA"
+}, {
+	"id": "830",
+	"name": "KOMUNY PARYSKIEJ",
+	"nameD": "KOMUNY PARYSKIEJ"
+}, {
+	"id": "832",
+	"name": "JASNOGÓRSKA (NŻ)",
+	"nameD": "JASNOGORSKA (NZ)"
+}, {
+	"id": "833",
+	"name": "PORONIŃSKA (NŻ)",
+	"nameD": "PORONINSKA (NZ)"
+}, {
+	"id": "834",
+	"name": "ŻYZNA (NŻ)",
+	"nameD": "ZYZNA (NZ)"
+}, {
+	"id": "836",
+	"name": "DWÓR CZECZÓW",
+	"nameD": "DWOR CZECZOW"
+}, {
+	"id": "837",
+	"name": "LIPOWSKIEGO (NŻ)",
+	"nameD": "LIPOWSKIEGO (NZ)"
+}, {
+	"id": "838",
+	"name": "EC ŁĘG",
+	"nameD": "EC LEG"
+}, {
+	"id": "839",
+	"name": "ZATYKA (NŻ)",
+	"nameD": "ZATYKA (NZ)"
+}, {
+	"id": "840",
+	"name": "ISEP (NŻ)",
+	"nameD": "ISEP (NZ)"
+}, {
+	"id": "842",
+	"name": "RZESZOTARY ZALESIE (NŻ)",
+	"nameD": "RZESZOTARY ZALESIE (NZ)"
+}, {
+	"id": "845",
+	"name": "ŚWIĄTNIKI SKRZYŻOWANIE (NŻ)",
+	"nameD": "SWIATNIKI SKRZYZOWANIE (NZ)"
+}, {
+	"id": "847",
+	"name": "ŚWIĄTNIKI CENTRUM",
+	"nameD": "SWIATNIKI CENTRUM"
+}, {
+	"id": "855",
+	"name": "RZESZOTARY",
+	"nameD": "RZESZOTARY"
+}, {
+	"id": "856",
+	"name": "RZESZOTARY TRAFO (NŻ)",
+	"nameD": "RZESZOTARY TRAFO (NZ)"
+}, {
+	"id": "857",
+	"name": "RZESZOTARY SZKOŁA (NŻ)",
+	"nameD": "RZESZOTARY SZKOLA (NZ)"
+}, {
+	"id": "858",
+	"name": "RZESZOTARY POLANKI (NŻ)",
+	"nameD": "RZESZOTARY POLANKI (NZ)"
+}, {
+	"id": "859",
+	"name": "RZESZOTARY GÓRNE (NŻ)",
+	"nameD": "RZESZOTARY GORNE (NZ)"
+}, {
+	"id": "860",
+	"name": "OCHOJNO SKRZYŻOWANIE",
+	"nameD": "OCHOJNO SKRZYZOWANIE"
+}, {
+	"id": "861",
+	"name": "OCHOJNO REMIZA",
+	"nameD": "OCHOJNO REMIZA"
+}, {
+	"id": "863",
+	"name": "OCHOJNO KAMIENIEC",
+	"nameD": "OCHOJNO KAMIENIEC"
+}, {
+	"id": "866",
+	"name": "WIKLINOWA (NŻ)",
+	"nameD": "WIKLINOWA (NZ)"
+}, {
+	"id": "867",
+	"name": "BIEŃCZYCKA",
+	"nameD": "BIENCZYCKA"
+}, {
+	"id": "868",
+	"name": "PIEKARY GÓRNE",
+	"nameD": "PIEKARY GORNE"
+}, {
+	"id": "869",
+	"name": "SZAFRAŃSKA",
+	"nameD": "SZAFRANSKA"
+}, {
+	"id": "870",
+	"name": "PRĄDNIK BIAŁY ZACHÓD",
+	"nameD": "PRADNIK BIALY ZACHOD"
+}, {
+	"id": "871",
+	"name": "SZCZYGLICE DOM KULTURY",
+	"nameD": "SZCZYGLICE DOM KULTURY"
+}, {
+	"id": "876",
+	"name": "GŁĘBOKA",
+	"nameD": "GLEBOKA"
+}, {
+	"id": "877",
+	"name": "KARNIÓW",
+	"nameD": "KARNIOW"
+}, {
+	"id": "878",
+	"name": "CZULICE",
+	"nameD": "CZULICE"
+}, {
+	"id": "880",
+	"name": "MALBORSKA SZKOŁA",
+	"nameD": "MALBORSKA SZKOLA"
+}, {
+	"id": "881",
+	"name": "BUKÓW",
+	"nameD": "BUKOW"
+}, {
+	"id": "882",
+	"name": "BUKÓW KLIN (NŻ)",
+	"nameD": "BUKOW KLIN (NZ)"
+}, {
+	"id": "883",
+	"name": "BUKÓW SZKOŁA (NŻ)",
+	"nameD": "BUKOW SZKOLA (NZ)"
+}, {
+	"id": "884",
+	"name": "KULERZÓW (NŻ)",
+	"nameD": "KULERZOW (NZ)"
+}, {
+	"id": "885",
+	"name": "KULERZÓW WĄWÓZ (NŻ)",
+	"nameD": "KULERZOW WAWOZ (NZ)"
+}, {
+	"id": "886",
+	"name": "CHOROWICE",
+	"nameD": "CHOROWICE"
+}, {
+	"id": "888",
+	"name": "MOGILANY CMENTARZ (NŻ)",
+	"nameD": "MOGILANY CMENTARZ (NZ)"
+}, {
+	"id": "892",
+	"name": "BALICE OSP (NŻ)",
+	"nameD": "BALICE OSP (NZ)"
+}, {
+	"id": "893",
+	"name": "WOŁOWICE SZKOŁA",
+	"nameD": "WOLOWICE SZKOLA"
+}, {
+	"id": "894",
+	"name": "WOŁOWICE (NŻ)",
+	"nameD": "WOLOWICE (NZ)"
+}, {
+	"id": "897",
+	"name": "CMENTARZ BATOWICE",
+	"nameD": "CMENTARZ BATOWICE"
+}, {
+	"id": "898",
+	"name": "WIELICZKA CMENTARZ",
+	"nameD": "WIELICZKA CMENTARZ"
+}, {
+	"id": "903",
+	"name": "ŚLÓSARCZYKA",
+	"nameD": "SLOSARCZYKA"
+}, {
+	"id": "904",
+	"name": "PRZY KUŹNI (NŻ)",
+	"nameD": "PRZY KUZNI (NZ)"
+}, {
+	"id": "905",
+	"name": "MICHAŁOWICE KOŹLICA (NŻ)",
+	"nameD": "MICHALOWICE KOZLICA (NZ)"
+}, {
+	"id": "907",
+	"name": "DĄBROWA SZLACHECKA FIGURKA (NŻ)",
+	"nameD": "DABROWA SZLACHECKA FIGURKA (NZ)"
+}, {
+	"id": "909",
+	"name": "WOŁOWICE KAPLICZKA",
+	"nameD": "WOLOWICE KAPLICZKA"
+}, {
+	"id": "910",
+	"name": "DĄBROWA SZLACHECKA KRZYŻ (NŻ)",
+	"nameD": "DABROWA SZLACHECKA KRZYZ (NZ)"
+}, {
+	"id": "911",
+	"name": "WIELICZKA KOŚCIÓŁ",
+	"nameD": "WIELICZKA KOSCIOL"
+}, {
+	"id": "916",
+	"name": "ZAGÓRZYCE DWORSKIE",
+	"nameD": "ZAGORZYCE DWORSKIE"
+}, {
+	"id": "917",
+	"name": "ZAGÓRZYCE STARE (NŻ)",
+	"nameD": "ZAGORZYCE STARE (NZ)"
+}, {
+	"id": "919",
+	"name": "TISCHNERA",
+	"nameD": "TISCHNERA"
+}, {
+	"id": "920",
+	"name": "CZERWIAKOWSKIEGO",
+	"nameD": "CZERWIAKOWSKIEGO"
+}, {
+	"id": "922",
+	"name": "ŁAGIEWNIKI",
+	"nameD": "LAGIEWNIKI"
+}, {
+	"id": "923",
+	"name": "BESKIDZKA",
+	"nameD": "BESKIDZKA"
+}, {
+	"id": "930",
+	"name": "M1 AL. POKOJU",
+	"nameD": "M1 AL. POKOJU"
+}, {
+	"id": "931",
+	"name": "HERBERTA (NŻ)",
+	"nameD": "HERBERTA (NZ)"
+}, {
+	"id": "933",
+	"name": "IWANOWICE",
+	"nameD": "IWANOWICE"
+}, {
+	"id": "934",
+	"name": "KRASIENIEC ZAKUPNY",
+	"nameD": "KRASIENIEC ZAKUPNY"
+}, {
+	"id": "935",
+	"name": "KLINY ZACISZE",
+	"nameD": "KLINY ZACISZE"
+}, {
+	"id": "936",
+	"name": "TORFOWA",
+	"nameD": "TORFOWA"
+}, {
+	"id": "937",
+	"name": "LUBOSTROŃ (NŻ)",
+	"nameD": "LUBOSTRON (NZ)"
+}, {
+	"id": "939",
+	"name": "OS. NA STOKU",
+	"nameD": "OS. NA STOKU"
+}, {
+	"id": "941",
+	"name": "MAŁA GÓRA (NŻ)",
+	"nameD": "MALA GORA (NZ)"
+}, {
+	"id": "943",
+	"name": "SIEBOROWICE (NŻ)",
+	"nameD": "SIEBOROWICE (NZ)"
+}, {
+	"id": "944",
+	"name": "POD FORTEM",
+	"nameD": "POD FORTEM"
+}, {
+	"id": "945",
+	"name": "KENARA (NŻ)",
+	"nameD": "KENARA (NZ)"
+}, {
+	"id": "946",
+	"name": "KLIMECKIEGO",
+	"nameD": "KLIMECKIEGO"
+}, {
+	"id": "949",
+	"name": "WOLA LUBORZYCKA (NŻ)",
+	"nameD": "WOLA LUBORZYCKA (NZ)"
+}, {
+	"id": "950",
+	"name": "WOLA LUBORZYCKA LAS (NŻ)",
+	"nameD": "WOLA LUBORZYCKA LAS (NZ)"
+}, {
+	"id": "951",
+	"name": "ŁOSOSKOWICE",
+	"nameD": "LOSOSKOWICE"
+}, {
+	"id": "952",
+	"name": "ŁOSOSKOWICE SZKOŁA (NŻ)",
+	"nameD": "LOSOSKOWICE SZKOLA (NZ)"
+}, {
+	"id": "953",
+	"name": "SKRZESZOWICE",
+	"nameD": "SKRZESZOWICE"
+}, {
+	"id": "954",
+	"name": "GOSZYCE REMIZA (NŻ)",
+	"nameD": "GOSZYCE REMIZA (NZ)"
+}, {
+	"id": "955",
+	"name": "GOSZYCE (NŻ)",
+	"nameD": "GOSZYCE (NZ)"
+}, {
+	"id": "956",
+	"name": "POLANA ŻYWIECKA (NŻ)",
+	"nameD": "POLANA ZYWIECKA (NZ)"
+}, {
+	"id": "957",
+	"name": "URZĄD SKARBOWY NOWA HUTA",
+	"nameD": "URZAD SKARBOWY NOWA HUTA"
+}, {
+	"id": "960",
+	"name": "PARK JORDANA (NŻ)",
+	"nameD": "PARK JORDANA (NZ)"
+}, {
+	"id": "961",
+	"name": "ZABIERZÓW MŁYN",
+	"nameD": "ZABIERZOW MLYN"
+}, {
+	"id": "963",
+	"name": "PANIEŃSKICH SKAŁ",
+	"nameD": "PANIENSKICH SKAL"
+}, {
+	"id": "964",
+	"name": "NIEPOŁOMICE KOLEJOWA (NŻ)",
+	"nameD": "NIEPOLOMICE KOLEJOWA (NZ)"
+}, {
+	"id": "965",
+	"name": "CZYŻYNY DWORZEC",
+	"nameD": "CZYZYNY DWORZEC"
+}, {
+	"id": "966",
+	"name": "TOR KAJAKOWY",
+	"nameD": "TOR KAJAKOWY"
+}, {
+	"id": "967",
+	"name": "SKRZYŻOWANIE DO PODCHRUŚCIA (NŻ)",
+	"nameD": "SKRZYZOWANIE DO PODCHRUSCIA (NZ)"
+}, {
+	"id": "968",
+	"name": "MODLNICA I KOLONIA (NŻ)",
+	"nameD": "MODLNICA I KOLONIA (NZ)"
+}, {
+	"id": "969",
+	"name": "MODLNICA II (NŻ)",
+	"nameD": "MODLNICA II (NZ)"
+}, {
+	"id": "970",
+	"name": "SZYCE II (NŻ)",
+	"nameD": "SZYCE II (NZ)"
+}, {
+	"id": "971",
+	"name": "SZYCE I (NŻ)",
+	"nameD": "SZYCE I (NZ)"
+}, {
+	"id": "972",
+	"name": "WIELKA WIEŚ (NŻ)",
+	"nameD": "WIELKA WIES (NZ)"
+}, {
+	"id": "973",
+	"name": "BIAŁY KOŚCIÓŁ (NŻ)",
+	"nameD": "BIALY KOSCIOL (NZ)"
+}, {
+	"id": "974",
+	"name": "MUROWNIA (NŻ)",
+	"nameD": "MUROWNIA (NZ)"
+}, {
+	"id": "975",
+	"name": "CZAJOWICE (NŻ)",
+	"nameD": "CZAJOWICE (NZ)"
+}, {
+	"id": "976",
+	"name": "BĘBŁO STARA WIEŚ (NŻ)",
+	"nameD": "BEBLO STARA WIES (NZ)"
+}, {
+	"id": "977",
+	"name": "BĘBŁO ŁABAJOWA (NŻ)",
+	"nameD": "BEBLO LABAJOWA (NZ)"
+}, {
+	"id": "978",
+	"name": "BĘBŁO LASEK (NŻ)",
+	"nameD": "BEBLO LASEK (NZ)"
+}, {
+	"id": "979",
+	"name": "BĘDKOWICE MOSUROWA (NŻ)",
+	"nameD": "BEDKOWICE MOSUROWA (NZ)"
+}, {
+	"id": "980",
+	"name": "BĘDKOWICE KAWIORY (NŻ)",
+	"nameD": "BEDKOWICE KAWIORY (NZ)"
+}, {
+	"id": "981",
+	"name": "BĘDKOWICE BORYNIA (NŻ)",
+	"nameD": "BEDKOWICE BORYNIA (NZ)"
+}, {
+	"id": "982",
+	"name": "BĘDKOWICE",
+	"nameD": "BEDKOWICE"
+}, {
+	"id": "983",
+	"name": "MODLNICZKA I (NŻ)",
+	"nameD": "MODLNICZKA I (NZ)"
+}, {
+	"id": "984",
+	"name": "MODLNICZKA",
+	"nameD": "MODLNICZKA"
+}, {
+	"id": "985",
+	"name": "MODLNICA SKRZYŻOWANIE (NŻ)",
+	"nameD": "MODLNICA SKRZYZOWANIE (NZ)"
+}, {
+	"id": "986",
+	"name": "MODLNICA",
+	"nameD": "MODLNICA"
+}, {
+	"id": "987",
+	"name": "TOMASZOWICE WEDONKA (NŻ)",
+	"nameD": "TOMASZOWICE WEDONKA (NZ)"
+}, {
+	"id": "988",
+	"name": "TOMASZOWICE I (NŻ)",
+	"nameD": "TOMASZOWICE I (NZ)"
+}, {
+	"id": "989",
+	"name": "TOMASZOWICE",
+	"nameD": "TOMASZOWICE"
+}, {
+	"id": "990",
+	"name": "TONIE GLINIKI (NŻ)",
+	"nameD": "TONIE GLINIKI (NZ)"
+}, {
+	"id": "994",
+	"name": "TROJADYN SKRZYŻOWANIE (NŻ)",
+	"nameD": "TROJADYN SKRZYZOWANIE (NZ)"
+}, {
+	"id": "995",
+	"name": "MEISSNERA",
+	"nameD": "MEISSNERA"
+}, {
+	"id": "998",
+	"name": "KRASNOWOLSKIEGO (NŻ)",
+	"nameD": "KRASNOWOLSKIEGO (NZ)"
+}, {
+	"id": "999",
+	"name": "TUROWICZA (NŻ)",
+	"nameD": "TUROWICZA (NZ)"
+}, {
+	"id": "1000",
+	"name": "LUSINA PĘTLA",
+	"nameD": "LUSINA PETLA"
+}, {
+	"id": "1001",
+	"name": "LUSINA SZKOŁA",
+	"nameD": "LUSINA SZKOLA"
+}, {
+	"id": "1002",
+	"name": "LUSINA SPACEROWA",
+	"nameD": "LUSINA SPACEROWA"
+}, {
+	"id": "1003",
+	"name": "LUSINA DWÓR",
+	"nameD": "LUSINA DWOR"
+}, {
+	"id": "1004",
+	"name": "PARK WODNY",
+	"nameD": "PARK WODNY"
+}, {
+	"id": "1007",
+	"name": "SKAWINA SZKOŁA",
+	"nameD": "SKAWINA SZKOLA"
+}, {
+	"id": "1008",
+	"name": "SKAWINA SĄD",
+	"nameD": "SKAWINA SAD"
+}, {
+	"id": "1011",
+	"name": "SKAWINA WOJSKA POLSKIEGO",
+	"nameD": "SKAWINA WOJSKA POLSKIEGO"
+}, {
+	"id": "1014",
+	"name": "POD LIPĄ (NŻ)",
+	"nameD": "POD LIPA (NZ)"
+}, {
+	"id": "1015",
+	"name": "MUZEUM ARMII KRAJOWEJ (NŻ)",
+	"nameD": "MUZEUM ARMII KRAJOWEJ (NZ)"
+}, {
+	"id": "1016",
+	"name": "BRZEZIE DZIAŁKI (NŻ)",
+	"nameD": "BRZEZIE DZIALKI (NZ)"
+}, {
+	"id": "1017",
+	"name": "UJAZD PĘTLA",
+	"nameD": "UJAZD PETLA"
+}, {
+	"id": "1021",
+	"name": "BRZEZIE NARODOWE (NŻ)",
+	"nameD": "BRZEZIE NARODOWE (NZ)"
+}, {
+	"id": "1025",
+	"name": "WIĘCKOWICE (NŻ)",
+	"nameD": "WIECKOWICE (NZ)"
+}, {
+	"id": "1027",
+	"name": "BRZEZINKA ZARZECZE (NŻ)",
+	"nameD": "BRZEZINKA ZARZECZE (NZ)"
+}, {
+	"id": "1028",
+	"name": "BRZEZINKA",
+	"nameD": "BRZEZINKA"
+}, {
+	"id": "1029",
+	"name": "BRZEZINKA SKRZYŻOWANIE",
+	"nameD": "BRZEZINKA SKRZYZOWANIE"
+}, {
+	"id": "1030",
+	"name": "RUDAWA BLOKI (NŻ)",
+	"nameD": "RUDAWA BLOKI (NZ)"
+}, {
+	"id": "1031",
+	"name": "RUDAWA KOŚCIÓŁ",
+	"nameD": "RUDAWA KOSCIOL"
+}, {
+	"id": "1032",
+	"name": "RADWANOWICE PĘTLA",
+	"nameD": "RADWANOWICE PETLA"
+}, {
+	"id": "1033",
+	"name": "RADWANOWICE I (NŻ)",
+	"nameD": "RADWANOWICE I (NZ)"
+}, {
+	"id": "1036",
+	"name": "PISARY (NŻ)",
+	"nameD": "PISARY (NZ)"
+}, {
+	"id": "1037",
+	"name": "PISARY KIOSK (NŻ)",
+	"nameD": "PISARY KIOSK (NZ)"
+}, {
+	"id": "1038",
+	"name": "PISARY MLECZARNIA (NŻ)",
+	"nameD": "PISARY MLECZARNIA (NZ)"
+}, {
+	"id": "1039",
+	"name": "RUDAWA SZKOŁA",
+	"nameD": "RUDAWA SZKOLA"
+}, {
+	"id": "1040",
+	"name": "MŁYNKA (NŻ)",
+	"nameD": "MLYNKA (NZ)"
+}, {
+	"id": "1041",
+	"name": "PISARY SKRZYŻOWANIE (NŻ)",
+	"nameD": "PISARY SKRZYZOWANIE (NZ)"
+}, {
+	"id": "1042",
+	"name": "NAWOJOWA GÓRA I (NŻ)",
+	"nameD": "NAWOJOWA GORA I (NZ)"
+}, {
+	"id": "1043",
+	"name": "NAWOJOWA GÓRA II (NŻ)",
+	"nameD": "NAWOJOWA GORA II (NZ)"
+}, {
+	"id": "1044",
+	"name": "KRZESZOWICE WITAMINKA (NŻ)",
+	"nameD": "KRZESZOWICE WITAMINKA (NZ)"
+}, {
+	"id": "1046",
+	"name": "MODLNICZKA TRZCIE (NŻ)",
+	"nameD": "MODLNICZKA TRZCIE (NZ)"
+}, {
+	"id": "1048",
+	"name": "BRZEZIE KULKA (NŻ)",
+	"nameD": "BRZEZIE KULKA (NZ)"
+}, {
+	"id": "1049",
+	"name": "GŁOWACKIEGO",
+	"nameD": "GLOWACKIEGO"
+}, {
+	"id": "1051",
+	"name": "FORT MOGIŁA (NŻ)",
+	"nameD": "FORT MOGILA (NZ)"
+}, {
+	"id": "1054",
+	"name": "KLESZCZÓW",
+	"nameD": "KLESZCZOW"
+}, {
+	"id": "1055",
+	"name": "MICHAŁOWICE UJĘCIE WODY (NŻ)",
+	"nameD": "MICHALOWICE UJECIE WODY (NZ)"
+}, {
+	"id": "1058",
+	"name": "MICHAŁOWICE BANASIÓWKA (NŻ)",
+	"nameD": "MICHALOWICE BANASIOWKA (NZ)"
+}, {
+	"id": "1059",
+	"name": "RUDAWA PKP",
+	"nameD": "RUDAWA PKP"
+}, {
+	"id": "1060",
+	"name": "DWORZEC GŁÓWNY WSCHÓD",
+	"nameD": "DWORZEC GLOWNY WSCHOD"
+}, {
+	"id": "1062",
+	"name": "JANASÓWKA (NŻ)",
+	"nameD": "JANASOWKA (NZ)"
+}, {
+	"id": "1063",
+	"name": "CZERWIEŃSKIEGO",
+	"nameD": "CZERWIENSKIEGO"
+}, {
+	"id": "1064",
+	"name": "RUDAWA MŁYN (NŻ)",
+	"nameD": "RUDAWA MLYN (NZ)"
+}, {
+	"id": "1065",
+	"name": "KOBYLANY REMIZA (NŻ)",
+	"nameD": "KOBYLANY REMIZA (NZ)"
+}, {
+	"id": "1066",
+	"name": "RONDO BAREI",
+	"nameD": "RONDO BAREI"
+}, {
+	"id": "1071",
+	"name": "BOSUTÓW DZIEKANOWICE (NŻ)",
+	"nameD": "BOSUTOW DZIEKANOWICE (NZ)"
+}, {
+	"id": "1073",
+	"name": "WĘGRZCE MAGICZNE WZGÓRZE (NŻ)",
+	"nameD": "WEGRZCE MAGICZNE WZGORZE (NZ)"
+}, {
+	"id": "1074",
+	"name": "WĘGRZCE CENTRUM MEDYCZNE (NŻ)",
+	"nameD": "WEGRZCE CENTRUM MEDYCZNE (NZ)"
+}, {
+	"id": "1079",
+	"name": "WĘGRZCE BŁONIE",
+	"nameD": "WEGRZCE BLONIE"
+}, {
+	"id": "1080",
+	"name": "WĘGRZCE PĘTLA",
+	"nameD": "WEGRZCE PETLA"
+}, {
+	"id": "1083",
+	"name": "BACZYŃSKIEGO (NŻ)",
+	"nameD": "BACZYNSKIEGO (NZ)"
+}, {
+	"id": "1084",
+	"name": "PRZYBYSŁAWICE III (NŻ)",
+	"nameD": "PRZYBYSLAWICE III (NZ)"
+}, {
+	"id": "1086",
+	"name": "SKAWINA KONCENTRATY",
+	"nameD": "SKAWINA KONCENTRATY"
+}, {
+	"id": "1087",
+	"name": "RZOZÓW BASENY (NŻ)",
+	"nameD": "RZOZOW BASENY (NZ)"
+}, {
+	"id": "1088",
+	"name": "RZOZÓW I (NŻ)",
+	"nameD": "RZOZOW I (NZ)"
+}, {
+	"id": "1089",
+	"name": "RZOZÓW SZKOŁA",
+	"nameD": "RZOZOW SZKOLA"
+}, {
+	"id": "1090",
+	"name": "GOŁUCHOWICE",
+	"nameD": "GOLUCHOWICE"
+}, {
+	"id": "1091",
+	"name": "GOŁUCHOWICE JURCZYCE",
+	"nameD": "GOLUCHOWICE JURCZYCE"
+}, {
+	"id": "1092",
+	"name": "GOŁUCHOWICE SKLEP (NŻ)",
+	"nameD": "GOLUCHOWICE SKLEP (NZ)"
+}, {
+	"id": "1093",
+	"name": "POLANKA HALLERA DWÓR",
+	"nameD": "POLANKA HALLERA DWOR"
+}, {
+	"id": "1094",
+	"name": "GRABIE POLANKA (NŻ)",
+	"nameD": "GRABIE POLANKA (NZ)"
+}, {
+	"id": "1095",
+	"name": "KRZĘCIN SKLEP",
+	"nameD": "KRZECIN SKLEP"
+}, {
+	"id": "1096",
+	"name": "KRZĘCIN KOŚCIÓŁ",
+	"nameD": "KRZECIN KOSCIOL"
+}, {
+	"id": "1098",
+	"name": "KRZĘCIN KAPLICZKA (NŻ)",
+	"nameD": "KRZECIN KAPLICZKA (NZ)"
+}, {
+	"id": "1099",
+	"name": "KRZĘCIN SZKOŁA",
+	"nameD": "KRZECIN SZKOLA"
+}, {
+	"id": "1100",
+	"name": "SKAWINA WYSPIAŃSKIEGO",
+	"nameD": "SKAWINA WYSPIANSKIEGO"
+}, {
+	"id": "1101",
+	"name": "SKAWINA KORABNICKA (NŻ)",
+	"nameD": "SKAWINA KORABNICKA (NZ)"
+}, {
+	"id": "1102",
+	"name": "SKAWINA KORABNICKA SZKOŁA (NŻ)",
+	"nameD": "SKAWINA KORABNICKA SZKOLA (NZ)"
+}, {
+	"id": "1103",
+	"name": "SKAWINA PIŁSUDSKIEGO",
+	"nameD": "SKAWINA PILSUDSKIEGO"
+}, {
+	"id": "1104",
+	"name": "SKAWINA ELEKTROWNIA (NŻ)",
+	"nameD": "SKAWINA ELEKTROWNIA (NZ)"
+}, {
+	"id": "1105",
+	"name": "SKAWINA ZACHODNIA (NŻ)",
+	"nameD": "SKAWINA ZACHODNIA (NZ)"
+}, {
+	"id": "1106",
+	"name": "BRZEŹNICA",
+	"nameD": "BRZEZNICA"
+}, {
+	"id": "1107",
+	"name": "SKAWINA PODBORY (NŻ)",
+	"nameD": "SKAWINA PODBORY (NZ)"
+}, {
+	"id": "1108",
+	"name": "BRZEŹNICA PASIEKA (NŻ)",
+	"nameD": "BRZEZNICA PASIEKA (NZ)"
+}, {
+	"id": "1109",
+	"name": "BRZEŹNICA KUŹNIA (NŻ)",
+	"nameD": "BRZEZNICA KUZNIA (NZ)"
+}, {
+	"id": "1110",
+	"name": "JAŚKOWICE (NŻ)",
+	"nameD": "JASKOWICE (NZ)"
+}, {
+	"id": "1111",
+	"name": "JAŚKOWICE PKP (NŻ)",
+	"nameD": "JASKOWICE PKP (NZ)"
+}, {
+	"id": "1112",
+	"name": "WIELKIE DROGI TRZEBOL (NŻ)",
+	"nameD": "WIELKIE DROGI TRZEBOL (NZ)"
+}, {
+	"id": "1113",
+	"name": "WIELKIE DROGI PKP (NŻ)",
+	"nameD": "WIELKIE DROGI PKP (NZ)"
+}, {
+	"id": "1115",
+	"name": "ZELCZYNA SKLEP",
+	"nameD": "ZELCZYNA SKLEP"
+}, {
+	"id": "1116",
+	"name": "ZELCZYNA I (NŻ)",
+	"nameD": "ZELCZYNA I (NZ)"
+}, {
+	"id": "1117",
+	"name": "BOREK SZLACHECKI II (NŻ)",
+	"nameD": "BOREK SZLACHECKI II (NZ)"
+}, {
+	"id": "1118",
+	"name": "BOREK SZLACHECKI I (NŻ)",
+	"nameD": "BOREK SZLACHECKI I (NZ)"
+}, {
+	"id": "1120",
+	"name": "ŁUCZYCE LAS (NŻ)",
+	"nameD": "LUCZYCE LAS (NZ)"
+}, {
+	"id": "1121",
+	"name": "ŁUCZYCE",
+	"nameD": "LUCZYCE"
+}, {
+	"id": "1122",
+	"name": "ALEKSANDRY",
+	"nameD": "ALEKSANDRY"
+}, {
+	"id": "1124",
+	"name": "WOLA RADZISZOWSKA MAŁA OSTRA GÓRA (NŻ)",
+	"nameD": "WOLA RADZISZOWSKA MALA OSTRA GORA (NZ)"
+}, {
+	"id": "1125",
+	"name": "WOLA RADZISZOWSKA MOST (NŻ)",
+	"nameD": "WOLA RADZISZOWSKA MOST (NZ)"
+}, {
+	"id": "1126",
+	"name": "WOLA RADZISZOWSKA LIPKI (NŻ)",
+	"nameD": "WOLA RADZISZOWSKA LIPKI (NZ)"
+}, {
+	"id": "1127",
+	"name": "WOLA RADZISZOWSKA CENTRUM",
+	"nameD": "WOLA RADZISZOWSKA CENTRUM"
+}, {
+	"id": "1128",
+	"name": "WOLA RADZISZOWSKA",
+	"nameD": "WOLA RADZISZOWSKA"
+}, {
+	"id": "1129",
+	"name": "WOLA RADZISZOWSKA CHORZYNY (NŻ)",
+	"nameD": "WOLA RADZISZOWSKA CHORZYNY (NZ)"
+}, {
+	"id": "1130",
+	"name": "MARCHOŁTA",
+	"nameD": "MARCHOLTA"
+}, {
+	"id": "1133",
+	"name": "SKAWINA 29 LISTOPADA",
+	"nameD": "SKAWINA 29 LISTOPADA"
+}, {
+	"id": "1134",
+	"name": "SKAWINA STAROSTWO POWIATOWE",
+	"nameD": "SKAWINA STAROSTWO POWIATOWE"
+}, {
+	"id": "1137",
+	"name": "SKAWINA CMENTARZ KOMUNALNY",
+	"nameD": "SKAWINA CMENTARZ KOMUNALNY"
+}, {
+	"id": "1138",
+	"name": "RACIBOROWICE CENTRUM",
+	"nameD": "RACIBOROWICE CENTRUM"
+}, {
+	"id": "1139",
+	"name": "KOŃCZYCE",
+	"nameD": "KONCZYCE"
+}, {
+	"id": "1140",
+	"name": "KSIĄŻNICZKI BOISKO (NŻ)",
+	"nameD": "KSIAZNICZKI BOISKO (NZ)"
+}, {
+	"id": "1141",
+	"name": "MŁODZIEJOWICE PARK",
+	"nameD": "MLODZIEJOWICE PARK"
+}, {
+	"id": "1142",
+	"name": "KSIĄŻNICZKI CENTRUM",
+	"nameD": "KSIAZNICZKI CENTRUM"
+}, {
+	"id": "1143",
+	"name": "KSIĄŻNICZKI LAS (NŻ)",
+	"nameD": "KSIAZNICZKI LAS (NZ)"
+}, {
+	"id": "1144",
+	"name": "MŁODZIEJOWICE MŁYN (NŻ)",
+	"nameD": "MLODZIEJOWICE MLYN (NZ)"
+}, {
+	"id": "1145",
+	"name": "MICHAŁOWICE OGRODOWA (NŻ)",
+	"nameD": "MICHALOWICE OGRODOWA (NZ)"
+}, {
+	"id": "1150",
+	"name": "GRĘBYNICE MOGIEŁKI (NŻ)",
+	"nameD": "GREBYNICE MOGIELKI (NZ)"
+}, {
+	"id": "1152",
+	"name": "MASZYCE SKRZYŻOWANIE (NŻ)",
+	"nameD": "MASZYCE SKRZYZOWANIE (NZ)"
+}, {
+	"id": "1153",
+	"name": "SMARDZOWICE",
+	"nameD": "SMARDZOWICE"
+}, {
+	"id": "1155",
+	"name": "POWSTAŃCÓW GARAŻE",
+	"nameD": "POWSTANCOW GARAZE"
+}, {
+	"id": "1158",
+	"name": "KOKOTÓW I (NŻ)",
+	"nameD": "KOKOTOW I (NZ)"
+}, {
+	"id": "1159",
+	"name": "CZARNOCHOWICE I (NŻ)",
+	"nameD": "CZARNOCHOWICE I (NZ)"
+}, {
+	"id": "1161",
+	"name": "WĘGRZCE WIELKIE III (NŻ)",
+	"nameD": "WEGRZCE WIELKIE III (NZ)"
+}, {
+	"id": "1162",
+	"name": "KOKOTÓW II (NŻ)",
+	"nameD": "KOKOTOW II (NZ)"
+}, {
+	"id": "1163",
+	"name": "WĘGRZCE WIELKIE II (NŻ)",
+	"nameD": "WEGRZCE WIELKIE II (NZ)"
+}, {
+	"id": "1164",
+	"name": "PSZONA",
+	"nameD": "PSZONA"
+}, {
+	"id": "1165",
+	"name": "BRODOWICZA",
+	"nameD": "BRODOWICZA"
+}, {
+	"id": "1166",
+	"name": "SIKORKI",
+	"nameD": "SIKORKI"
+}, {
+	"id": "1167",
+	"name": "WIELICZKA KOPALNIA SOLI",
+	"nameD": "WIELICZKA KOPALNIA SOLI"
+}, {
+	"id": "1168",
+	"name": "WIELICZKA RYNEK",
+	"nameD": "WIELICZKA RYNEK"
+}, {
+	"id": "1169",
+	"name": "KRZĘCIN CMENTARZ (NŻ)",
+	"nameD": "KRZECIN CMENTARZ (NZ)"
+}, {
+	"id": "1170",
+	"name": "ZELCZYNA SZKOŁA (NŻ)",
+	"nameD": "ZELCZYNA SZKOLA (NZ)"
+}, {
+	"id": "1171",
+	"name": "OCHODZA",
+	"nameD": "OCHODZA"
+}, {
+	"id": "1172",
+	"name": "GIEBUŁTÓW",
+	"nameD": "GIEBULTOW"
+}, {
+	"id": "1174",
+	"name": "MASZYCE REMIZA (NŻ)",
+	"nameD": "MASZYCE REMIZA (NZ)"
+}, {
+	"id": "1176",
+	"name": "GIEBUŁTÓW PLAC ZABAW (NŻ)",
+	"nameD": "GIEBULTOW PLAC ZABAW (NZ)"
+}, {
+	"id": "1177",
+	"name": "GIEBUŁTÓW MORGI",
+	"nameD": "GIEBULTOW MORGI"
+}, {
+	"id": "1179",
+	"name": "RZOZÓW SKOTNICA (NŻ)",
+	"nameD": "RZOZOW SKOTNICA (NZ)"
+}, {
+	"id": "1180",
+	"name": "RZOZÓW PKP (NŻ)",
+	"nameD": "RZOZOW PKP (NZ)"
+}, {
+	"id": "1181",
+	"name": "RZOZÓW ZAGONNIE (NŻ)",
+	"nameD": "RZOZOW ZAGONNIE (NZ)"
+}, {
+	"id": "1182",
+	"name": "RADZISZÓW KŁADKA (NŻ)",
+	"nameD": "RADZISZOW KLADKA (NZ)"
+}, {
+	"id": "1183",
+	"name": "RADZISZÓW ZACISZE (NŻ)",
+	"nameD": "RADZISZOW ZACISZE (NZ)"
+}, {
+	"id": "1184",
+	"name": "RADZISZÓW PODWALE (NŻ)",
+	"nameD": "RADZISZOW PODWALE (NZ)"
+}, {
+	"id": "1185",
+	"name": "RADZISZÓW ZAWODZIE (NŻ)",
+	"nameD": "RADZISZOW ZAWODZIE (NZ)"
+}, {
+	"id": "1186",
+	"name": "RADZISZÓW PKP",
+	"nameD": "RADZISZOW PKP"
+}, {
+	"id": "1187",
+	"name": "NIELEPICE",
+	"nameD": "NIELEPICE"
+}, {
+	"id": "1189",
+	"name": "PIEKARY PAŁAC (NŻ)",
+	"nameD": "PIEKARY PALAC (NZ)"
+}, {
+	"id": "1191",
+	"name": "KRZYSZKOWICE KOŚCIÓŁ (NŻ)",
+	"nameD": "KRZYSZKOWICE KOSCIOL (NZ)"
+}, {
+	"id": "1192",
+	"name": "KRZYSZKOWICE KASZTANOWA I (NŻ)",
+	"nameD": "KRZYSZKOWICE KASZTANOWA I (NZ)"
+}, {
+	"id": "1193",
+	"name": "KRZYSZKOWICE KASZTANOWA II (NŻ)",
+	"nameD": "KRZYSZKOWICE KASZTANOWA II (NZ)"
+}, {
+	"id": "1194",
+	"name": "KRZYSZKOWICE MODRZEWIOWA (NŻ)",
+	"nameD": "KRZYSZKOWICE MODRZEWIOWA (NZ)"
+}, {
+	"id": "1195",
+	"name": "KRZYSZKOWICE RÓŻANA (NŻ)",
+	"nameD": "KRZYSZKOWICE ROZANA (NZ)"
+}, {
+	"id": "1196",
+	"name": "LUSINA ŁANY (NŻ)",
+	"nameD": "LUSINA LANY (NZ)"
+}, {
+	"id": "1197",
+	"name": "NOWA WIEŚ JESIONKA (NŻ)",
+	"nameD": "NOWA WIES JESIONKA (NZ)"
+}, {
+	"id": "1198",
+	"name": "PRZEGINIA DUCHOWNA SZKOŁA (NŻ)",
+	"nameD": "PRZEGINIA DUCHOWNA SZKOLA (NZ)"
+}, {
+	"id": "1199",
+	"name": "PRZEGINIA DUCHOWNA CENTRUM",
+	"nameD": "PRZEGINIA DUCHOWNA CENTRUM"
+}, {
+	"id": "1202",
+	"name": "DĄBROWA SZLACHECKA (NŻ)",
+	"nameD": "DABROWA SZLACHECKA (NZ)"
+}, {
+	"id": "1203",
+	"name": "CZERNICHÓW STACJA PALIW (NŻ)",
+	"nameD": "CZERNICHOW STACJA PALIW (NZ)"
+}, {
+	"id": "1204",
+	"name": "CZERNICHÓW GS (NŻ)",
+	"nameD": "CZERNICHOW GS (NZ)"
+}, {
+	"id": "1205",
+	"name": "WOŁOWICE SKLEP (NŻ)",
+	"nameD": "WOLOWICE SKLEP (NZ)"
+}, {
+	"id": "1207",
+	"name": "WOŁOWICE NIWA (NŻ)",
+	"nameD": "WOLOWICE NIWA (NZ)"
+}, {
+	"id": "1208",
+	"name": "RYBNA NOWY ŚWIAT",
+	"nameD": "RYBNA NOWY SWIAT"
+}, {
+	"id": "1209",
+	"name": "RYBNA",
+	"nameD": "RYBNA"
+}, {
+	"id": "1212",
+	"name": "RYBNA OŚRODEK ZDROWIA (NŻ)",
+	"nameD": "RYBNA OSRODEK ZDROWIA (NZ)"
+}, {
+	"id": "1213",
+	"name": "RYBNA DÓŁ (NŻ)",
+	"nameD": "RYBNA DOL (NZ)"
+}, {
+	"id": "1214",
+	"name": "PRZEGINIA DUCHOWNA (NŻ)",
+	"nameD": "PRZEGINIA DUCHOWNA (NZ)"
+}, {
+	"id": "1215",
+	"name": "CZUŁÓWEK (NŻ)",
+	"nameD": "CZULOWEK (NZ)"
+}, {
+	"id": "1216",
+	"name": "RĄCZNA PODLAS (NŻ)",
+	"nameD": "RACZNA PODLAS (NZ)"
+}, {
+	"id": "1217",
+	"name": "RĄCZNA DZIKOWIEC (NŻ)",
+	"nameD": "RACZNA DZIKOWIEC (NZ)"
+}, {
+	"id": "1220",
+	"name": "KŁOKOCZYN (NŻ)",
+	"nameD": "KLOKOCZYN (NZ)"
+}, {
+	"id": "1222",
+	"name": "KAMIEŃ DÓŁ (NŻ)",
+	"nameD": "KAMIEN DOL (NZ)"
+}, {
+	"id": "1225",
+	"name": "RUSOCICE ŁĘG (NŻ)",
+	"nameD": "RUSOCICE LEG (NZ)"
+}, {
+	"id": "1226",
+	"name": "CZERNICHÓW BÓR (NŻ)",
+	"nameD": "CZERNICHOW BOR (NZ)"
+}, {
+	"id": "1227",
+	"name": "PRZEGINIA NARODOWA (NŻ)",
+	"nameD": "PRZEGINIA NARODOWA (NZ)"
+}, {
+	"id": "1228",
+	"name": "PRZEGINIA DUCHOWNA BAR (NŻ)",
+	"nameD": "PRZEGINIA DUCHOWNA BAR (NZ)"
+}, {
+	"id": "1229",
+	"name": "RUSOCICE SKŁAD (NŻ)",
+	"nameD": "RUSOCICE SKLAD (NZ)"
+}, {
+	"id": "1230",
+	"name": "RUSOCICE WIEŚ",
+	"nameD": "RUSOCICE WIES"
+}, {
+	"id": "1231",
+	"name": "ŁUCZYCE ZJAWIENIE (NŻ)",
+	"nameD": "LUCZYCE ZJAWIENIE (NZ)"
+}, {
+	"id": "1232",
+	"name": "WIELKIE DROGI OŚRODEK ZDROWIA (NŻ)",
+	"nameD": "WIELKIE DROGI OSRODEK ZDROWIA (NZ)"
+}, {
+	"id": "1233",
+	"name": "WIELKIE DROGI SZKOŁA (NŻ)",
+	"nameD": "WIELKIE DROGI SZKOLA (NZ)"
+}, {
+	"id": "1234",
+	"name": "WRZĄSOWICE KOWALECA (NŻ)",
+	"nameD": "WRZASOWICE KOWALECA (NZ)"
+}, {
+	"id": "1235",
+	"name": "NIELEPICE STADNINA (NŻ)",
+	"nameD": "NIELEPICE STADNINA (NZ)"
+}, {
+	"id": "1236",
+	"name": "PISARY DWÓR (NŻ)",
+	"nameD": "PISARY DWOR (NZ)"
+}, {
+	"id": "1237",
+	"name": "DĄBROWA SZLACHECKA KRZEMIENNIK",
+	"nameD": "DABROWA SZLACHECKA KRZEMIENNIK"
+}, {
+	"id": "1239",
+	"name": "MOST KOTLARSKI (NŻ)",
+	"nameD": "MOST KOTLARSKI (NZ)"
+}, {
+	"id": "1243",
+	"name": "OS.ŁOKIETKA",
+	"nameD": "OS.LOKIETKA"
+}, {
+	"id": "1246",
+	"name": "ŚCIEJOWICE NA BAGNACH (NŻ)",
+	"nameD": "SCIEJOWICE NA BAGNACH (NZ)"
+}, {
+	"id": "1248",
+	"name": "KRZYSZTOFORZYCE GÓRA (NŻ)",
+	"nameD": "KRZYSZTOFORZYCE GORA (NZ)"
+}, {
+	"id": "1253",
+	"name": "PUSZKARSKA",
+	"nameD": "PUSZKARSKA"
+}, {
+	"id": "1254",
+	"name": "ZAJEZDNIA WOLA DUCHACKA",
+	"nameD": "ZAJEZDNIA WOLA DUCHACKA"
+}, {
+	"id": "1255",
+	"name": "BONARKA",
+	"nameD": "BONARKA"
+}, {
+	"id": "1256",
+	"name": "KRZYSZTOFORZYCE PRZY DWORZE (NŻ)",
+	"nameD": "KRZYSZTOFORZYCE PRZY DWORZE (NZ)"
+}, {
+	"id": "1257",
+	"name": "KOCMYRZÓW KRZYŻÓWKA (NŻ)",
+	"nameD": "KOCMYRZOW KRZYZOWKA (NZ)"
+}, {
+	"id": "1258",
+	"name": "BOJKI",
+	"nameD": "BOJKI"
+}, {
+	"id": "1259",
+	"name": "WYSŁOUCHÓW",
+	"nameD": "WYSLOUCHOW"
+}, {
+	"id": "1260",
+	"name": "RUSOCICE JAŁOWCE (NŻ)",
+	"nameD": "RUSOCICE JALOWCE (NZ)"
+}, {
+	"id": "1261",
+	"name": "RUSOCICE ZAŁĘG (NŻ)",
+	"nameD": "RUSOCICE ZALEG (NZ)"
+}, {
+	"id": "1262",
+	"name": "RZEBIKA",
+	"nameD": "RZEBIKA"
+}, {
+	"id": "1263",
+	"name": "MAŁY PŁASZÓW",
+	"nameD": "MALY PLASZOW"
+}, {
+	"id": "1264",
+	"name": "WIKTOROWICE GRANICA (NŻ)",
+	"nameD": "WIKTOROWICE GRANICA (NZ)"
+}, {
+	"id": "1265",
+	"name": "ZASTÓW DZIAŁKI (NŻ)",
+	"nameD": "ZASTOW DZIALKI (NZ)"
+}, {
+	"id": "1266",
+	"name": "WIKTOROWICE SKRZYŻOWANIE (NŻ)",
+	"nameD": "WIKTOROWICE SKRZYZOWANIE (NZ)"
+}, {
+	"id": "1267",
+	"name": "WIKTOROWICE CENTRUM (NŻ)",
+	"nameD": "WIKTOROWICE CENTRUM (NZ)"
+}, {
+	"id": "1269",
+	"name": "MACIEJOWICE GÓRA (NŻ)",
+	"nameD": "MACIEJOWICE GORA (NZ)"
+}, {
+	"id": "1271",
+	"name": "BIAŁOPRĄDNICKA",
+	"nameD": "BIALOPRADNICKA"
+}, {
+	"id": "1274",
+	"name": "CHOBOT (NŻ)",
+	"nameD": "CHOBOT (NZ)"
+}, {
+	"id": "1275",
+	"name": "NIEPOŁOMICE MOCZYDŁO (NŻ)",
+	"nameD": "NIEPOLOMICE MOCZYDLO (NZ)"
+}, {
+	"id": "1276",
+	"name": "NIEPOŁOMICE DWORZEC",
+	"nameD": "NIEPOLOMICE DWORZEC"
+}, {
+	"id": "1277",
+	"name": "NIEPOŁOMICE RYNEK",
+	"nameD": "NIEPOLOMICE RYNEK"
+}, {
+	"id": "1278",
+	"name": "NIEPOŁOMICE BATOREGO (NŻ)",
+	"nameD": "NIEPOLOMICE BATOREGO (NZ)"
+}, {
+	"id": "1279",
+	"name": "NIEPOŁOMICE BATOREGO II (NŻ)",
+	"nameD": "NIEPOLOMICE BATOREGO II (NZ)"
+}, {
+	"id": "1280",
+	"name": "WOLA BATORSKA RUSKIE (NŻ)",
+	"nameD": "WOLA BATORSKA RUSKIE (NZ)"
+}, {
+	"id": "1281",
+	"name": "WOLA BATORSKA ŻWIROWNIA (NŻ)",
+	"nameD": "WOLA BATORSKA ZWIROWNIA (NZ)"
+}, {
+	"id": "1282",
+	"name": "WOLA BATORSKA KOŚCIÓŁ (NŻ)",
+	"nameD": "WOLA BATORSKA KOSCIOL (NZ)"
+}, {
+	"id": "1283",
+	"name": "WOLA BATORSKA CMENTARZ (NŻ)",
+	"nameD": "WOLA BATORSKA CMENTARZ (NZ)"
+}, {
+	"id": "1284",
+	"name": "WOLA BATORSKA BOREK (NŻ)",
+	"nameD": "WOLA BATORSKA BOREK (NZ)"
+}, {
+	"id": "1285",
+	"name": "WOLA BATORSKA MIKONIOWIEC (NŻ)",
+	"nameD": "WOLA BATORSKA MIKONIOWIEC (NZ)"
+}, {
+	"id": "1286",
+	"name": "WOLA BATORSKA ZAMOGLICE (NŻ)",
+	"nameD": "WOLA BATORSKA ZAMOGLICE (NZ)"
+}, {
+	"id": "1287",
+	"name": "ZABIERZÓW BOCHEŃSKI CENTRUM (NŻ)",
+	"nameD": "ZABIERZOW BOCHENSKI CENTRUM (NZ)"
+}, {
+	"id": "1288",
+	"name": "CHOBOT LEŚNICZÓWKA",
+	"nameD": "CHOBOT LESNICZOWKA"
+}, {
+	"id": "1289",
+	"name": "NIEPOŁOMICE JAZY (NŻ)",
+	"nameD": "NIEPOLOMICE JAZY (NZ)"
+}, {
+	"id": "1290",
+	"name": "NIEPOŁOMICE JAZY II (NŻ)",
+	"nameD": "NIEPOLOMICE JAZY II (NZ)"
+}, {
+	"id": "1291",
+	"name": "WOLA ZABIERZOWSKA (NŻ)",
+	"nameD": "WOLA ZABIERZOWSKA (NZ)"
+}, {
+	"id": "1292",
+	"name": "GRABIE SZCZURÓW (NŻ)",
+	"nameD": "GRABIE SZCZUROW (NZ)"
+}, {
+	"id": "1293",
+	"name": "GRABIE DOM KULTURY (NŻ)",
+	"nameD": "GRABIE DOM KULTURY (NZ)"
+}, {
+	"id": "1294",
+	"name": "BRZEGI III (NŻ)",
+	"nameD": "BRZEGI III (NZ)"
+}, {
+	"id": "1295",
+	"name": "GRABIE KOŚCIÓŁ",
+	"nameD": "GRABIE KOSCIOL"
+}, {
+	"id": "1296",
+	"name": "NIEPOŁOMICE PODGRABIE (NŻ)",
+	"nameD": "NIEPOLOMICE PODGRABIE (NZ)"
+}, {
+	"id": "1297",
+	"name": "NIEPOŁOMICE PASTERNIK (NŻ)",
+	"nameD": "NIEPOLOMICE PASTERNIK (NZ)"
+}, {
+	"id": "1298",
+	"name": "NIEPOŁOMICE KĄTEK (NŻ)",
+	"nameD": "NIEPOLOMICE KATEK (NZ)"
+}, {
+	"id": "1299",
+	"name": "NIEPOŁOMICE PORĘBY (NŻ)",
+	"nameD": "NIEPOLOMICE POREBY (NZ)"
+}, {
+	"id": "1300",
+	"name": "NIEPOŁOMICE DIESLA (NŻ)",
+	"nameD": "NIEPOLOMICE DIESLA (NZ)"
+}, {
+	"id": "1301",
+	"name": "NIEPOŁOMICE WODNA (NŻ)",
+	"nameD": "NIEPOLOMICE WODNA (NZ)"
+}, {
+	"id": "1302",
+	"name": "NIEPOŁOMICE PŁASZOWSKA I (NŻ)",
+	"nameD": "NIEPOLOMICE PLASZOWSKA I (NZ)"
+}, {
+	"id": "1303",
+	"name": "NIEPOŁOMICE KOŚCIUSZKI (NŻ)",
+	"nameD": "NIEPOLOMICE KOSCIUSZKI (NZ)"
+}, {
+	"id": "1305",
+	"name": "ZAKRZÓW (NŻ)",
+	"nameD": "ZAKRZOW (NZ)"
+}, {
+	"id": "1306",
+	"name": "NIEPOŁOMICE BORYCZÓW (NŻ)",
+	"nameD": "NIEPOLOMICE BORYCZOW (NZ)"
+}, {
+	"id": "1307",
+	"name": "NIEPOŁOMICE WIELICKA (NŻ)",
+	"nameD": "NIEPOLOMICE WIELICKA (NZ)"
+}, {
+	"id": "1308",
+	"name": "STANIĄTKI WIADUKT (NŻ)",
+	"nameD": "STANIATKI WIADUKT (NZ)"
+}, {
+	"id": "1309",
+	"name": "PODŁĘŻE CENTRUM (NŻ)",
+	"nameD": "PODLEZE CENTRUM (NZ)"
+}, {
+	"id": "1310",
+	"name": "PODŁĘŻE STRAŻ (NŻ)",
+	"nameD": "PODLEZE STRAZ (NZ)"
+}, {
+	"id": "1311",
+	"name": "PODŁĘŻE BALACHÓWKA (NŻ)",
+	"nameD": "PODLEZE BALACHOWKA (NZ)"
+}, {
+	"id": "1313",
+	"name": "OCHMANÓW OKNOPLAST (NŻ)",
+	"nameD": "OCHMANOW OKNOPLAST (NZ)"
+}, {
+	"id": "1315",
+	"name": "SŁOMNIKI OSIEDLE",
+	"nameD": "SLOMNIKI OSIEDLE"
+}, {
+	"id": "1316",
+	"name": "SŁOMNIKI RYNEK",
+	"nameD": "SLOMNIKI RYNEK"
+}, {
+	"id": "1317",
+	"name": "SŁOMNIKI ZAGŁOBY (NŻ)",
+	"nameD": "SLOMNIKI ZAGLOBY (NZ)"
+}, {
+	"id": "1319",
+	"name": "MARSZOWICE GÓRY (NŻ)",
+	"nameD": "MARSZOWICE GORY (NZ)"
+}, {
+	"id": "1320",
+	"name": "WYSIOŁEK LUBORZYCKI RADWANY (NŻ)",
+	"nameD": "WYSIOLEK LUBORZYCKI RADWANY (NZ)"
+}, {
+	"id": "1323",
+	"name": "POLANOWICE KOLONIA (NŻ)",
+	"nameD": "POLANOWICE KOLONIA (NZ)"
+}, {
+	"id": "1325",
+	"name": "RATAJÓW SKRZYŻOWANIE (NŻ)",
+	"nameD": "RATAJOW SKRZYZOWANIE (NZ)"
+}, {
+	"id": "1326",
+	"name": "NIEDŹWIEDŹ PKP (NŻ)",
+	"nameD": "NIEDZWIEDZ PKP (NZ)"
+}, {
+	"id": "1327",
+	"name": "NIEDŹWIEDŹ FELIX (NŻ)",
+	"nameD": "NIEDZWIEDZ FELIX (NZ)"
+}, {
+	"id": "1328",
+	"name": "AGATOWA (NŻ)",
+	"nameD": "AGATOWA (NZ)"
+}, {
+	"id": "1329",
+	"name": "OCHODZA DOM LUDOWY (NŻ)",
+	"nameD": "OCHODZA DOM LUDOWY (NZ)"
+}, {
+	"id": "1330",
+	"name": "OCHODZA STAW (NŻ)",
+	"nameD": "OCHODZA STAW (NZ)"
+}, {
+	"id": "1331",
+	"name": "OCHODZA ODWIŚLE",
+	"nameD": "OCHODZA ODWISLE"
+}, {
+	"id": "1332",
+	"name": "WOLA LUBORZYCKA DZIAŁKI (NŻ)",
+	"nameD": "WOLA LUBORZYCKA DZIALKI (NZ)"
+}, {
+	"id": "1336",
+	"name": "WOLA RADZISZOWSKA PODGAŹLE (NŻ)",
+	"nameD": "WOLA RADZISZOWSKA PODGAZLE (NZ)"
+}, {
+	"id": "1337",
+	"name": "WOLA RADZISZOWSKA ŁĘG (NŻ)",
+	"nameD": "WOLA RADZISZOWSKA LEG (NZ)"
+}, {
+	"id": "1341",
+	"name": "RYBNA ZAGÓRZE (NŻ)",
+	"nameD": "RYBNA ZAGORZE (NZ)"
+}, {
+	"id": "1346",
+	"name": "BUNSCHA (NŻ)",
+	"nameD": "BUNSCHA (NZ)"
+}, {
+	"id": "1347",
+	"name": "KONARY SĘK (NŻ)",
+	"nameD": "KONARY SEK (NZ)"
+}, {
+	"id": "1352",
+	"name": "GIEBUŁTÓW ZBIORNIK (NŻ)",
+	"nameD": "GIEBULTOW ZBIORNIK (NZ)"
+}, {
+	"id": "1353",
+	"name": "MODLNICZKA POLIGON (NŻ)",
+	"nameD": "MODLNICZKA POLIGON (NZ)"
+}, {
+	"id": "1357",
+	"name": "KRZĘCIN CZĘSNA (NŻ)",
+	"nameD": "KRZECIN CZESNA (NZ)"
+}, {
+	"id": "1360",
+	"name": "PLAC WSZYSTKICH ŚWIĘTYCH",
+	"nameD": "PLAC WSZYSTKICH SWIETYCH"
+}, {
+	"id": "1364",
+	"name": "WIELKIE DROGI (NŻ)",
+	"nameD": "WIELKIE DROGI (NZ)"
+}, {
+	"id": "1365",
+	"name": "CZUŁÓWEK KAPLICZKA",
+	"nameD": "CZULOWEK KAPLICZKA"
+}, {
+	"id": "1367",
+	"name": "RYBNA DOLNA",
+	"nameD": "RYBNA DOLNA"
+}, {
+	"id": "1368",
+	"name": "RYBNA GRANICA (NŻ)",
+	"nameD": "RYBNA GRANICA (NZ)"
+}, {
+	"id": "1370",
+	"name": "RĄCZNA KOŚCIÓŁ (NŻ)",
+	"nameD": "RACZNA KOSCIOL (NZ)"
+}, {
+	"id": "1371",
+	"name": "FORT WINNICA (NŻ)",
+	"nameD": "FORT WINNICA (NZ)"
+}, {
+	"id": "1372",
+	"name": "WINNICKA (NŻ)",
+	"nameD": "WINNICKA (NZ)"
+}, {
+	"id": "1374",
+	"name": "ŚLIWIAKA (NŻ)",
+	"nameD": "SLIWIAKA (NZ)"
+}, {
+	"id": "1375",
+	"name": "FISZERA",
+	"nameD": "FISZERA"
+}, {
+	"id": "1376",
+	"name": "RADZIKOWSKIEGO OSIEDLE",
+	"nameD": "RADZIKOWSKIEGO OSIEDLE"
+}, {
+	"id": "2453",
+	"name": "CENTRUM JP II",
+	"nameD": "CENTRUM JP II"
+}, {
+	"id": "2471",
+	"name": "SKAWINA OS.RADZISZOWSKIE (NŻ)",
+	"nameD": "SKAWINA OS.RADZISZOWSKIE (NZ)"
+}, {
+	"id": "2472",
+	"name": "SKAWINA RADZISZOWSKA (NŻ)",
+	"nameD": "SKAWINA RADZISZOWSKA (NZ)"
+}, {
+	"id": "2473",
+	"name": "SKAWINA AJKA",
+	"nameD": "SKAWINA AJKA"
+}, {
+	"id": "2474",
+	"name": "SKAWINA POPIEŁUSZKI",
+	"nameD": "SKAWINA POPIELUSZKI"
+}, {
+	"id": "2475",
+	"name": "SKAWINA CMENTARZ",
+	"nameD": "SKAWINA CMENTARZ"
+}, {
+	"id": "2476",
+	"name": "SKAWINA PODLIPKI",
+	"nameD": "SKAWINA PODLIPKI"
+}, {
+	"id": "2477",
+	"name": "RADZISZÓW STARE SANATORIUM (NŻ)",
+	"nameD": "RADZISZOW STARE SANATORIUM (NZ)"
+}, {
+	"id": "2478",
+	"name": "SKAWINA TYNIECKA OSIEDLE",
+	"nameD": "SKAWINA TYNIECKA OSIEDLE"
+}, {
+	"id": "2479",
+	"name": "SKAWINA TYNIECKA",
+	"nameD": "SKAWINA TYNIECKA"
+}, {
+	"id": "2480",
+	"name": "SKAWINA SAMBOREK MOST",
+	"nameD": "SKAWINA SAMBOREK MOST"
+}, {
+	"id": "2481",
+	"name": "SKAWINA KORABNIKI",
+	"nameD": "SKAWINA KORABNIKI"
+}, {
+	"id": "2484",
+	"name": "KOPANKA KAPLICZKA (NŻ)",
+	"nameD": "KOPANKA KAPLICZKA (NZ)"
+}, {
+	"id": "2485",
+	"name": "KOPANKA SZKOŁA",
+	"nameD": "KOPANKA SZKOLA"
+}, {
+	"id": "2486",
+	"name": "SKAWINA ROBOTNICZA",
+	"nameD": "SKAWINA ROBOTNICZA"
+}, {
+	"id": "2487",
+	"name": "SKAWINA ENERGETYKÓW (NŻ)",
+	"nameD": "SKAWINA ENERGETYKOW (NZ)"
+}, {
+	"id": "2488",
+	"name": "JURCZYCE DOM LUDOWY",
+	"nameD": "JURCZYCE DOM LUDOWY"
+}, {
+	"id": "2489",
+	"name": "JURCZYCE SZKOŁA (NŻ)",
+	"nameD": "JURCZYCE SZKOLA (NZ)"
+}, {
+	"id": "2490",
+	"name": "JURCZYCE PODOLE (NŻ)",
+	"nameD": "JURCZYCE PODOLE (NZ)"
+}, {
+	"id": "2491",
+	"name": "RADZISZÓW ZA MOGIŁKĄ (NŻ)",
+	"nameD": "RADZISZOW ZA MOGILKA (NZ)"
+}, {
+	"id": "2492",
+	"name": "GRABIE KUŹNIA (NŻ)",
+	"nameD": "GRABIE KUZNIA (NZ)"
+}, {
+	"id": "2493",
+	"name": "GRABIE",
+	"nameD": "GRABIE"
+}, {
+	"id": "2494",
+	"name": "SKAWINA NAD POTOKIEM (NŻ)",
+	"nameD": "SKAWINA NAD POTOKIEM (NZ)"
+}, {
+	"id": "2495",
+	"name": "ZABAWA (NŻ)",
+	"nameD": "ZABAWA (NZ)"
+}, {
+	"id": "2496",
+	"name": "MAŁA WIEŚ (NŻ)",
+	"nameD": "MALA WIES (NZ)"
+}, {
+	"id": "2497",
+	"name": "SUŁKÓW (NŻ)",
+	"nameD": "SULKOW (NZ)"
+}, {
+	"id": "2499",
+	"name": "MOGILANY CICHA (NŻ)",
+	"nameD": "MOGILANY CICHA (NZ)"
+}, {
+	"id": "2500",
+	"name": "CRACOVIA BŁONIA",
+	"nameD": "CRACOVIA BLONIA"
+}, {
+	"id": "2501",
+	"name": "CRACOVIA STADION",
+	"nameD": "CRACOVIA STADION"
+}, {
+	"id": "2503",
+	"name": "WIELICZKA PARK",
+	"nameD": "WIELICZKA PARK"
+}, {
+	"id": "2506",
+	"name": "MICHAŁOWICE KWIATY POLNE (NŻ)",
+	"nameD": "MICHALOWICE KWIATY POLNE (NZ)"
+}, {
+	"id": "2507",
+	"name": "MICHAŁOWICE LAS MICHAŁOWSKI (NŻ) STARE",
+	"nameD": "MICHALOWICE LAS MICHALOWSKI (NZ) STARE"
+}, {
+	"id": "2510",
+	"name": "ZABAWA I (NŻ)",
+	"nameD": "ZABAWA I (NZ)"
+}, {
+	"id": "2515",
+	"name": "WILEŃSKA",
+	"nameD": "WILENSKA"
+}, {
+	"id": "2516",
+	"name": "MOBILIS",
+	"nameD": "MOBILIS"
+}, {
+	"id": "2517",
+	"name": "ŚLIWIAKA ZAKŁADY",
+	"nameD": "SLIWIAKA ZAKLADY"
+}, {
+	"id": "2518",
+	"name": "BENEDYKTOWICZA (NŻ)",
+	"nameD": "BENEDYKTOWICZA (NZ)"
+}, {
+	"id": "2524",
+	"name": "LINDEGO (NŻ)",
+	"nameD": "LINDEGO (NZ)"
+}, {
+	"id": "2525",
+	"name": "MYDLNIKI GRANICA MIASTA (NŻ)",
+	"nameD": "MYDLNIKI GRANICA MIASTA (NZ)"
+}, {
+	"id": "2526",
+	"name": "PACHOŃSKIEGO",
+	"nameD": "PACHONSKIEGO"
+}, {
+	"id": "2527",
+	"name": "PRĄDNIK BIAŁY",
+	"nameD": "PRADNIK BIALY"
+}, {
+	"id": "2528",
+	"name": "BATALIONU 'SKAŁA' AK",
+	"nameD": "BATALIONU 'SKALA' AK"
+}, {
+	"id": "2529",
+	"name": "PIASZCZYSTA",
+	"nameD": "PIASZCZYSTA"
+}, {
+	"id": "2530",
+	"name": "PRZYBYSZEWSKIEGO",
+	"nameD": "PRZYBYSZEWSKIEGO"
+}, {
+	"id": "2531",
+	"name": "CMENTARZ RAKOWICKI ZACHÓD (NŻ)",
+	"nameD": "CMENTARZ RAKOWICKI ZACHOD (NZ)"
+}, {
+	"id": "2532",
+	"name": "BOSAKÓW",
+	"nameD": "BOSAKOW"
+}, {
+	"id": "2533",
+	"name": "ARMII KRAJOWEJ",
+	"nameD": "ARMII KRAJOWEJ"
+}, {
+	"id": "2534",
+	"name": "OLSZANICA OGRÓDKI DZIAŁKOWE (NŻ)",
+	"nameD": "OLSZANICA OGRODKI DZIALKOWE (NZ)"
+}, {
+	"id": "2538",
+	"name": "MIŚNIEŃSKA",
+	"nameD": "MISNIENSKA"
+}, {
+	"id": "2539",
+	"name": "RONDO HIPOKRATESA",
+	"nameD": "RONDO HIPOKRATESA"
+}, {
+	"id": "2541",
+	"name": "NAD DŁUBNIĄ",
+	"nameD": "NAD DLUBNIA"
+}, {
+	"id": "2542",
+	"name": "MAKUSZYŃSKIEGO (NŻ)",
+	"nameD": "MAKUSZYNSKIEGO (NZ)"
+}, {
+	"id": "2543",
+	"name": "WAŃKOWICZA",
+	"nameD": "WANKOWICZA"
+}, {
+	"id": "2544",
+	"name": "SOŁTYSOWSKA (NŻ)",
+	"nameD": "SOLTYSOWSKA (NZ)"
+}, {
+	"id": "2545",
+	"name": "SOŁTYSOWSKA ZAKŁADY",
+	"nameD": "SOLTYSOWSKA ZAKLADY"
+}, {
+	"id": "2546",
+	"name": "SOŁTYSOWSKA OSIEDLE",
+	"nameD": "SOLTYSOWSKA OSIEDLE"
+}, {
+	"id": "2547",
+	"name": "SIEROSZEWSKIEGO (NŻ)",
+	"nameD": "SIEROSZEWSKIEGO (NZ)"
+}, {
+	"id": "2551",
+	"name": "BARWNA (NŻ)",
+	"nameD": "BARWNA (NZ)"
+}, {
+	"id": "2552",
+	"name": "WĘGRZYNOWICE DÓŁ (NŻ)",
+	"nameD": "WEGRZYNOWICE DOL (NZ)"
+}, {
+	"id": "2554",
+	"name": "WADÓW GLINIK (NŻ)",
+	"nameD": "WADOW GLINIK (NZ)"
+}, {
+	"id": "2556",
+	"name": "SIWKA (NŻ)",
+	"nameD": "SIWKA (NZ)"
+}, {
+	"id": "2557",
+	"name": "LASEK MOGILSKI",
+	"nameD": "LASEK MOGILSKI"
+}, {
+	"id": "2558",
+	"name": "STARE WIŚLISKO",
+	"nameD": "STARE WISLISKO"
+}, {
+	"id": "2559",
+	"name": "KOSZYKARSKA",
+	"nameD": "KOSZYKARSKA"
+}, {
+	"id": "2560",
+	"name": "PARK 'SKAŁY TWARDOWSKIEGO' (NŻ)",
+	"nameD": "PARK 'SKALY TWARDOWSKIEGO' (NZ)"
+}, {
+	"id": "2561",
+	"name": "BOLESŁAWA ŚMIAŁEGO",
+	"nameD": "BOLESLAWA SMIALEGO"
+}, {
+	"id": "2562",
+	"name": "TYNIECKA AUTOSTRADA (NŻ)",
+	"nameD": "TYNIECKA AUTOSTRADA (NZ)"
+}, {
+	"id": "2563",
+	"name": "KOLNA (NŻ)",
+	"nameD": "KOLNA (NZ)"
+}, {
+	"id": "2564",
+	"name": "WAŁY WIŚLANE (NŻ)",
+	"nameD": "WALY WISLANE (NZ)"
+}, {
+	"id": "2565",
+	"name": "BAGIENNA",
+	"nameD": "BAGIENNA"
+}, {
+	"id": "2566",
+	"name": "FORT BODZÓW (NŻ)",
+	"nameD": "FORT BODZOW (NZ)"
+}, {
+	"id": "2567",
+	"name": "GÓRKA PYCHOWICKA (NŻ)",
+	"nameD": "GORKA PYCHOWICKA (NZ)"
+}, {
+	"id": "2568",
+	"name": "RODZINNA",
+	"nameD": "RODZINNA"
+}, {
+	"id": "2569",
+	"name": "PYCHOWICE",
+	"nameD": "PYCHOWICE"
+}, {
+	"id": "2570",
+	"name": "SURZYCKIEGO",
+	"nameD": "SURZYCKIEGO"
+}, {
+	"id": "2571",
+	"name": "SUŁKOWSKIEGO",
+	"nameD": "SULKOWSKIEGO"
+}, {
+	"id": "2573",
+	"name": "ALBATROSÓW",
+	"nameD": "ALBATROSOW"
+}, {
+	"id": "2574",
+	"name": "BISKUPIŃSKA (NŻ)",
+	"nameD": "BISKUPINSKA (NZ)"
+}, {
+	"id": "2576",
+	"name": "ZAJEZDNIA PŁASZÓW",
+	"nameD": "ZAJEZDNIA PLASZOW"
+}, {
+	"id": "2577",
+	"name": "ZŁOCIENIOWA",
+	"nameD": "ZLOCIENIOWA"
+}, {
+	"id": "2578",
+	"name": "WEIGLA",
+	"nameD": "WEIGLA"
+}, {
+	"id": "2580",
+	"name": "NOWY BIEŻANÓW (NŻ)",
+	"nameD": "NOWY BIEZANOW (NZ)"
+}, {
+	"id": "2581",
+	"name": "NOWY BIEŻANÓW POŁUDNIE",
+	"nameD": "NOWY BIEZANOW POLUDNIE"
+}, {
+	"id": "2582",
+	"name": "NOWY PROKOCIM",
+	"nameD": "NOWY PROKOCIM"
+}, {
+	"id": "2583",
+	"name": "HALLERA (NŻ)",
+	"nameD": "HALLERA (NZ)"
+}, {
+	"id": "2584",
+	"name": "SŁONA WODA",
+	"nameD": "SLONA WODA"
+}, {
+	"id": "2585",
+	"name": "KOSOCICKA (NŻ)",
+	"nameD": "KOSOCICKA (NZ)"
+}, {
+	"id": "2586",
+	"name": "JERZMANOWSKIEGO",
+	"nameD": "JERZMANOWSKIEGO"
+}, {
+	"id": "2587",
+	"name": "FORT SWOSZOWICE (NŻ)",
+	"nameD": "FORT SWOSZOWICE (NZ)"
+}, {
+	"id": "2588",
+	"name": "GEOLOGÓW (NŻ)",
+	"nameD": "GEOLOGOW (NZ)"
+}, {
+	"id": "2589",
+	"name": "MALINOWSKIEGO (NŻ)",
+	"nameD": "MALINOWSKIEGO (NZ)"
+}, {
+	"id": "2590",
+	"name": "DRUŻBACKIEJ",
+	"nameD": "DRUZBACKIEJ"
+}, {
+	"id": "2592",
+	"name": "ŻELAZOWSKIEGO (NŻ)",
+	"nameD": "ZELAZOWSKIEGO (NZ)"
+}, {
+	"id": "2593",
+	"name": "SZCZEGÓW",
+	"nameD": "SZCZEGOW"
+}, {
+	"id": "2594",
+	"name": "NIEBIESKA AUTOSTRADA (NŻ)",
+	"nameD": "NIEBIESKA AUTOSTRADA (NZ)"
+}, {
+	"id": "2595",
+	"name": "CECHOWA (NŻ)",
+	"nameD": "CECHOWA (NZ)"
+}, {
+	"id": "2596",
+	"name": "ŁUŻYCKA (NŻ)",
+	"nameD": "LUZYCKA (NZ)"
+}, {
+	"id": "2597",
+	"name": "BOCHENKA (NŻ)",
+	"nameD": "BOCHENKA (NZ)"
+}, {
+	"id": "2598",
+	"name": "WRONY",
+	"nameD": "WRONY"
+}, {
+	"id": "2599",
+	"name": "WARCHAŁOWSKIEGO",
+	"nameD": "WARCHALOWSKIEGO"
+}, {
+	"id": "2601",
+	"name": "KROWODRZA URZĘDY SKARBOWE",
+	"nameD": "KROWODRZA URZEDY SKARBOWE"
+}, {
+	"id": "2602",
+	"name": "SUDOLSKA",
+	"nameD": "SUDOLSKA"
+}, {
+	"id": "2603",
+	"name": "BULWAROWA OGRÓDKI DZIAŁKOWE (NŻ)",
+	"nameD": "BULWAROWA OGRODKI DZIALKOWE (NZ)"
+}, {
+	"id": "2604",
+	"name": "ŁUCZYŃSKIEGO (NŻ)",
+	"nameD": "LUCZYNSKIEGO (NZ)"
+}, {
+	"id": "2605",
+	"name": "ŚWIDZIŃSKIEGO (NŻ)",
+	"nameD": "SWIDZINSKIEGO (NZ)"
+}, {
+	"id": "2606",
+	"name": "NATANSONA",
+	"nameD": "NATANSONA"
+}, {
+	"id": "2607",
+	"name": "SŁOMCZYŃSKIEGO",
+	"nameD": "SLOMCZYNSKIEGO"
+}, {
+	"id": "2608",
+	"name": "DWORZEC GŁÓWNY ZACHÓD",
+	"nameD": "DWORZEC GLOWNY ZACHOD"
+}, {
+	"id": "2610",
+	"name": "ŚLASKIEGO (NŻ)",
+	"nameD": "SLASKIEGO (NZ)"
+}, {
+	"id": "2614",
+	"name": "DROŻDŻOWA",
+	"nameD": "DROZDZOWA"
+}, {
+	"id": "2615",
+	"name": "GAIK (NŻ)",
+	"nameD": "GAIK (NZ)"
+}, {
+	"id": "2616",
+	"name": "NA BUDZYNIU",
+	"nameD": "NA BUDZYNIU"
+}, {
+	"id": "2617",
+	"name": "JORDANOWSKA (NŻ)",
+	"nameD": "JORDANOWSKA (NZ)"
+}, {
+	"id": "2619",
+	"name": "LESZKA BIAŁEGO",
+	"nameD": "LESZKA BIALEGO"
+}, {
+	"id": "2621",
+	"name": "ZESŁAWICE OGRÓDKI DZIAŁKOWE (NŻ)",
+	"nameD": "ZESLAWICE OGRODKI DZIALKOWE (NZ)"
+}, {
+	"id": "2625",
+	"name": "ALEJA WASZYNGTONA (NŻ)",
+	"nameD": "ALEJA WASZYNGTONA (NZ)"
+}, {
+	"id": "2626",
+	"name": "JANA KAZIMIERZA",
+	"nameD": "JANA KAZIMIERZA"
+}, {
+	"id": "2627",
+	"name": "BYSTRONIA (NŻ)",
+	"nameD": "BYSTRONIA (NZ)"
+}, {
+	"id": "2628",
+	"name": "GARLICA DUCHOWNA ROZJAZD",
+	"nameD": "GARLICA DUCHOWNA ROZJAZD"
+}, {
+	"id": "2629",
+	"name": "GARLICZKA CHOCHÓŁ (NŻ)",
+	"nameD": "GARLICZKA CHOCHOL (NZ)"
+}, {
+	"id": "2630",
+	"name": "OWCZARY GÓRNA (NŻ)",
+	"nameD": "OWCZARY GORNA (NZ)"
+}, {
+	"id": "2632",
+	"name": "OWCZARY GAJOWA (NŻ)",
+	"nameD": "OWCZARY GAJOWA (NZ)"
+}, {
+	"id": "2633",
+	"name": "BELWEDERCZYKÓW (NŻ)",
+	"nameD": "BELWEDERCZYKOW (NZ)"
+}, {
+	"id": "2634",
+	"name": "OPATKOWICE ZADWORZE",
+	"nameD": "OPATKOWICE ZADWORZE"
+}, {
+	"id": "2635",
+	"name": "BALICE GRZYBÓW (NŻ)",
+	"nameD": "BALICE GRZYBOW (NZ)"
+}, {
+	"id": "2636",
+	"name": "BALICE LEŚNA (NŻ)",
+	"nameD": "BALICE LESNA (NZ)"
+}, {
+	"id": "2637",
+	"name": "LUSINA GRANICA",
+	"nameD": "LUSINA GRANICA"
+}, {
+	"id": "2638",
+	"name": "LIBERTÓW DOLNY (NŻ)",
+	"nameD": "LIBERTOW DOLNY (NZ)"
+}, {
+	"id": "2639",
+	"name": "WAŻEWSKIEGO",
+	"nameD": "WAZEWSKIEGO"
+}, {
+	"id": "2640",
+	"name": "WRÓŻENICKA (NŻ)",
+	"nameD": "WROZENICKA (NZ)"
+}, {
+	"id": "2641",
+	"name": "WRÓŻENICE GÓRKA (NŻ)",
+	"nameD": "WROZENICE GORKA (NZ)"
+}, {
+	"id": "2642",
+	"name": "HEKTARY (NŻ)",
+	"nameD": "HEKTARY (NZ)"
+}, {
+	"id": "2643",
+	"name": "OSTAFINA",
+	"nameD": "OSTAFINA"
+}, {
+	"id": "2644",
+	"name": "KOŚCIELNIKI",
+	"nameD": "KOSCIELNIKI"
+}, {
+	"id": "2645",
+	"name": "WYCIĄŻE ZACHÓD (NŻ)",
+	"nameD": "WYCIAZE ZACHOD (NZ)"
+}, {
+	"id": "2646",
+	"name": "SZYMAŃSKIEGO (NŻ)",
+	"nameD": "SZYMANSKIEGO (NZ)"
+}, {
+	"id": "2647",
+	"name": "WYCIĄSKA (NŻ)",
+	"nameD": "WYCIASKA (NZ)"
+}, {
+	"id": "2648",
+	"name": "BRZESKA (NŻ)",
+	"nameD": "BRZESKA (NZ)"
+}, {
+	"id": "2649",
+	"name": "ZAKĘPIE (NŻ)",
+	"nameD": "ZAKEPIE (NZ)"
+}, {
+	"id": "2650",
+	"name": "TRUSKAWKOWA (NŻ)",
+	"nameD": "TRUSKAWKOWA (NZ)"
+}, {
+	"id": "2651",
+	"name": "CHAŁUPKI GÓRNE (NŻ)",
+	"nameD": "CHALUPKI GORNE (NZ)"
+}, {
+	"id": "2652",
+	"name": "BRANICE OŚRODEK ZDROWIA (NŻ)",
+	"nameD": "BRANICE OSRODEK ZDROWIA (NZ)"
+}, {
+	"id": "2653",
+	"name": "CIEKOWIEC (NŻ)",
+	"nameD": "CIEKOWIEC (NZ)"
+}, {
+	"id": "2654",
+	"name": "RZEPAKOWA ŚWIETLICA (NŻ)",
+	"nameD": "RZEPAKOWA SWIETLICA (NZ)"
+}, {
+	"id": "2655",
+	"name": "OCZYSZCZALNIA ŚCIEKÓW 'KUJAWY' (NŻ)",
+	"nameD": "OCZYSZCZALNIA SCIEKOW 'KUJAWY' (NZ)"
+}, {
+	"id": "2656",
+	"name": "NADBRZEZIE (NŻ)",
+	"nameD": "NADBRZEZIE (NZ)"
+}, {
+	"id": "2657",
+	"name": "DYMAREK (NŻ)",
+	"nameD": "DYMAREK (NZ)"
+}, {
+	"id": "2686",
+	"name": "LIPIŃSKIEGO",
+	"nameD": "LIPINSKIEGO"
+}, {
+	"id": "2687",
+	"name": "GROTA-ROWECKIEGO",
+	"nameD": "GROTA-ROWECKIEGO"
+}, {
+	"id": "2688",
+	"name": "NORYMBERSKA",
+	"nameD": "NORYMBERSKA"
+}, {
+	"id": "2689",
+	"name": "ROSTWOROWSKIEGO",
+	"nameD": "ROSTWOROWSKIEGO"
+}, {
+	"id": "2690",
+	"name": "KAMPUS UJ",
+	"nameD": "KAMPUS UJ"
+}, {
+	"id": "2691",
+	"name": "CHMIELENIEC",
+	"nameD": "CHMIELENIEC"
+}, {
+	"id": "2694",
+	"name": "MOCHNANIEC (NŻ)",
+	"nameD": "MOCHNANIEC (NZ)"
+}, {
+	"id": "2695",
+	"name": "BRZOSKWINIA GÓRA (NŻ)",
+	"nameD": "BRZOSKWINIA GORA (NZ)"
+}, {
+	"id": "2697",
+	"name": "TOMASZOWICE GLINIKI (NŻ)",
+	"nameD": "TOMASZOWICE GLINIKI (NZ)"
+}, {
+	"id": "2699",
+	"name": "CMENTARZ BATOWICE WSCHÓD (NŻ)",
+	"nameD": "CMENTARZ BATOWICE WSCHOD (NZ)"
+}, {
+	"id": "2700",
+	"name": "BĘDKOWICE PĘTLA",
+	"nameD": "BEDKOWICE PETLA"
+}, {
+	"id": "2702",
+	"name": "WOLA ZACHARIASZOWSKA KRESY",
+	"nameD": "WOLA ZACHARIASZOWSKA KRESY"
+}, {
+	"id": "2703",
+	"name": "PĘKOWICE",
+	"nameD": "PEKOWICE"
+}, {
+	"id": "2706",
+	"name": "LIBERTÓW",
+	"nameD": "LIBERTOW"
+}, {
+	"id": "2707",
+	"name": "LIBERTÓW SZKOŁA",
+	"nameD": "LIBERTOW SZKOLA"
+}, {
+	"id": "2708",
+	"name": "BRZYCZYNA",
+	"nameD": "BRZYCZYNA"
+}, {
+	"id": "2710",
+	"name": "LIBERTÓW KRZYŻÓWKA",
+	"nameD": "LIBERTOW KRZYZOWKA"
+}, {
+	"id": "2711",
+	"name": "LIBERTÓW DZIAŁY (NŻ)",
+	"nameD": "LIBERTOW DZIALY (NZ)"
+}, {
+	"id": "2714",
+	"name": "MNIKÓW PAŃSKA GÓRA (NŻ)",
+	"nameD": "MNIKOW PANSKA GORA (NZ)"
+}, {
+	"id": "2715",
+	"name": "MNIKÓW SKAŁY",
+	"nameD": "MNIKOW SKALY"
+}, {
+	"id": "2720",
+	"name": "TRZECIA GÓRA (NŻ)",
+	"nameD": "TRZECIA GORA (NZ)"
+}, {
+	"id": "2722",
+	"name": "WIELICKA GRANICA MIASTA",
+	"nameD": "WIELICKA GRANICA MIASTA"
+}, {
+	"id": "2724",
+	"name": "TR",
+	"nameD": "TR"
+}, {
+	"id": "2725",
+	"name": "BIEŻANÓW GRANICA MIASTA",
+	"nameD": "BIEZANOW GRANICA MIASTA"
+}, {
+	"id": "2727",
+	"name": "OCHMANÓW OTACZARNIA (NŻ)",
+	"nameD": "OCHMANOW OTACZARNIA (NZ)"
+}, {
+	"id": "2728",
+	"name": "PODŁĘŻE PRZEDSZKOLE (NŻ)",
+	"nameD": "PODLEZE PRZEDSZKOLE (NZ)"
+}, {
+	"id": "2729",
+	"name": "MICHAŁOWICE OŚRODEK ZDROWIA",
+	"nameD": "MICHALOWICE OSRODEK ZDROWIA"
+}, {
+	"id": "2730",
+	"name": "WIELICZKA NIEPOŁOMSKA (NŻ)",
+	"nameD": "WIELICZKA NIEPOLOMSKA (NZ)"
+}, {
+	"id": "2731",
+	"name": "SKARŻYŃSKIEGO",
+	"nameD": "SKARZYNSKIEGO"
+}, {
+	"id": "2732",
+	"name": "RZESZOTARY TEMPO (NŻ)",
+	"nameD": "RZESZOTARY TEMPO (NZ)"
+}, {
+	"id": "2733",
+	"name": "SŁOMNIKI KOŚCIUSZKI",
+	"nameD": "SLOMNIKI KOSCIUSZKI"
+}, {
+	"id": "2736",
+	"name": "M1 NOWOHUCKA",
+	"nameD": "M1 NOWOHUCKA"
+}, {
+	"id": "2737",
+	"name": "OS. MISTRZEJOWICE NOWE",
+	"nameD": "OS. MISTRZEJOWICE NOWE"
+}, {
+	"id": "2738",
+	"name": "WADÓW OS.KOLEJOWE",
+	"nameD": "WADOW OS.KOLEJOWE"
+}, {
+	"id": "2739",
+	"name": "KS.TARGOSZA (NŻ)",
+	"nameD": "KS.TARGOSZA (NZ)"
+}, {
+	"id": "2740",
+	"name": "KRZYSZKOWICE OS.SZYMANOWSKIEGO (NŻ)",
+	"nameD": "KRZYSZKOWICE OS.SZYMANOWSKIEGO (NZ)"
+}, {
+	"id": "2741",
+	"name": "ŚW.GERTRUDY",
+	"nameD": "SW.GERTRUDY"
+}, {
+	"id": "2742",
+	"name": "ŚW.WAWRZYŃCA",
+	"nameD": "SW.WAWRZYNCA"
+}, {
+	"id": "2744",
+	"name": "PLAC CENTRALNY IM. R.REAGANA",
+	"nameD": "PLAC CENTRALNY IM. R.REAGANA"
+}, {
+	"id": "2745",
+	"name": "RONDO KOCMYRZOWSKIE IM. KS. GORZELANEGO",
+	"nameD": "RONDO KOCMYRZOWSKIE IM. KS. GORZELANEGO"
+}, {
+	"id": "2746",
+	"name": "PROKOCIM RYNEK",
+	"nameD": "PROKOCIM RYNEK"
+}, {
+	"id": "2751",
+	"name": "GLOGERA (NŻ)",
+	"nameD": "GLOGERA (NZ)"
+}, {
+	"id": "2752",
+	"name": "GLOGERA GRANICA MIASTA (NŻ)",
+	"nameD": "GLOGERA GRANICA MIASTA (NZ)"
+}, {
+	"id": "2759",
+	"name": "SZPITAL OKULISTYCZNY",
+	"nameD": "SZPITAL OKULISTYCZNY"
+}, {
+	"id": "2760",
+	"name": "GOSZCZA",
+	"nameD": "GOSZCZA"
+}, {
+	"id": "2761",
+	"name": "ŁUCZYCE ZWIERZYNIEC (NŻ)",
+	"nameD": "LUCZYCE ZWIERZYNIEC (NZ)"
+}, {
+	"id": "2762",
+	"name": "SADOWIE (NŻ)",
+	"nameD": "SADOWIE (NZ)"
+}, {
+	"id": "2763",
+	"name": "GOSZCZA CMENTARZ (NŻ)",
+	"nameD": "GOSZCZA CMENTARZ (NZ)"
+}, {
+	"id": "2766",
+	"name": "GIEŁDA BALICKA P+R (NŻ)",
+	"nameD": "GIELDA BALICKA P+R (NZ)"
+}, {
+	"id": "2768",
+	"name": "ŚWIĄTNIKI KRAKOWSKA (NŻ)",
+	"nameD": "SWIATNIKI KRAKOWSKA (NZ)"
+}, {
+	"id": "2769",
+	"name": "BOSUTÓW KRAKOWSKA (NŻ)",
+	"nameD": "BOSUTOW KRAKOWSKA (NZ)"
+}, {
+	"id": "2770",
+	"name": "GARLICA MUROWANA KASZTANY (NŻ)",
+	"nameD": "GARLICA MUROWANA KASZTANY (NZ)"
+}, {
+	"id": "2772",
+	"name": "LIBERTÓW ZGODNA (NŻ)",
+	"nameD": "LIBERTOW ZGODNA (NZ)"
+}, {
+	"id": "2774",
+	"name": "RADZISZÓW CMENTARZ (NŻ)",
+	"nameD": "RADZISZOW CMENTARZ (NZ)"
+}, {
+	"id": "2775",
+	"name": "NAŁKOWSKIEJ",
+	"nameD": "NALKOWSKIEJ"
+}, {
+	"id": "2776",
+	"name": "PETRAŻYCKIEGO (NŻ)",
+	"nameD": "PETRAZYCKIEGO (NZ)"
+}, {
+	"id": "2778",
+	"name": "RZESZOTARY POD DĘBINĄ (NŻ)",
+	"nameD": "RZESZOTARY POD DEBINA (NZ)"
+}, {
+	"id": "2779",
+	"name": "BUDZYŃ ZALEW NA PIASKACH (NŻ)",
+	"nameD": "BUDZYN ZALEW NA PIASKACH (NZ)"
+}, {
+	"id": "2780",
+	"name": "BUDZYŃ PLAŻA GŁÓWNA (NŻ)",
+	"nameD": "BUDZYN PLAZA GLOWNA (NZ)"
+}, {
+	"id": "2781",
+	"name": "BUDZYŃ ZALEW BUDZYŃSKI (NŻ)",
+	"nameD": "BUDZYN ZALEW BUDZYNSKI (NZ)"
+}, {
+	"id": "2783",
+	"name": "BIBICE CMENTARZ (NŻ)",
+	"nameD": "BIBICE CMENTARZ (NZ)"
+}, {
+	"id": "2784",
+	"name": "ZIELONKI GALICYJSKA (NŻ)",
+	"nameD": "ZIELONKI GALICYJSKA (NZ)"
+}, {
+	"id": "2789",
+	"name": "ZAKOLE",
+	"nameD": "ZAKOLE"
+}, {
+	"id": "2790",
+	"name": "LASEK ŁĘGOWSKI (NŻ)",
+	"nameD": "LASEK LEGOWSKI (NZ)"
+}, {
+	"id": "2791",
+	"name": "STAWOWA",
+	"nameD": "STAWOWA"
+}, {
+	"id": "2792",
+	"name": "JUDYMA SZKOŁA",
+	"nameD": "JUDYMA SZKOLA"
+}, {
+	"id": "2796",
+	"name": "BANACHA",
+	"nameD": "BANACHA"
+}, {
+	"id": "2797",
+	"name": "GÓRKA NARODOWA WSCHÓD",
+	"nameD": "GORKA NARODOWA WSCHOD"
+}, {
+	"id": "2806",
+	"name": "POZIOMKOWA",
+	"nameD": "POZIOMKOWA"
+}, {
+	"id": "2808",
+	"name": "LUDWINÓW",
+	"nameD": "LUDWINOW"
+}, {
+	"id": "2811",
+	"name": "MUZEUM LOTNICTWA",
+	"nameD": "MUZEUM LOTNICTWA"
+}, {
+	"id": "2812",
+	"name": "OS. PODWAWELSKIE",
+	"nameD": "OS. PODWAWELSKIE"
+}, {
+	"id": "2813",
+	"name": "KOPANKA KOŚCIÓŁ (NŻ)",
+	"nameD": "KOPANKA KOSCIOL (NZ)"
+}, {
+	"id": "2814",
+	"name": "WIELICZKA KLAŚNIEŃSKA (NŻ)",
+	"nameD": "WIELICZKA KLASNIENSKA (NZ)"
+}, {
+	"id": "2815",
+	"name": "WIELICZKA SĄD",
+	"nameD": "WIELICZKA SAD"
+}, {
+	"id": "2816",
+	"name": "WIELICZKA SOLNE MIASTO",
+	"nameD": "WIELICZKA SOLNE MIASTO"
+}, {
+	"id": "2817",
+	"name": "KRZYSZKOWICE KRZYSZKOWICKA",
+	"nameD": "KRZYSZKOWICE KRZYSZKOWICKA"
+}, {
+	"id": "2820",
+	"name": "SKAWINA WYSPIAŃSKIEGO SZKOŁA (NŻ)",
+	"nameD": "SKAWINA WYSPIANSKIEGO SZKOLA (NZ)"
+}, {
+	"id": "2821",
+	"name": "ŁAGIEWNIKI ZUS",
+	"nameD": "LAGIEWNIKI ZUS"
+}, {
+	"id": "2852",
+	"name": "WIELICZKA GOLIANA",
+	"nameD": "WIELICZKA GOLIANA"
+}, {
+	"id": "2853",
+	"name": "SKAWINA GRANICZNA (NŻ)",
+	"nameD": "SKAWINA GRANICZNA (NZ)"
+}, {
+	"id": "2854",
+	"name": "SKAWINA BUKOWSKA (NŻ)",
+	"nameD": "SKAWINA BUKOWSKA (NZ)"
+}, {
+	"id": "2856",
+	"name": "GAJ KWIATOWA (NŻ)",
+	"nameD": "GAJ KWIATOWA (NZ)"
+}, {
+	"id": "2857",
+	"name": "GAJ RUDAWA (NŻ)",
+	"nameD": "GAJ RUDAWA (NZ)"
+}, {
+	"id": "2858",
+	"name": "GAJ ZGODY (NŻ)",
+	"nameD": "GAJ ZGODY (NZ)"
+}, {
+	"id": "2859",
+	"name": "TEATR VARIÉTÉ",
+	"nameD": "TEATR VARIÉTÉ"
+}, {
+	"id": "2860",
+	"name": "PISARY KASZTANOWA (NŻ)",
+	"nameD": "PISARY KASZTANOWA (NZ)"
+}, {
+	"id": "2861",
+	"name": "KRAKÓW AIRPORT",
+	"nameD": "KRAKOW AIRPORT"
+}, {
+	"id": "2862",
+	"name": "WIELICZKA KAMPUS",
+	"nameD": "WIELICZKA KAMPUS"
+}, {
+	"id": "2863",
+	"name": "SKAWINA CENTRUM SPORTOWE",
+	"nameD": "SKAWINA CENTRUM SPORTOWE"
+}, {
+	"id": "2864",
+	"name": "KLESZCZÓW POD LIPKĄ (NŻ)",
+	"nameD": "KLESZCZOW POD LIPKA (NZ)"
+}, {
+	"id": "2865",
+	"name": "BAGRY",
+	"nameD": "BAGRY"
+}, {
+	"id": "2867",
+	"name": "SKAWINA PILECKIEGO",
+	"nameD": "SKAWINA PILECKIEGO"
+}, {
+	"id": "2868",
+	"name": "SKAWINA OFIAR KATYNIA",
+	"nameD": "SKAWINA OFIAR KATYNIA"
+}, {
+	"id": "2869",
+	"name": "BĘDKOWICE DŁUGA (NŻ)",
+	"nameD": "BEDKOWICE DLUGA (NZ)"
+}, {
+	"id": "2871",
+	"name": "TAURON ARENA KRAKÓW AL. POKOJU (NŻ)",
+	"nameD": "TAURON ARENA KRAKOW AL. POKOJU (NZ)"
+}, {
+	"id": "2872",
+	"name": "TAURON ARENA KRAKÓW",
+	"nameD": "TAURON ARENA KRAKOW"
+}, {
+	"id": "2873",
+	"name": "PŁASZOWSKA",
+	"nameD": "PLASZOWSKA"
+}, {
+	"id": "2874",
+	"name": "STRYCHARSKA",
+	"nameD": "STRYCHARSKA"
+}, {
+	"id": "2875",
+	"name": "MODLNICA TROJADYN SZYDŁO (NŻ)",
+	"nameD": "MODLNICA TROJADYN SZYDLO (NZ)"
+}, {
+	"id": "2876",
+	"name": "GIEBUŁTÓW TROJADYN TRAFO (NŻ)",
+	"nameD": "GIEBULTOW TROJADYN TRAFO (NZ)"
+}, {
+	"id": "2877",
+	"name": "GIEBUŁTÓW TROJADYN (NŻ)",
+	"nameD": "GIEBULTOW TROJADYN (NZ)"
+}, {
+	"id": "2878",
+	"name": "CHOPINA",
+	"nameD": "CHOPINA"
+}, {
+	"id": "2879",
+	"name": "CZUŁÓW SZKOŁA",
+	"nameD": "CZULOW SZKOLA"
+}, {
+	"id": "2880",
+	"name": "CZUŁÓW DROGA NA CZUŁÓWEK (NŻ)",
+	"nameD": "CZULOW DROGA NA CZULOWEK (NZ)"
+}, {
+	"id": "2881",
+	"name": "CZUŁÓW (NŻ)",
+	"nameD": "CZULOW (NZ)"
+}, {
+	"id": "2882",
+	"name": "MNIKÓW DROGA DO KASZOWA (NŻ)",
+	"nameD": "MNIKOW DROGA DO KASZOWA (NZ)"
+}, {
+	"id": "2884",
+	"name": "RYBNA NOWY ŚWIAT GÓRA (NŻ)",
+	"nameD": "RYBNA NOWY SWIAT GORA (NZ)"
+}, {
+	"id": "2885",
+	"name": "RYBNA SZKOŁA (NŻ)",
+	"nameD": "RYBNA SZKOLA (NZ)"
+}, {
+	"id": "2886",
+	"name": "KASZÓW WYŹRAŁ (NŻ)",
+	"nameD": "KASZOW WYZRAL (NZ)"
+}, {
+	"id": "2887",
+	"name": "LISZKI WOŁOWSKA DROGA (NŻ)",
+	"nameD": "LISZKI WOLOWSKA DROGA (NZ)"
+}, {
+	"id": "2888",
+	"name": "ZAGACIE (NŻ)",
+	"nameD": "ZAGACIE (NZ)"
+}, {
+	"id": "2889",
+	"name": "ZAGACIE WITKÓWKI (NŻ)",
+	"nameD": "ZAGACIE WITKOWKI (NZ)"
+}, {
+	"id": "2890",
+	"name": "CZERNICHÓW ZAKAMYCZE (NŻ)",
+	"nameD": "CZERNICHOW ZAKAMYCZE (NZ)"
+}, {
+	"id": "2891",
+	"name": "CZERNICHÓW RATANICE MOST (NŻ)",
+	"nameD": "CZERNICHOW RATANICE MOST (NZ)"
+}, {
+	"id": "2892",
+	"name": "CZERNICHÓW RATANICE (NŻ)",
+	"nameD": "CZERNICHOW RATANICE (NZ)"
+}, {
+	"id": "2893",
+	"name": "RUSOCICE STACJA BENZYNOWA (NŻ)",
+	"nameD": "RUSOCICE STACJA BENZYNOWA (NZ)"
+}, {
+	"id": "2894",
+	"name": "RUSOCICE DROGA DO KOŚCIOŁA (NŻ)",
+	"nameD": "RUSOCICE DROGA DO KOSCIOLA (NZ)"
+}, {
+	"id": "2895",
+	"name": "KRYSPINÓW STOPIEŃ WODNY (NŻ)",
+	"nameD": "KRYSPINOW STOPIEN WODNY (NZ)"
+}, {
+	"id": "2896",
+	"name": "PIEKARY NA BRZEGU (NŻ)",
+	"nameD": "PIEKARY NA BRZEGU (NZ)"
+}, {
+	"id": "2897",
+	"name": "PIEKARY KOREA (NŻ)",
+	"nameD": "PIEKARY KOREA (NZ)"
+}, {
+	"id": "2898",
+	"name": "PIEKARY BORKI (NŻ)",
+	"nameD": "PIEKARY BORKI (NZ)"
+}, {
+	"id": "2899",
+	"name": "LISZKI TYNIECKA (NŻ)",
+	"nameD": "LISZKI TYNIECKA (NZ)"
+}, {
+	"id": "2900",
+	"name": "PIEKARY DÓŁ (NŻ)",
+	"nameD": "PIEKARY DOL (NZ)"
+}, {
+	"id": "2901",
+	"name": "RĄCZNA OSP (NŻ)",
+	"nameD": "RACZNA OSP (NZ)"
+}, {
+	"id": "2902",
+	"name": "RĄCZNA BOISKO (NŻ)",
+	"nameD": "RACZNA BOISKO (NZ)"
+}, {
+	"id": "2903",
+	"name": "JEZIORZANY RONDO (NŻ)",
+	"nameD": "JEZIORZANY RONDO (NZ)"
+}, {
+	"id": "2904",
+	"name": "JEZIORZANY PĘTLA",
+	"nameD": "JEZIORZANY PETLA"
+}, {
+	"id": "2905",
+	"name": "LUSINA (NŻ)",
+	"nameD": "LUSINA (NZ)"
+}, {
+	"id": "2906",
+	"name": "PRZEGINIA NARODOWA BONAR (NŻ)",
+	"nameD": "PRZEGINIA NARODOWA BONAR (NZ)"
+}, {
+	"id": "2907",
+	"name": "WOŁOWICE PICHONÓWKA (NŻ)",
+	"nameD": "WOLOWICE PICHONOWKA (NZ)"
+}, {
+	"id": "2908",
+	"name": "MŁYNÓWKA SKA (NŻ)",
+	"nameD": "MLYNOWKA SKA (NZ)"
+}, {
+	"id": "2909",
+	"name": "GODLEWSKIEGO",
+	"nameD": "GODLEWSKIEGO"
+}, {
+	"id": "2910",
+	"name": "SZCZYGLICE PODKAMYCZE",
+	"nameD": "SZCZYGLICE PODKAMYCZE"
+}, {
+	"id": "2911",
+	"name": "CHROSNA PĘTLA",
+	"nameD": "CHROSNA PETLA"
+}, {
+	"id": "2912",
+	"name": "BALICE WINNA GÓRA (NŻ)",
+	"nameD": "BALICE WINNA GORA (NZ)"
+}, {
+	"id": "2913",
+	"name": "BURÓW CENTRUM",
+	"nameD": "BUROW CENTRUM"
+}, {
+	"id": "2914",
+	"name": "BURÓW (NŻ)",
+	"nameD": "BUROW (NZ)"
+}, {
+	"id": "2915",
+	"name": "BOLECHOWICE ZIELONA (NŻ)",
+	"nameD": "BOLECHOWICE ZIELONA (NZ)"
+}, {
+	"id": "2916",
+	"name": "BOLECHOWICE KRZEWINY (NŻ)",
+	"nameD": "BOLECHOWICE KRZEWINY (NZ)"
+}, {
+	"id": "2917",
+	"name": "BOLECHOWICE DROGI (NŻ)",
+	"nameD": "BOLECHOWICE DROGI (NZ)"
+}, {
+	"id": "2918",
+	"name": "ZELKÓW SPŁAWY (NŻ)",
+	"nameD": "ZELKOW SPLAWY (NZ)"
+}, {
+	"id": "2920",
+	"name": "BOLECHOWICE ZIELONA MAŁA (NŻ)",
+	"nameD": "BOLECHOWICE ZIELONA MALA (NZ)"
+}, {
+	"id": "2921",
+	"name": "WIĘCKOWICE LIPKA (NŻ)",
+	"nameD": "WIECKOWICE LIPKA (NZ)"
+}, {
+	"id": "2922",
+	"name": "DUBIE SKRZYŻOWANIE (NŻ)",
+	"nameD": "DUBIE SKRZYZOWANIE (NZ)"
+}, {
+	"id": "2923",
+	"name": "KRZESZOWICE KRAKOWSKA MUZEUM (NŻ)",
+	"nameD": "KRZESZOWICE KRAKOWSKA MUZEUM (NZ)"
+}, {
+	"id": "2924",
+	"name": "RUDAWA STADION (NŻ)",
+	"nameD": "RUDAWA STADION (NZ)"
+}, {
+	"id": "2925",
+	"name": "LIBERTÓW DROGA DO SIDZINY (NŻ)",
+	"nameD": "LIBERTOW DROGA DO SIDZINY (NZ)"
+}, {
+	"id": "2927",
+	"name": "SKAWINA PODGÓRKI SKAWIŃSKIE",
+	"nameD": "SKAWINA PODGORKI SKAWINSKIE"
+}, {
+	"id": "2928",
+	"name": "KRZĘCIN PĘTLA",
+	"nameD": "KRZECIN PETLA"
+}, {
+	"id": "2929",
+	"name": "SKAWINA OGRODY (NŻ)",
+	"nameD": "SKAWINA OGRODY (NZ)"
+}, {
+	"id": "2930",
+	"name": "SKAWINA KOPERNIKA (NŻ)",
+	"nameD": "SKAWINA KOPERNIKA (NZ)"
+}, {
+	"id": "2931",
+	"name": "KOPANKA PĘTLA",
+	"nameD": "KOPANKA PETLA"
+}, {
+	"id": "2932",
+	"name": "KOPANKA DRUGA (NŻ)",
+	"nameD": "KOPANKA DRUGA (NZ)"
+}, {
+	"id": "2935",
+	"name": "LUSINA ZIELONA",
+	"nameD": "LUSINA ZIELONA"
+}, {
+	"id": "2936",
+	"name": "LUSINA DOBRZYCZANY (NŻ)",
+	"nameD": "LUSINA DOBRZYCZANY (NZ)"
+}, {
+	"id": "2937",
+	"name": "LUSINA KRAŚNIK (NŻ)",
+	"nameD": "LUSINA KRASNIK (NZ)"
+}, {
+	"id": "2938",
+	"name": "LUSINA ZAGRODY (NŻ)",
+	"nameD": "LUSINA ZAGRODY (NZ)"
+}, {
+	"id": "2939",
+	"name": "RZESZOTARY PANCIAWA PĘTLA",
+	"nameD": "RZESZOTARY PANCIAWA PETLA"
+}, {
+	"id": "2940",
+	"name": "RZESZOTARY PANCIAWA (NŻ)",
+	"nameD": "RZESZOTARY PANCIAWA (NZ)"
+}, {
+	"id": "2942",
+	"name": "ŚWIĄTNIKI BIELOWICZA SZKOŁA",
+	"nameD": "SWIATNIKI BIELOWICZA SZKOLA"
+}, {
+	"id": "2943",
+	"name": "ŚWIĄTNIKI URZĄD MIASTA I GMINY",
+	"nameD": "SWIATNIKI URZAD MIASTA I GMINY"
+}, {
+	"id": "2944",
+	"name": "WRZĄSOWICE ZIELONA (NŻ)",
+	"nameD": "WRZASOWICE ZIELONA (NZ)"
+}, {
+	"id": "2945",
+	"name": "WRZĄSOWICE WRZOSOWA (NŻ)",
+	"nameD": "WRZASOWICE WRZOSOWA (NZ)"
+}, {
+	"id": "2946",
+	"name": "WRZĄSOWICE CENTRUM",
+	"nameD": "WRZASOWICE CENTRUM"
+}, {
+	"id": "2947",
+	"name": "WRZĄSOWICE PILECKIEGO (NŻ)",
+	"nameD": "WRZASOWICE PILECKIEGO (NZ)"
+}, {
+	"id": "2948",
+	"name": "WRZĄSOWICE (NŻ)",
+	"nameD": "WRZASOWICE (NZ)"
+}, {
+	"id": "2949",
+	"name": "ŚWIĄTNIKI BUK (NŻ)",
+	"nameD": "SWIATNIKI BUK (NZ)"
+}, {
+	"id": "2950",
+	"name": "WRZĄSOWICE NAD WILGĄ",
+	"nameD": "WRZASOWICE NAD WILGA"
+}, {
+	"id": "2951",
+	"name": "OCHOJNO DĄBRÓWKI",
+	"nameD": "OCHOJNO DABROWKI"
+}, {
+	"id": "2952",
+	"name": "WRZĄSOWICE POD SKAŁĄ (NŻ)",
+	"nameD": "WRZASOWICE POD SKALA (NZ)"
+}, {
+	"id": "2953",
+	"name": "MOGILANY KOPCE (NŻ)",
+	"nameD": "MOGILANY KOPCE (NZ)"
+}, {
+	"id": "2956",
+	"name": "CMENTARZ PÓŁŁANKI",
+	"nameD": "CMENTARZ POLLANKI"
+}, {
+	"id": "2957",
+	"name": "GARLICA DUCHOWNA DROGA DO GARLICZKI",
+	"nameD": "GARLICA DUCHOWNA DROGA DO GARLICZKI"
+}, {
+	"id": "2958",
+	"name": "GARLICA MUROWANA PODSKALE (NŻ)",
+	"nameD": "GARLICA MUROWANA PODSKALE (NZ)"
+}, {
+	"id": "2959",
+	"name": "BATOWICE SPŁAWY (NŻ)",
+	"nameD": "BATOWICE SPLAWY (NZ)"
+}, {
+	"id": "2960",
+	"name": "BIBICE KOŚCIUSZKI",
+	"nameD": "BIBICE KOSCIUSZKI"
+}, {
+	"id": "2961",
+	"name": "BIBICE RYNEK",
+	"nameD": "BIBICE RYNEK"
+}, {
+	"id": "2962",
+	"name": "BATOWICE DŁUBNIA",
+	"nameD": "BATOWICE DLUBNIA"
+}, {
+	"id": "2963",
+	"name": "MICHAŁOWICE GOŚCINIEC (NŻ)",
+	"nameD": "MICHALOWICE GOSCINIEC (NZ)"
+}, {
+	"id": "2964",
+	"name": "MICHAŁOWICE GÓRNA (NŻ)",
+	"nameD": "MICHALOWICE GORNA (NZ)"
+}, {
+	"id": "2965",
+	"name": "MICHAŁOWICE MICHAŁÓWKA (NŻ)",
+	"nameD": "MICHALOWICE MICHALOWKA (NZ)"
+}, {
+	"id": "2966",
+	"name": "NARAMA REMIZA",
+	"nameD": "NARAMA REMIZA"
+}, {
+	"id": "2967",
+	"name": "MICHAŁOWICE BRZOZOWA (NŻ)",
+	"nameD": "MICHALOWICE BRZOZOWA (NZ)"
+}, {
+	"id": "2968",
+	"name": "OWCZARY PĘTLA",
+	"nameD": "OWCZARY PETLA"
+}, {
+	"id": "2969",
+	"name": "OWCZARY (NŻ)",
+	"nameD": "OWCZARY (NZ)"
+}, {
+	"id": "2970",
+	"name": "KORZKIEW BOTOJA (NŻ)",
+	"nameD": "KORZKIEW BOTOJA (NZ)"
+}, {
+	"id": "2971",
+	"name": "KORZKIEW ZAMEK (NŻ)",
+	"nameD": "KORZKIEW ZAMEK (NZ)"
+}, {
+	"id": "2972",
+	"name": "SMARDZOWICE WOŁÓWKA (NŻ)",
+	"nameD": "SMARDZOWICE WOLOWKA (NZ)"
+}, {
+	"id": "2973",
+	"name": "GRĘBYNICE OSP (NŻ)",
+	"nameD": "GREBYNICE OSP (NZ)"
+}, {
+	"id": "2974",
+	"name": "GRĘBYNICE (NŻ)",
+	"nameD": "GREBYNICE (NZ)"
+}, {
+	"id": "2975",
+	"name": "KRASIENIEC POD LIPĄ",
+	"nameD": "KRASIENIEC POD LIPA"
+}, {
+	"id": "2976",
+	"name": "WOLA ZACHARIASZOWSKA ZAKOŃCE",
+	"nameD": "WOLA ZACHARIASZOWSKA ZAKONCE"
+}, {
+	"id": "2977",
+	"name": "TROJANOWICE KRAKOWSKA (NŻ)",
+	"nameD": "TROJANOWICE KRAKOWSKA (NZ)"
+}, {
+	"id": "2978",
+	"name": "ZIELONKI MARSZOWIEC PĘTLA",
+	"nameD": "ZIELONKI MARSZOWIEC PETLA"
+}, {
+	"id": "2979",
+	"name": "WĘGRZCE BOSUTÓW SUDÓŁ (NŻ)",
+	"nameD": "WEGRZCE BOSUTOW SUDOL (NZ)"
+}, {
+	"id": "2980",
+	"name": "WĘGRZCE BOSUTÓW (NŻ)",
+	"nameD": "WEGRZCE BOSUTOW (NZ)"
+}, {
+	"id": "2981",
+	"name": "MASŁOMIĄCA STAW (NŻ)",
+	"nameD": "MASLOMIACA STAW (NZ)"
+}, {
+	"id": "2982",
+	"name": "MASŁOMIĄCA (NŻ)",
+	"nameD": "MASLOMIACA (NZ)"
+}, {
+	"id": "2983",
+	"name": "MASZYCE (NŻ)",
+	"nameD": "MASZYCE (NZ)"
+}, {
+	"id": "2984",
+	"name": "PIELGRZYMOWICE PĘTLA",
+	"nameD": "PIELGRZYMOWICE PETLA"
+}, {
+	"id": "2985",
+	"name": "PIELGRZYMOWICE (NŻ)",
+	"nameD": "PIELGRZYMOWICE (NZ)"
+}, {
+	"id": "2986",
+	"name": "PIELGRZYMOWICE GRANICA (NŻ)",
+	"nameD": "PIELGRZYMOWICE GRANICA (NZ)"
+}, {
+	"id": "2987",
+	"name": "WIĘCŁAWICE STARE WYSYŁEK (NŻ)",
+	"nameD": "WIECLAWICE STARE WYSYLEK (NZ)"
+}, {
+	"id": "2988",
+	"name": "RACIBOROWICE GRANICA (NŻ)",
+	"nameD": "RACIBOROWICE GRANICA (NZ)"
+}, {
+	"id": "2989",
+	"name": "CMENTARZ GRĘBAŁÓW POŁUDNIE (NŻ)",
+	"nameD": "CMENTARZ GREBALOW POLUDNIE (NZ)"
+}, {
+	"id": "2990",
+	"name": "RZĄSKA CMENTARZ",
+	"nameD": "RZASKA CMENTARZ"
+}, {
+	"id": "2991",
+	"name": "HALA SPORTOWA PIASKI WIELKIE (NŻ)",
+	"nameD": "HALA SPORTOWA PIASKI WIELKIE (NZ)"
+}, {
+	"id": "2992",
+	"name": "CMENTARZ PROKOCIM",
+	"nameD": "CMENTARZ PROKOCIM"
+}, {
+	"id": "2993",
+	"name": "GNIEŹNIEŃSKA (NŻ)",
+	"nameD": "GNIEZNIENSKA (NZ)"
+}, {
+	"id": "2995",
+	"name": "BIBICE NA CZEKAJ",
+	"nameD": "BIBICE NA CZEKAJ"
+}, {
+	"id": "2996",
+	"name": "GŁĘBOKA KOLONIA (NŻ)",
+	"nameD": "GLEBOKA KOLONIA (NZ)"
+}, {
+	"id": "2997",
+	"name": "WYSIOŁEK LUBORZYCKI SKRZYŻOWANIE (NŻ)",
+	"nameD": "WYSIOLEK LUBORZYCKI SKRZYZOWANIE (NZ)"
+}, {
+	"id": "2998",
+	"name": "WYSIOŁEK LUBORZYCKI (NŻ)",
+	"nameD": "WYSIOLEK LUBORZYCKI (NZ)"
+}, {
+	"id": "2999",
+	"name": "WYSIOŁEK LUBORZYCKI KAPKAZY (NŻ)",
+	"nameD": "WYSIOLEK LUBORZYCKI KAPKAZY (NZ)"
+}, {
+	"id": "3000",
+	"name": "KOCMYRZÓW RONDO",
+	"nameD": "KOCMYRZOW RONDO"
+}, {
+	"id": "3001",
+	"name": "KOCMYRZÓW BIBLIOTEKA",
+	"nameD": "KOCMYRZOW BIBLIOTEKA"
+}, {
+	"id": "3002",
+	"name": "LUBORZYCA SZKOŁA",
+	"nameD": "LUBORZYCA SZKOLA"
+}, {
+	"id": "3003",
+	"name": "MARSZOWICE CENTRUM (NŻ)",
+	"nameD": "MARSZOWICE CENTRUM (NZ)"
+}, {
+	"id": "3004",
+	"name": "MARSZOWICE (NŻ)",
+	"nameD": "MARSZOWICE (NZ)"
+}, {
+	"id": "3005",
+	"name": "KOCMYRZÓW SODFINY (NŻ)",
+	"nameD": "KOCMYRZOW SODFINY (NZ)"
+}, {
+	"id": "3006",
+	"name": "WIELICZKA OS.ASNYKA",
+	"nameD": "WIELICZKA OS.ASNYKA"
+}, {
+	"id": "3007",
+	"name": "BĘDKOWICE CMENTARZ (NŻ)",
+	"nameD": "BEDKOWICE CMENTARZ (NZ)"
+}, {
+	"id": "3008",
+	"name": "SKAWINA ENERGETYKÓW PRZEJAZD PKP (NŻ)",
+	"nameD": "SKAWINA ENERGETYKOW PRZEJAZD PKP (NZ)"
+}, {
+	"id": "3009",
+	"name": "RZEPAKOWA (NŻ)",
+	"nameD": "RZEPAKOWA (NZ)"
+}, {
+	"id": "3010",
+	"name": "PRAWOCHEŃSKIEGO (NŻ)",
+	"nameD": "PRAWOCHENSKIEGO (NZ)"
+}, {
+	"id": "3012",
+	"name": "BALICE MEDWECKIEGO (NŻ)",
+	"nameD": "BALICE MEDWECKIEGO (NZ)"
+}, {
+	"id": "3013",
+	"name": "BALICE OLSZANICA BORY",
+	"nameD": "BALICE OLSZANICA BORY"
+}, {
+	"id": "3032",
+	"name": "STARY KLEPARZ",
+	"nameD": "STARY KLEPARZ"
+}, {
+	"id": "3033",
+	"name": "PLAZA",
+	"nameD": "PLAZA"
+}, {
+	"id": "3034",
+	"name": "CMENTARZ OLSZANICA (NŻ)",
+	"nameD": "CMENTARZ OLSZANICA (NZ)"
+}, {
+	"id": "3035",
+	"name": "PIELĘGNIAREK",
+	"nameD": "PIELEGNIAREK"
+}, {
+	"id": "3036",
+	"name": "SZPITAL NARUTOWICZA",
+	"nameD": "SZPITAL NARUTOWICZA"
+}, {
+	"id": "3037",
+	"name": "CIENISTA",
+	"nameD": "CIENISTA"
+}, {
+	"id": "3038",
+	"name": "CZERWONE MAKI P+R",
+	"nameD": "CZERWONE MAKI P+R"
+}, {
+	"id": "3039",
+	"name": "CENTRUM KONGRESOWE ICE",
+	"nameD": "CENTRUM KONGRESOWE ICE"
+}, {
+	"id": "3040",
+	"name": "TAURON ARENA KRAKÓW WIECZYSTA",
+	"nameD": "TAURON ARENA KRAKOW WIECZYSTA"
+}, {
+	"id": "3041",
+	"name": "RONDO 308. DYWIZJONU",
+	"nameD": "RONDO 308. DYWIZJONU"
+}, {
+	"id": "3042",
+	"name": "KOCMYRZÓW",
+	"nameD": "KOCMYRZOW"
+}, {
+	"id": "3043",
+	"name": "KRZYSZTOFORZYCE SKLEP (NŻ)",
+	"nameD": "KRZYSZTOFORZYCE SKLEP (NZ)"
+}, {
+	"id": "3044",
+	"name": "RŻĄKA",
+	"nameD": "RZAKA"
+}, {
+	"id": "3045",
+	"name": "SZCZYGLICE AUTOSTRADA",
+	"nameD": "SZCZYGLICE AUTOSTRADA"
+}, {
+	"id": "3046",
+	"name": "GŁĘBOKA ZAKRĘT (NŻ)",
+	"nameD": "GLEBOKA ZAKRET (NZ)"
+}, {
+	"id": "3049",
+	"name": "BRZEZIE KOŚCIÓŁ (NŻ)",
+	"nameD": "BRZEZIE KOSCIOL (NZ)"
+}, {
+	"id": "3051",
+	"name": "ŚWIĄTNIKI GÓRNE PIASNA GÓRKA (NŻ)",
+	"nameD": "SWIATNIKI GORNE PIASNA GORKA (NZ)"
+}, {
+	"id": "3052",
+	"name": "KONARY POD SOSENKĄ (NŻ)",
+	"nameD": "KONARY POD SOSENKA (NZ)"
+}, {
+	"id": "3053",
+	"name": "WŁOSAŃ DZIAŁ WSCHODNI (NŻ)",
+	"nameD": "WLOSAN DZIAL WSCHODNI (NZ)"
+}, {
+	"id": "3055",
+	"name": "CHOLERZYN ZAGÓRZE (NŻ)",
+	"nameD": "CHOLERZYN ZAGORZE (NZ)"
+}, {
+	"id": "3056",
+	"name": "CHOLERZYN GRANICA (NŻ)",
+	"nameD": "CHOLERZYN GRANICA (NZ)"
+}, {
+	"id": "3059",
+	"name": "GOLKOWICE KOŚCIÓŁ",
+	"nameD": "GOLKOWICE KOSCIOL"
+}, {
+	"id": "3060",
+	"name": "MUROWNIA PĘTLA",
+	"nameD": "MUROWNIA PETLA"
+}, {
+	"id": "3061",
+	"name": "RĄCZNA BAŻANTY (NŻ)",
+	"nameD": "RACZNA BAZANTY (NZ)"
+}, {
+	"id": "3063",
+	"name": "KOZIENICKA",
+	"nameD": "KOZIENICKA"
+}, {
+	"id": "3064",
+	"name": "ORSZY-BRONIEWSKIEGO",
+	"nameD": "ORSZY-BRONIEWSKIEGO"
+}, {
+	"id": "3066",
+	"name": "ŁUCZANOWICKA (NŻ)",
+	"nameD": "LUCZANOWICKA (NZ)"
+}, {
+	"id": "3068",
+	"name": "OBSERWATORIUM (NŻ)",
+	"nameD": "OBSERWATORIUM (NZ)"
+}, {
+	"id": "3069",
+	"name": "ŁOBZÓW SKA",
+	"nameD": "LOBZOW SKA"
+}, {
+	"id": "3070",
+	"name": "PETRAŻYCKIEGO OSIEDLE (NŻ)",
+	"nameD": "PETRAZYCKIEGO OSIEDLE (NZ)"
+}, {
+	"id": "3071",
+	"name": "LIBERTOWSKA (NŻ)",
+	"nameD": "LIBERTOWSKA (NZ)"
+}, {
+	"id": "3072",
+	"name": "CHEŁMOŃSKIEGO PĘTLA",
+	"nameD": "CHELMONSKIEGO PETLA"
+}, {
+	"id": "3073",
+	"name": "CHEŁMOŃSKIEGO OSIEDLE",
+	"nameD": "CHELMONSKIEGO OSIEDLE"
+}, {
+	"id": "3074",
+	"name": "KŁUSZYŃSKA",
+	"nameD": "KLUSZYNSKA"
+}, {
+	"id": "3075",
+	"name": "RADZISZÓW SZPITAL",
+	"nameD": "RADZISZOW SZPITAL"
+}, {
+	"id": "3102",
+	"name": "BIELANY OBWODNICA (NŻ)",
+	"nameD": "BIELANY OBWODNICA (NZ)"
+}, {
+	"id": "3103",
+	"name": "RYBNA DROGA DO SANKI (NŻ)",
+	"nameD": "RYBNA DROGA DO SANKI (NZ)"
+}, {
+	"id": "3104",
+	"name": "MNIKÓW ZARYNNIE (NŻ)",
+	"nameD": "MNIKOW ZARYNNIE (NZ)"
+}, {
+	"id": "3105",
+	"name": "MORAWICA RUDKI (NŻ)",
+	"nameD": "MORAWICA RUDKI (NZ)"
+}, {
+	"id": "3107",
+	"name": "CMENTARZ SALWATOR",
+	"nameD": "CMENTARZ SALWATOR"
+}, {
+	"id": "3108",
+	"name": "CMENTARZ BRONOWICE (NŻ)",
+	"nameD": "CMENTARZ BRONOWICE (NZ)"
+}, {
+	"id": "3109",
+	"name": "MEHOFFERA",
+	"nameD": "MEHOFFERA"
+}, {
+	"id": "3110",
+	"name": "WŁADYSŁAWA ŁOKIETKA",
+	"nameD": "WLADYSLAWA LOKIETKA"
+}, {
+	"id": "3111",
+	"name": "AGH / UR",
+	"nameD": "AGH / UR"
+}, {
+	"id": "3113",
+	"name": "DOBREGO PASTERZA",
+	"nameD": "DOBREGO PASTERZA"
+}, {
+	"id": "3114",
+	"name": "OS. AKADEMICKIE PK",
+	"nameD": "OS. AKADEMICKIE PK"
+}, {
+	"id": "3115",
+	"name": "WODOCIĄGOWA (NŻ)",
+	"nameD": "WODOCIAGOWA (NZ)"
+}, {
+	"id": "3116",
+	"name": "FATIMSKA (NŻ)",
+	"nameD": "FATIMSKA (NZ)"
+}, {
+	"id": "3117",
+	"name": "DĄBROWSKIEJ",
+	"nameD": "DABROWSKIEJ"
+}, {
+	"id": "3118",
+	"name": "WŁADYSŁAWA JAGIEŁŁY",
+	"nameD": "WLADYSLAWA JAGIELLY"
+}, {
+	"id": "3119",
+	"name": "MORCINKA (NŻ)",
+	"nameD": "MORCINKA (NZ)"
+}, {
+	"id": "3120",
+	"name": "CMENTARZ RUSZCZA (NŻ)",
+	"nameD": "CMENTARZ RUSZCZA (NZ)"
+}, {
+	"id": "3121",
+	"name": "BAZAROWA",
+	"nameD": "BAZAROWA"
+}, {
+	"id": "3122",
+	"name": "DANALÓWKA (NŻ)",
+	"nameD": "DANALOWKA (NZ)"
+}, {
+	"id": "3123",
+	"name": "MAGAZYNOWA (NŻ)",
+	"nameD": "MAGAZYNOWA (NZ)"
+}, {
+	"id": "3124",
+	"name": "PÓŁŁANKI",
+	"nameD": "POLLANKI"
+}, {
+	"id": "3125",
+	"name": "DUŻA GÓRA (NŻ)",
+	"nameD": "DUZA GORA (NZ)"
+}, {
+	"id": "3126",
+	"name": "CMENTARZ BIEŻANÓW",
+	"nameD": "CMENTARZ BIEZANOW"
+}, {
+	"id": "3127",
+	"name": "WĘZEŁ WIELICKI (NŻ)",
+	"nameD": "WEZEL WIELICKI (NZ)"
+}, {
+	"id": "3128",
+	"name": "SAWICZEWSKICH",
+	"nameD": "SAWICZEWSKICH"
+}, {
+	"id": "3129",
+	"name": "SWOSZOWICE SZKOŁA",
+	"nameD": "SWOSZOWICE SZKOLA"
+}, {
+	"id": "3130",
+	"name": "MERKURIUSZA POLSKIEGO",
+	"nameD": "MERKURIUSZA POLSKIEGO"
+}, {
+	"id": "3131",
+	"name": "WARSZEWICZA (NŻ)",
+	"nameD": "WARSZEWICZA (NZ)"
+}, {
+	"id": "3133",
+	"name": "CMENTARZ WRÓBLOWICE",
+	"nameD": "CMENTARZ WROBLOWICE"
+}, {
+	"id": "3134",
+	"name": "KRZESŁAWICE MŁYN (NŻ)",
+	"nameD": "KRZESLAWICE MLYN (NZ)"
+}, {
+	"id": "3135",
+	"name": "PCK",
+	"nameD": "PCK"
+}, {
+	"id": "3136",
+	"name": "KURZEI",
+	"nameD": "KURZEI"
+}, {
+	"id": "3137",
+	"name": "CMENTARZ BIELANY (NŻ)",
+	"nameD": "CMENTARZ BIELANY (NZ)"
+}, {
+	"id": "3138",
+	"name": "SŁONECKIEGO",
+	"nameD": "SLONECKIEGO"
+}, {
+	"id": "3139",
+	"name": "CMENTARZ BOREK FAŁĘCKI (NŻ)",
+	"nameD": "CMENTARZ BOREK FALECKI (NZ)"
+}, {
+	"id": "3140",
+	"name": "UR ALEJA 29 LISTOPADA",
+	"nameD": "UR ALEJA 29 LISTOPADA"
+}, {
+	"id": "3141",
+	"name": "MUZEUM NARODOWE",
+	"nameD": "MUZEUM NARODOWE"
+}, {
+	"id": "3144",
+	"name": "GOLKOWICE SKLEP",
+	"nameD": "GOLKOWICE SKLEP"
+}, {
+	"id": "3145",
+	"name": "GRABÓWKI PĘTLA",
+	"nameD": "GRABOWKI PETLA"
+}, {
+	"id": "3146",
+	"name": "GOLKOWICE PĘTLA",
+	"nameD": "GOLKOWICE PETLA"
+}, {
+	"id": "3147",
+	"name": "ZBYDNIOWICKA",
+	"nameD": "ZBYDNIOWICKA"
+}, {
+	"id": "3148",
+	"name": "WRÓBLOWICE",
+	"nameD": "WROBLOWICE"
+}, {
+	"id": "3149",
+	"name": "PARK ZDROJOWY",
+	"nameD": "PARK ZDROJOWY"
+}, {
+	"id": "3150",
+	"name": "ALEKSANDROWICZA (NŻ)",
+	"nameD": "ALEKSANDROWICZA (NZ)"
+}, {
+	"id": "3151",
+	"name": "BRONOWICE MAŁE WIZJONERÓW",
+	"nameD": "BRONOWICE MALE WIZJONEROW"
+}, {
+	"id": "3152",
+	"name": "SAPALSKIEGO (NŻ)",
+	"nameD": "SAPALSKIEGO (NZ)"
+}, {
+	"id": "3157",
+	"name": "HUSARSKA (NŻ)",
+	"nameD": "HUSARSKA (NZ)"
+}, {
+	"id": "3158",
+	"name": "PODGÓRZE SKA",
+	"nameD": "PODGORZE SKA"
+}, {
+	"id": "3159",
+	"name": "MACIEJOWICE PĘTLA",
+	"nameD": "MACIEJOWICE PETLA"
+}, {
+	"id": "3165",
+	"name": "DZIEKANOWICE DŁUGA (NŻ)",
+	"nameD": "DZIEKANOWICE DLUGA (NZ)"
+}, {
+	"id": "3166",
+	"name": "DZIEKANOWICE KAPLICZKA",
+	"nameD": "DZIEKANOWICE KAPLICZKA"
+}, {
+	"id": "3167",
+	"name": "TOMASZOWICE KOLBERGA (NŻ)",
+	"nameD": "TOMASZOWICE KOLBERGA (NZ)"
+}, {
+	"id": "3168",
+	"name": "MACIEJOWICE SKRZYŻOWANIE (NŻ)",
+	"nameD": "MACIEJOWICE SKRZYZOWANIE (NZ)"
+}, {
+	"id": "3172",
+	"name": "TAKLIŃSKIEGO (NŻ)",
+	"nameD": "TAKLINSKIEGO (NZ)"
+}, {
+	"id": "3173",
+	"name": "SKAWINA TYNIECKA RZEPNIK (NŻ)",
+	"nameD": "SKAWINA TYNIECKA RZEPNIK (NZ)"
+}, {
+	"id": "3174",
+	"name": "GIEDROYCIA (NŻ)",
+	"nameD": "GIEDROYCIA (NZ)"
+}, {
+	"id": "3175",
+	"name": "NOWY BIEŻANÓW P+R",
+	"nameD": "NOWY BIEZANOW P+R"
+}, {
+	"id": "3176",
+	"name": "KURDWANÓW P+R",
+	"nameD": "KURDWANOW P+R"
+}, {
+	"id": "3177",
+	"name": "PIASKOWA (NŻ)",
+	"nameD": "PIASKOWA (NZ)"
+}, {
+	"id": "3178",
+	"name": "GIEDROYCIA ZTPO (NŻ)",
+	"nameD": "GIEDROYCIA ZTPO (NZ)"
+}, {
+	"id": "3179",
+	"name": "ZAKARNIE (NŻ)",
+	"nameD": "ZAKARNIE (NZ)"
+}, {
+	"id": "3180",
+	"name": "KĘPA (NŻ)",
+	"nameD": "KEPA (NZ)"
+}, {
+	"id": "3181",
+	"name": "SKOTNIKI KOŚCIÓŁ",
+	"nameD": "SKOTNIKI KOSCIOL"
+}, {
+	"id": "3182",
+	"name": "PRZEGORZAŁY OBWODNICA (NŻ)",
+	"nameD": "PRZEGORZALY OBWODNICA (NZ)"
+}, {
+	"id": "3183",
+	"name": "BIEŻANÓW DROŻDŻOWNIA SKA",
+	"nameD": "BIEZANOW DROZDZOWNIA SKA"
+}, {
+	"id": "3184",
+	"name": "LUSINA KRAKÓWKAA (NŻ)",
+	"nameD": "LUSINA KRAKOWKAA (NZ)"
+}, {
+	"id": "3186",
+	"name": "GRZEGORZA Z SANOKA (NŻ)",
+	"nameD": "GRZEGORZA Z SANOKA (NZ)"
+}, {
+	"id": "3187",
+	"name": "ORŁOWSKIEGO (NŻ)",
+	"nameD": "ORLOWSKIEGO (NZ)"
+}, {
+	"id": "3189",
+	"name": "WIKTOROWICE ROZLEWNIA WÓD (NŻ)",
+	"nameD": "WIKTOROWICE ROZLEWNIA WOD (NZ)"
+}, {
+	"id": "3190",
+	"name": "JURCZAKA (NŻ)",
+	"nameD": "JURCZAKA (NZ)"
+}, {
+	"id": "3191",
+	"name": "PETŐFIEGO (NŻ)",
+	"nameD": "PETŐFIEGO (NZ)"
+}, {
+	"id": "3192",
+	"name": "REDUTA (NŻ)",
+	"nameD": "REDUTA (NZ)"
+}, {
+	"id": "3193",
+	"name": "DZIEKANOWICE BATOWICE SKA",
+	"nameD": "DZIEKANOWICE BATOWICE SKA"
+}, {
+	"id": "3194",
+	"name": "DZIEKANOWICKA (NŻ)",
+	"nameD": "DZIEKANOWICKA (NZ)"
+}, {
+	"id": "3195",
+	"name": "POWSTAŃCÓW MAGAZYNY",
+	"nameD": "POWSTANCOW MAGAZYNY"
+}, {
+	"id": "3198",
+	"name": "ZELKÓW PĘTLA",
+	"nameD": "ZELKOW PETLA"
+}, {
+	"id": "3199",
+	"name": "RZĄSKA SZKOŁA",
+	"nameD": "RZASKA SZKOLA"
+}, {
+	"id": "3200",
+	"name": "ZELKÓW KOŚCIUSZKI (NŻ)",
+	"nameD": "ZELKOW KOSCIUSZKI (NZ)"
+}, {
+	"id": "3201",
+	"name": "BRZOSKWINIA PĘTLA",
+	"nameD": "BRZOSKWINIA PETLA"
+}, {
+	"id": "3203",
+	"name": "SZPITAL JANA PAWŁA II",
+	"nameD": "SZPITAL JANA PAWLA II"
+}, {
+	"id": "3204",
+	"name": "KOBYLANY KWIATOWA",
+	"nameD": "KOBYLANY KWIATOWA"
+}, {
+	"id": "3205",
+	"name": "KARNIOWICE PĘTLA",
+	"nameD": "KARNIOWICE PETLA"
+}, {
+	"id": "3206",
+	"name": "KARNIOWICE GÓRKI (NŻ)",
+	"nameD": "KARNIOWICE GORKI (NZ)"
+}, {
+	"id": "3207",
+	"name": "KOBYLANY DWORSKA (NŻ)",
+	"nameD": "KOBYLANY DWORSKA (NZ)"
+}, {
+	"id": "3208",
+	"name": "RADWANOWICE KRZESZOWICKA (NŻ)",
+	"nameD": "RADWANOWICE KRZESZOWICKA (NZ)"
+}, {
+	"id": "3209",
+	"name": "BRZEZIE KLUCZWODY (NŻ)",
+	"nameD": "BRZEZIE KLUCZWODY (NZ)"
+}, {
+	"id": "3210",
+	"name": "BOLEŃ PĘTLA",
+	"nameD": "BOLEN PETLA"
+}, {
+	"id": "3211",
+	"name": "BOSUTÓW REMIZA",
+	"nameD": "BOSUTOW REMIZA"
+}, {
+	"id": "3212",
+	"name": "WRZĄSOWICE RONDO",
+	"nameD": "WRZASOWICE RONDO"
+}, {
+	"id": "3216",
+	"name": "LEDNICA GÓRNA CHORĄGWICA (NŻ)",
+	"nameD": "LEDNICA GORNA CHORAGWICA (NZ)"
+}, {
+	"id": "3217",
+	"name": "LEDNICA GÓRNA (NŻ)",
+	"nameD": "LEDNICA GORNA (NZ)"
+}, {
+	"id": "3218",
+	"name": "TOMASZKOWICE",
+	"nameD": "TOMASZKOWICE"
+}, {
+	"id": "3219",
+	"name": "PRZEBIECZANY",
+	"nameD": "PRZEBIECZANY"
+}, {
+	"id": "3220",
+	"name": "BISKUPICE I (NŻ)",
+	"nameD": "BISKUPICE I (NZ)"
+}, {
+	"id": "3221",
+	"name": "BISKUPICE II (NŻ)",
+	"nameD": "BISKUPICE II (NZ)"
+}, {
+	"id": "3222",
+	"name": "TRĄBKI I (NŻ)",
+	"nameD": "TRABKI I (NZ)"
+}, {
+	"id": "3223",
+	"name": "TRĄBKI OSP",
+	"nameD": "TRABKI OSP"
+}, {
+	"id": "3224",
+	"name": "CZERNICHÓW PĘTLA",
+	"nameD": "CZERNICHOW PETLA"
+}, {
+	"id": "3225",
+	"name": "ŚCIEJOWICE REMIZA (NŻ)",
+	"nameD": "SCIEJOWICE REMIZA (NZ)"
+}, {
+	"id": "3226",
+	"name": "ŚCIEJOWICE KOŚCIEL (NŻ)",
+	"nameD": "SCIEJOWICE KOSCIEL (NZ)"
+}, {
+	"id": "3227",
+	"name": "WOŁOWICE GROTOWA SKRZYŻOWANIE (NŻ)",
+	"nameD": "WOLOWICE GROTOWA SKRZYZOWANIE (NZ)"
+}, {
+	"id": "3228",
+	"name": "JEZIORZANY GÓRSKIE DOMY (NŻ)",
+	"nameD": "JEZIORZANY GORSKIE DOMY (NZ)"
+}, {
+	"id": "3229",
+	"name": "WOŁOWICE ZAWIERZBIE (NŻ)",
+	"nameD": "WOLOWICE ZAWIERZBIE (NZ)"
+}, {
+	"id": "3230",
+	"name": "KRZYSZTOFORZYCE PĘTLA",
+	"nameD": "KRZYSZTOFORZYCE PETLA"
+}, {
+	"id": "3231",
+	"name": "WOŁOWICE GROTOWA (NŻ)",
+	"nameD": "WOLOWICE GROTOWA (NZ)"
+}, {
+	"id": "3232",
+	"name": "MNIKÓW GRANICA (NŻ)",
+	"nameD": "MNIKOW GRANICA (NZ)"
+}, {
+	"id": "3233",
+	"name": "RADZISZÓW PODLESIE LAS (NŻ)",
+	"nameD": "RADZISZOW PODLESIE LAS (NZ)"
+}, {
+	"id": "3234",
+	"name": "JĘDRZEJCZYKA (NŻ)",
+	"nameD": "JEDRZEJCZYKA (NZ)"
+}, {
+	"id": "3235",
+	"name": "WIELICZKA STACJA PALIW",
+	"nameD": "WIELICZKA STACJA PALIW"
+}, {
+	"id": "3242",
+	"name": "TEATR SŁOWACKIEGO",
+	"nameD": "TEATR SLOWACKIEGO"
+}, {
+	"id": "3243",
+	"name": "JADWIGI Z ŁOBZOWA",
+	"nameD": "JADWIGI Z LOBZOWA"
+}, {
+	"id": "3244",
+	"name": "BISKUPIA",
+	"nameD": "BISKUPIA"
+}, {
+	"id": "3245",
+	"name": "TRĄBKI P+R",
+	"nameD": "TRABKI P+R"
+}, {
+	"id": "3246",
+	"name": "WIELICZKA GDOWSKA",
+	"nameD": "WIELICZKA GDOWSKA"
+}, {
+	"id": "3247",
+	"name": "WIELICZKA POLNA (NŻ)",
+	"nameD": "WIELICZKA POLNA (NZ)"
+}, {
+	"id": "3248",
+	"name": "ZABIERZÓW EXIMIUS PARK",
+	"nameD": "ZABIERZOW EXIMIUS PARK"
+}, {
+	"id": "3249",
+	"name": "ZABIERZÓW RYNEK",
+	"nameD": "ZABIERZOW RYNEK"
+}, {
+	"id": "3250",
+	"name": "KRZESZOWICE DWORZEC AUTOBUSOWY",
+	"nameD": "KRZESZOWICE DWORZEC AUTOBUSOWY"
+}, {
+	"id": "3251",
+	"name": "MODLNICZKA LEROY MERLIN (NŻ)",
+	"nameD": "MODLNICZKA LEROY MERLIN (NZ)"
+}, {
+	"id": "3261",
+	"name": "SEWERA (NŻ)",
+	"nameD": "SEWERA (NZ)"
+}, {
+	"id": "3262",
+	"name": "MŁODEJ POLSKI (NŻ)",
+	"nameD": "MLODEJ POLSKI (NZ)"
+}, {
+	"id": "3263",
+	"name": "PLAC AXENTOWICZA",
+	"nameD": "PLAC AXENTOWICZA"
+}, {
+	"id": "3264",
+	"name": "WARMIJSKA",
+	"nameD": "WARMIJSKA"
+}, {
+	"id": "3270",
+	"name": "WĘGRZCE WIELKIE PĘTLA",
+	"nameD": "WEGRZCE WIELKIE PETLA"
+}, {
+	"id": "3271",
+	"name": "BRZOZÓWKA OSKARÓWKA",
+	"nameD": "BRZOZOWKA OSKAROWKA"
+}, {
+	"id": "3272",
+	"name": "BRZOZÓWKA OŚRODEK",
+	"nameD": "BRZOZOWKA OSRODEK"
+}, {
+	"id": "3276",
+	"name": "SPŁAWY",
+	"nameD": "SPLAWY"
+}, {
+	"id": "3277",
+	"name": "WĘGRZYNOWICKA (NŻ)",
+	"nameD": "WEGRZYNOWICKA (NZ)"
+}, {
+	"id": "3278",
+	"name": "NIEBYŁA (NŻ)",
+	"nameD": "NIEBYLA (NZ)"
+}, {
+	"id": "3279",
+	"name": "KAMIEŃ SZKOŁA",
+	"nameD": "KAMIEN SZKOLA"
+}, {
+	"id": "3280",
+	"name": "CZULICE PRZYMIARKI (NŻ)",
+	"nameD": "CZULICE PRZYMIARKI (NZ)"
+}, {
+	"id": "3281",
+	"name": "GŁĘBOKA STAW",
+	"nameD": "GLEBOKA STAW"
+}, {
+	"id": "3282",
+	"name": "KARNIÓW SZKOŁA",
+	"nameD": "KARNIOW SZKOLA"
+}, {
+	"id": "3283",
+	"name": "CZULICE KOŚCIÓŁ",
+	"nameD": "CZULICE KOSCIOL"
+}, {
+	"id": "3284",
+	"name": "WOLA LUBORZYCKA SKRZYŻOWANIE (NŻ)",
+	"nameD": "WOLA LUBORZYCKA SKRZYZOWANIE (NZ)"
+}, {
+	"id": "3285",
+	"name": "ŁOSOSKOWICE REMIZA",
+	"nameD": "LOSOSKOWICE REMIZA"
+}, {
+	"id": "3286",
+	"name": "SKRZESZOWICE OSP BOISKO",
+	"nameD": "SKRZESZOWICE OSP BOISKO"
+}, {
+	"id": "3287",
+	"name": "ŁUCZYCE KOSYNIERÓW",
+	"nameD": "LUCZYCE KOSYNIEROW"
+}, {
+	"id": "3288",
+	"name": "POLANOWICE BOISKO (NŻ)",
+	"nameD": "POLANOWICE BOISKO (NZ)"
+}, {
+	"id": "3289",
+	"name": "GOSZCZA DWOREK",
+	"nameD": "GOSZCZA DWOREK"
+}, {
+	"id": "3290",
+	"name": "SADOWIE WIADUKT (NŻ)",
+	"nameD": "SADOWIE WIADUKT (NZ)"
+}, {
+	"id": "3291",
+	"name": "GOSZYCE POD LASEM (NŻ)",
+	"nameD": "GOSZYCE POD LASEM (NZ)"
+}, {
+	"id": "3292",
+	"name": "KOCMYRZÓW-LUBORZYCA URZĄD GMINY",
+	"nameD": "KOCMYRZOW-LUBORZYCA URZAD GMINY"
+}, {
+	"id": "3293",
+	"name": "SŁOWIAŃSKA",
+	"nameD": "SLOWIANSKA"
+}, {
+	"id": "3294",
+	"name": "CZUŁÓW SKLEP (NŻ)",
+	"nameD": "CZULOW SKLEP (NZ)"
+}, {
+	"id": "3295",
+	"name": "CZUŁÓW GRANICA (NŻ)",
+	"nameD": "CZULOW GRANICA (NZ)"
+}, {
+	"id": "3296",
+	"name": "MNIKÓW REMIZA (NŻ)",
+	"nameD": "MNIKOW REMIZA (NZ)"
+}, {
+	"id": "3297",
+	"name": "MNIKÓW SKLEP (NŻ)",
+	"nameD": "MNIKOW SKLEP (NZ)"
+}, {
+	"id": "3298",
+	"name": "CHOLERZYN SKWER (NŻ)",
+	"nameD": "CHOLERZYN SKWER (NZ)"
+}, {
+	"id": "3299",
+	"name": "RYBNA KOŚCIÓŁ",
+	"nameD": "RYBNA KOSCIOL"
+}, {
+	"id": "3300",
+	"name": "PRUSY",
+	"nameD": "PRUSY"
+}, {
+	"id": "3301",
+	"name": "LUSINA KRAKÓWKA (NŻ)",
+	"nameD": "LUSINA KRAKOWKA (NZ)"
+}, {
+	"id": "3303",
+	"name": "KASZÓW SZKOŁA NR 2 (NŻ)",
+	"nameD": "KASZOW SZKOLA NR 2 (NZ)"
+}, {
+	"id": "3304",
+	"name": "KASZÓW WIELKA DROGA (NŻ)",
+	"nameD": "KASZOW WIELKA DROGA (NZ)"
+}, {
+	"id": "3305",
+	"name": "ZAGACIE GÓRKA (NŻ)",
+	"nameD": "ZAGACIE GORKA (NZ)"
+}, {
+	"id": "3306",
+	"name": "KŁOKOCZYN SZKOŁA (NŻ)",
+	"nameD": "KLOKOCZYN SZKOLA (NZ)"
+}, {
+	"id": "3307",
+	"name": "RUSOCICE STACJA PALIW (NŻ)",
+	"nameD": "RUSOCICE STACJA PALIW (NZ)"
+}, {
+	"id": "3308",
+	"name": "RUSOCICE NA BRZEGU (NŻ)",
+	"nameD": "RUSOCICE NA BRZEGU (NZ)"
+}, {
+	"id": "3309",
+	"name": "KŁOKOCZYN MACHACZKI (NŻ)",
+	"nameD": "KLOKOCZYN MACHACZKI (NZ)"
+}, {
+	"id": "3310",
+	"name": "MAŁY PŁASZÓW P+R",
+	"nameD": "MALY PLASZOW P+R"
+}, {
+	"id": "3311",
+	"name": "BRZEGI PĘTLA",
+	"nameD": "BRZEGI PETLA"
+}, {
+	"id": "3312",
+	"name": "KONARY KRÓLOWEJ POLSKI (NŻ)",
+	"nameD": "KONARY KROLOWEJ POLSKI (NZ)"
+}, {
+	"id": "3313",
+	"name": "MOGILANY KRÓTKA (NŻ)",
+	"nameD": "MOGILANY KROTKA (NZ)"
+}, {
+	"id": "3314",
+	"name": "WŁOSAŃ CENTRUM",
+	"nameD": "WLOSAN CENTRUM"
+}, {
+	"id": "3315",
+	"name": "ŚWIĄTNIKI GÓRNE SKRZYŻOWANIE (NŻ)",
+	"nameD": "SWIATNIKI GORNE SKRZYZOWANIE (NZ)"
+}, {
+	"id": "3316",
+	"name": "ŚWIĄTNIKI GÓRNE BIELOWICZA SZKOŁA",
+	"nameD": "SWIATNIKI GORNE BIELOWICZA SZKOLA"
+}, {
+	"id": "3317",
+	"name": "ŚWIĄTNIKI GÓRNE CENTRUM",
+	"nameD": "SWIATNIKI GORNE CENTRUM"
+}, {
+	"id": "3318",
+	"name": "ŚWIĄTNIKI GÓRNE URZĄD MIASTA I GMINY",
+	"nameD": "SWIATNIKI GORNE URZAD MIASTA I GMINY"
+}, {
+	"id": "3319",
+	"name": "WRZĄSOWICE BONIFRATERSKA  (NŻ)",
+	"nameD": "WRZASOWICE BONIFRATERSKA  (NZ)"
+}, {
+	"id": "3320",
+	"name": "ŚWIĄTNIKI GÓRNE BUK (NŻ)",
+	"nameD": "SWIATNIKI GORNE BUK (NZ)"
+}, {
+	"id": "3321",
+	"name": "RZESZOTARY DWORSKA",
+	"nameD": "RZESZOTARY DWORSKA"
+}, {
+	"id": "3322",
+	"name": "RZESZOTARY REMIZA (NŻ)",
+	"nameD": "RZESZOTARY REMIZA (NZ)"
+}, {
+	"id": "3323",
+	"name": "BUKÓW PĘTLA",
+	"nameD": "BUKOW PETLA"
+}, {
+	"id": "3324",
+	"name": "CHOROWICE PĘTLA",
+	"nameD": "CHOROWICE PETLA"
+}, {
+	"id": "3325",
+	"name": "ŚWIĄTNIKI GÓRNE KRAKOWSKA (NŻ)",
+	"nameD": "SWIATNIKI GORNE KRAKOWSKA (NZ)"
+}, {
+	"id": "3326",
+	"name": "LUSINA KRAKOWSKA (NŻ)",
+	"nameD": "LUSINA KRAKOWSKA (NZ)"
+}, {
+	"id": "3327",
+	"name": "SKAWINA PODGÓRKI",
+	"nameD": "SKAWINA PODGORKI"
+}, {
+	"id": "3328",
+	"name": "BRZEŹNICA DWORZEC",
+	"nameD": "BRZEZNICA DWORZEC"
+}, {
+	"id": "3329",
+	"name": "BRZEZINKA KUŹNIA (NŻ)",
+	"nameD": "BRZEZINKA KUZNIA (NZ)"
+}, {
+	"id": "3330",
+	"name": "WOLA RADZISZOWSKA PĘTLA",
+	"nameD": "WOLA RADZISZOWSKA PETLA"
+}, {
+	"id": "3331",
+	"name": "OCHODZA DWÓR",
+	"nameD": "OCHODZA DWOR"
+}, {
+	"id": "3332",
+	"name": "KRZĘCIN SZCZĘSNA (NŻ)",
+	"nameD": "KRZECIN SZCZESNA (NZ)"
+}, {
+	"id": "3333",
+	"name": "GRABIE PĘTLA",
+	"nameD": "GRABIE PETLA"
+}, {
+	"id": "3334",
+	"name": "SKAWINA ŻWIROWA (NŻ)",
+	"nameD": "SKAWINA ZWIROWA (NZ)"
+}, {
+	"id": "3335",
+	"name": "SKAWINA ŻWIROWNIA (NŻ)",
+	"nameD": "SKAWINA ZWIROWNIA (NZ)"
+}, {
+	"id": "3336",
+	"name": "SKAWINA PIASTOWSKA (NŻ)",
+	"nameD": "SKAWINA PIASTOWSKA (NZ)"
+}, {
+	"id": "3337",
+	"name": "ARCHIWUM UMK (NŻ)",
+	"nameD": "ARCHIWUM UMK (NZ)"
+}, {
+	"id": "3338",
+	"name": "RONDO GRUNWALDZKIE",
+	"nameD": "RONDO GRUNWALDZKIE"
+}, {
+	"id": "3339",
+	"name": "GRABOWA",
+	"nameD": "GRABOWA"
+}, {
+	"id": "3340",
+	"name": "BRZEGI UŻYTEK EKOLOGICZNY (NŻ)",
+	"nameD": "BRZEGI UZYTEK EKOLOGICZNY (NZ)"
+}, {
+	"id": "3341",
+	"name": "WĘGRZCE TRZECIA GÓRA (NŻ)",
+	"nameD": "WEGRZCE TRZECIA GORA (NZ)"
+}, {
+	"id": "3342",
+	"name": "GÓRNA WIEŚ PĘTLA",
+	"nameD": "GORNA WIES PETLA"
+}, {
+	"id": "3343",
+	"name": "WOLA ZACHARIASZOWSKA SZKOŁA",
+	"nameD": "WOLA ZACHARIASZOWSKA SZKOLA"
+}, {
+	"id": "3344",
+	"name": "GARLICA DUCHOWNA KAPLICZKA (NŻ)",
+	"nameD": "GARLICA DUCHOWNA KAPLICZKA (NZ)"
+}, {
+	"id": "3345",
+	"name": "GARLICA MUROWANA PLAC ZABAW",
+	"nameD": "GARLICA MUROWANA PLAC ZABAW"
+}, {
+	"id": "3346",
+	"name": "MICHAŁOWICE LASKOWIEC (NŻ)",
+	"nameD": "MICHALOWICE LASKOWIEC (NZ)"
+}, {
+	"id": "3347",
+	"name": "MICHAŁOWICE WARSZAWKA (NŻ)",
+	"nameD": "MICHALOWICE WARSZAWKA (NZ)"
+}, {
+	"id": "3348",
+	"name": "NARAMA GRANICZNA SKLEP (NŻ)",
+	"nameD": "NARAMA GRANICZNA SKLEP (NZ)"
+}, {
+	"id": "3349",
+	"name": "NARAMA KSIĘŻA (NŻ)",
+	"nameD": "NARAMA KSIEZA (NZ)"
+}, {
+	"id": "3350",
+	"name": "KRASIENIEC STARY SKRZYŻOWANIE (NŻ)",
+	"nameD": "KRASIENIEC STARY SKRZYZOWANIE (NZ)"
+}, {
+	"id": "3351",
+	"name": "KRASIENIEC STARY KOPALINA (NŻ)",
+	"nameD": "KRASIENIEC STARY KOPALINA (NZ)"
+}, {
+	"id": "3352",
+	"name": "KRASIENIEC ZAKUPNY REMIZA (NŻ)",
+	"nameD": "KRASIENIEC ZAKUPNY REMIZA (NZ)"
+}, {
+	"id": "3353",
+	"name": "IWANOWICE DWORSKIE PĘTLA",
+	"nameD": "IWANOWICE DWORSKIE PETLA"
+}, {
+	"id": "3354",
+	"name": "KRASIENIEC ZAKUPNY KAPLICZKA",
+	"nameD": "KRASIENIEC ZAKUPNY KAPLICZKA"
+}, {
+	"id": "3355",
+	"name": "MICHAŁOWICE JANA PAWŁA II (NŻ)",
+	"nameD": "MICHALOWICE JANA PAWLA II (NZ)"
+}, {
+	"id": "3356",
+	"name": "MICHAŁOWICE LAS MICHAŁOWSKI",
+	"nameD": "MICHALOWICE LAS MICHALOWSKI"
+}, {
+	"id": "3357",
+	"name": "OWCZARY SPACEROWA (NŻ)",
+	"nameD": "OWCZARY SPACEROWA (NZ)"
+}, {
+	"id": "3358",
+	"name": "ZIELONKI JASKINIA ZIELONKOWSKA (NŻ)",
+	"nameD": "ZIELONKI JASKINIA ZIELONKOWSKA (NZ)"
+}, {
+	"id": "3359",
+	"name": "KRASIENIEC ZAKUPNY POD LIPĄ",
+	"nameD": "KRASIENIEC ZAKUPNY POD LIPA"
+}, {
+	"id": "3360",
+	"name": "WOLA ZACHARIASZOWSKA SŁONECZNA",
+	"nameD": "WOLA ZACHARIASZOWSKA SLONECZNA"
+}, {
+	"id": "3361",
+	"name": "BIBICE MOKRA",
+	"nameD": "BIBICE MOKRA"
+}, {
+	"id": "3362",
+	"name": "WOLA RADZISZOWSKA KAPELANKA (NŻ)",
+	"nameD": "WOLA RADZISZOWSKA KAPELANKA (NZ)"
+}, {
+	"id": "3363",
+	"name": "LESZCZYNOWA (NŻ)",
+	"nameD": "LESZCZYNOWA (NZ)"
+}, {
+	"id": "3364",
+	"name": "KONARY PĘTLA",
+	"nameD": "KONARY PETLA"
+}, {
+	"id": "3366",
+	"name": "DOBRY POCZĄTEK (NŻ)",
+	"nameD": "DOBRY POCZATEK (NZ)"
+}, {
+	"id": "3370",
+	"name": "DOBRY POCZĄTEK (NŻ)",
+	"nameD": "DOBRY POCZATEK (NZ)"
+}, {
+	"id": "3371",
+	"name": "KRYSPINÓW STOPIEŃ WODNY (NŻ)",
+	"nameD": "KRYSPINOW STOPIEN WODNY (NZ)"
+}, {
+	"id": "3372",
+	"name": "WIĘCŁAWICE STARE CENTRUM (NŻ)",
+	"nameD": "WIECLAWICE STARE CENTRUM (NZ)"
+}, {
+	"id": "3373",
+	"name": "LIBERTÓW ŚWIETLISTA",
+	"nameD": "LIBERTOW SWIETLISTA"
+}, {
+	"id": "3374",
+	"name": "MASŁOMIĄCA KOŹLICA (NŻ)",
+	"nameD": "MASLOMIACA KOZLICA (NZ)"
+}, {
+	"id": "3375",
+	"name": "ZAGÓRZYCE DWORSKIE REMIZA",
+	"nameD": "ZAGORZYCE DWORSKIE REMIZA"
+}, {
+	"id": "3376",
+	"name": "ZAGÓRZYCE STARE OWOCOWA (NŻ)",
+	"nameD": "ZAGORZYCE STARE OWOCOWA (NZ)"
+}, {
+	"id": "3377",
+	"name": "KSIĄŻNICZKI PASZCZYKÓWKA (NŻ)",
+	"nameD": "KSIAZNICZKI PASZCZYKOWKA (NZ)"
+}, {
+	"id": "3378",
+	"name": "MASŁOMIĄCA DŁUGA (NŻ)",
+	"nameD": "MASLOMIACA DLUGA (NZ)"
+}, {
+	"id": "3379",
+	"name": "PIELGRZYMOWICE WIERZBOWA (NŻ)",
+	"nameD": "PIELGRZYMOWICE WIERZBOWA (NZ)"
+}, {
+	"id": "3380",
+	"name": "WIELICZKA CENTRUM",
+	"nameD": "WIELICZKA CENTRUM"
+}, {
+	"id": "3381",
+	"name": "BODZÓW",
+	"nameD": "BODZOW"
+}, {
+	"id": "3382",
+	"name": "WIDŁAKOWA (NŻ)",
+	"nameD": "WIDLAKOWA (NZ)"
+}, {
+	"id": "3383",
+	"name": "SZPITAL UNIWERSYTECKI / INSTYTUT PEDIATR",
+	"nameD": "SZPITAL UNIWERSYTECKI / INSTYTUT PEDIATR"
+}, {
+	"id": "3384",
+	"name": "MIEJSKIE CENTRUM OPIEKI",
+	"nameD": "MIEJSKIE CENTRUM OPIEKI"
+}, {
+	"id": "3385",
+	"name": "BALICE INSTYTUT ZOOTECHNIKI (NŻ)",
+	"nameD": "BALICE INSTYTUT ZOOTECHNIKI (NZ)"
+}, {
+	"id": "3386",
+	"name": "MORAWICA CENTRUM",
+	"nameD": "MORAWICA CENTRUM"
+}, {
+	"id": "3387",
+	"name": "MORAWICA SZKOŁA (NŻ)",
+	"nameD": "MORAWICA SZKOLA (NZ)"
+}, {
+	"id": "3388",
+	"name": "ALEKSANDROWICE CENTRUM",
+	"nameD": "ALEKSANDROWICE CENTRUM"
+}, {
+	"id": "3389",
+	"name": "PIEKARY CENTRUM",
+	"nameD": "PIEKARY CENTRUM"
+}, {
+	"id": "3390",
+	"name": "NOWA WIEŚ SZLACHECKA PĘTLA",
+	"nameD": "NOWA WIES SZLACHECKA PETLA"
+}, {
+	"id": "3391",
+	"name": "NOWA WIEŚ SZLACHECKA KOŚCIÓŁ (NŻ)",
+	"nameD": "NOWA WIES SZLACHECKA KOSCIOL (NZ)"
+}, {
+	"id": "3392",
+	"name": "NOWA WIEŚ SZLACHECKA SKLEP (NŻ)",
+	"nameD": "NOWA WIES SZLACHECKA SKLEP (NZ)"
+}, {
+	"id": "3393",
+	"name": "NOWA WIEŚ SZLACHECKA KAPLICZKA (NŻ)",
+	"nameD": "NOWA WIES SZLACHECKA KAPLICZKA (NZ)"
+}, {
+	"id": "3394",
+	"name": "CZERNICHÓW RYNEK",
+	"nameD": "CZERNICHOW RYNEK"
+}, {
+	"id": "3395",
+	"name": "RĄCZNA BAŻANTY (NŻ)",
+	"nameD": "RACZNA BAZANTY (NZ)"
+}, {
+	"id": "3396",
+	"name": "RĄCZNA REMIZA (NŻ)",
+	"nameD": "RACZNA REMIZA (NZ)"
+}, {
+	"id": "3397",
+	"name": "WOŁOWICE REMIZA (NŻ)",
+	"nameD": "WOLOWICE REMIZA (NZ)"
+}, {
+	"id": "3398",
+	"name": "NOWA WIEŚ SZLACHECKA JESIONKA (NŻ)",
+	"nameD": "NOWA WIES SZLACHECKA JESIONKA (NZ)"
+}, {
+	"id": "3399",
+	"name": "PRZEGINIA DUCHOWNA REMIZA",
+	"nameD": "PRZEGINIA DUCHOWNA REMIZA"
+}, {
+	"id": "3400",
+	"name": "PRZEGINIA NARODOWA DWÓR (NŻ)",
+	"nameD": "PRZEGINIA NARODOWA DWOR (NZ)"
+}, {
+	"id": "3401",
+	"name": "WOŁOWICE SKRZYŻOWANIE (NŻ)",
+	"nameD": "WOLOWICE SKRZYZOWANIE (NZ)"
+}, {
+	"id": "3402",
+	"name": "CZERNICHÓW STUDZIENKI (NŻ)",
+	"nameD": "CZERNICHOW STUDZIENKI (NZ)"
+}, {
+	"id": "3403",
+	"name": "WOŁOWICE NIWKA (NŻ)",
+	"nameD": "WOLOWICE NIWKA (NZ)"
+}, {
+	"id": "3404",
+	"name": "KAMIEŃ REMIZA (NŻ)",
+	"nameD": "KAMIEN REMIZA (NZ)"
+}, {
+	"id": "3405",
+	"name": "RUSOCICE GRANICA (NŻ)",
+	"nameD": "RUSOCICE GRANICA (NZ)"
+}, {
+	"id": "3406",
+	"name": "PRZEGINIA NARODOWA BUNAR (NŻ)",
+	"nameD": "PRZEGINIA NARODOWA BUNAR (NZ)"
+}, {
+	"id": "3407",
+	"name": "PRZEGINIA DUCHOWNA KOŚCIÓŁ (NŻ)",
+	"nameD": "PRZEGINIA DUCHOWNA KOSCIOL (NZ)"
+}, {
+	"id": "3408",
+	"name": "RĄCZNA GOŁĘBIEC (NŻ)",
+	"nameD": "RACZNA GOLEBIEC (NZ)"
+}, {
+	"id": "3412",
+	"name": "DOMAGAŁY MAGAZYNY (NŻ)",
+	"nameD": "DOMAGALY MAGAZYNY (NZ)"
+}, {
+	"id": "3413",
+	"name": "BOLECHOWICE CENTRUM",
+	"nameD": "BOLECHOWICE CENTRUM"
+}, {
+	"id": "3414",
+	"name": "BURÓW BALICA (NŻ)",
+	"nameD": "BUROW BALICA (NZ)"
+}, {
+	"id": "3415",
+	"name": "BALICE REMIZA (NŻ)",
+	"nameD": "BALICE REMIZA (NZ)"
+}, {
+	"id": "3416",
+	"name": "WIĘCKOWICE OGRODOWA (NŻ)",
+	"nameD": "WIECKOWICE OGRODOWA (NZ)"
+}, {
+	"id": "3417",
+	"name": "BRZEZINKA KOŚCIÓŁ",
+	"nameD": "BRZEZINKA KOSCIOL"
+}, {
+	"id": "3418",
+	"name": "RUDAWA OSIEDLE (NŻ)",
+	"nameD": "RUDAWA OSIEDLE (NZ)"
+}, {
+	"id": "3419",
+	"name": "RUDAWA RYNEK",
+	"nameD": "RUDAWA RYNEK"
+}, {
+	"id": "3420",
+	"name": "PISARY SPACEROWA (NŻ)",
+	"nameD": "PISARY SPACEROWA (NZ)"
+}, {
+	"id": "3421",
+	"name": "PISARY AKACJOWA (NŻ)",
+	"nameD": "PISARY AKACJOWA (NZ)"
+}, {
+	"id": "3422",
+	"name": "PISARY MLECZNA (NŻ)",
+	"nameD": "PISARY MLECZNA (NZ)"
+}, {
+	"id": "3423",
+	"name": "KLESZCZÓW CENTRUM",
+	"nameD": "KLESZCZOW CENTRUM"
+}, {
+	"id": "3424",
+	"name": "NIELEPICE PĘTLA",
+	"nameD": "NIELEPICE PETLA"
+}, {
+	"id": "3426",
+	"name": "WRZĄSOWICE BONIFRATERSKA (NŻ)",
+	"nameD": "WRZASOWICE BONIFRATERSKA (NZ)"
+}, {
+	"id": "3427",
+	"name": "WOLICA SZKOŁA (NŻ)",
+	"nameD": "WOLICA SZKOLA (NZ)"
+}, {
+	"id": "3429",
+	"name": "WIELICZKA MIASTO",
+	"nameD": "WIELICZKA MIASTO"
+}, {
+	"id": "3430",
+	"name": "WIELICZKA KLASZTOR",
+	"nameD": "WIELICZKA KLASZTOR"
+}, {
+	"id": "3431",
+	"name": "WIELICZKA MEDIATEKA",
+	"nameD": "WIELICZKA MEDIATEKA"
+}, {
+	"id": "3441",
+	"name": "SKAWINA SCK",
+	"nameD": "SKAWINA SCK"
+}, {
+	"id": "3442",
+	"name": "WĘGRZCE B1 (NŻ)",
+	"nameD": "WEGRZCE B1 (NZ)"
+}, {
+	"id": "3443",
+	"name": "WĘGRZCE B4 (NŻ)",
+	"nameD": "WEGRZCE B4 (NZ)"
+}, {
+	"id": "3444",
+	"name": "WĘGRZCE SUDÓŁ (NŻ)",
+	"nameD": "WEGRZCE SUDOL (NZ)"
+}, {
+	"id": "3445",
+	"name": "OS. KOŚCIUSZKOWSKIE",
+	"nameD": "OS. KOSCIUSZKOWSKIE"
+}, {
+	"id": "3450",
+	"name": "TRETÓWKA",
+	"nameD": "TRETOWKA"
+}, {
+	"id": "3451",
+	"name": "KOPANKA OFIAR KATYNIA",
+	"nameD": "KOPANKA OFIAR KATYNIA"
+}, {
+	"id": "3452",
+	"name": "RACIBOROWICE WAWELSKA",
+	"nameD": "RACIBOROWICE WAWELSKA"
+}, {
+	"id": "3453",
+	"name": "ZASTÓW PĘTLA",
+	"nameD": "ZASTOW PETLA"
+}, {
+	"id": "3454",
+	"name": "SMARDZOWICE REMIZA",
+	"nameD": "SMARDZOWICE REMIZA"
+}, {
+	"id": "3455",
+	"name": "OWCZARY DŁUGA (NŻ)",
+	"nameD": "OWCZARY DLUGA (NZ)"
+}, {
+	"id": "3456",
+	"name": "GRĘBYNICE REMIZA (NŻ)",
+	"nameD": "GREBYNICE REMIZA (NZ)"
+}, {
+	"id": "3457",
+	"name": "GRĘBYNICE PARKOWA (NŻ)",
+	"nameD": "GREBYNICE PARKOWA (NZ)"
+}, {
+	"id": "3458",
+	"name": "MASZYCE SADZAWKA (NŻ)",
+	"nameD": "MASZYCE SADZAWKA (NZ)"
+}, {
+	"id": "3459",
+	"name": "BRONOWICE SKA",
+	"nameD": "BRONOWICE SKA"
+}, {
+	"id": "3460",
+	"name": "STAREGO WIARUSA",
+	"nameD": "STAREGO WIARUSA"
+}, {
+	"id": "3462",
+	"name": "RYBNA PAWILON (NŻ)",
+	"nameD": "RYBNA PAWILON (NZ)"
+}, {
+	"id": "3463",
+	"name": "RYBNA OŚRODEK ZDROWIA (NŻ)",
+	"nameD": "RYBNA OSRODEK ZDROWIA (NZ)"
+}, {
+	"id": "3464",
+	"name": "CHOLERZYN CHAŁUPKI (NŻ)",
+	"nameD": "CHOLERZYN CHALUPKI (NZ)"
+}, {
+	"id": "3465",
+	"name": "OWCY-ORWICZA",
+	"nameD": "OWCY-ORWICZA"
+}, {
+	"id": "3466",
+	"name": "PIASTOWSKA",
+	"nameD": "PIASTOWSKA"
+}]

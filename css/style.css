@@ -1,0 +1,213 @@
+html,
+body {
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+#loader {
+    width: 32px;
+    margin: 40 auto 0;
+    height: 32px;
+    display: none;
+}
+.cattegory {
+    display: block;
+    text-align: center;
+}
+a:link, a:visited {
+    color: #111;
+    text-decoration: underline;
+}
+a:hover {
+    color: #fff;
+    text-decoration: none;
+    background-color: #1f8fbe;
+}
+header {
+    padding: 30px 0px 30px;
+    text-align: center;
+    margin: 0 auto;
+    max-width: 60%;
+}
+.title {
+    font-family: 'Sora', sans-serif;
+    font-weight: 600;
+    display: inline;
+    font-size: 24pt;
+    color: #1f8fbe;
+}
+.description {
+    font-family: 'Sora', sans-serif;
+    margin: 0px;
+    font-weight: 200;
+    font-size: 12pt;
+}
+header img {
+    height: 26pt;
+    margin-right: 10px;
+}
+#zeroStops {
+    text-align: center;
+}
+#search {
+    display: none;
+}
+#adder {
+    padding: 20px 0px 30px;
+    text-align: center;
+    margin: 0 auto;
+    max-width: 60%;
+}
+#adder input {
+    width: calc(100% - 20px);
+    border: 0px;
+    height: 40px;
+    border: 1px solid rgba(17, 17, 17, 0.1);
+    border-radius: 5px;
+    padding-left: 5px;
+}
+#adder ul {
+    list-style-type: none;
+    margin: 0 auto;
+    padding: 0;
+    text-align: left;
+    max-height: 300px;
+    max-width: calc(100% - 20px);
+    overflow-y: scroll;
+    border: 1px solid rgba(153, 153, 153, 0.45);
+    border-radius: 5px;
+}
+#adder li {
+    padding: 5px;
+    line-height: 30px;
+    min-height: 30px;
+    border-bottom: 1px solid rgba(153, 153, 153, 0.25);
+}
+#adder li:hover {
+    cursor: pointer;
+    background-color: rgba(0, 0, 0, 0.04);
+}
+footer {
+    font-size: 10pt;
+    padding: 20px 0px 30px;
+    text-align: center;
+    margin: 0 auto;
+    max-width: 60%;
+}
+footer a {
+    padding: 5px 10px;
+}
+footer a:link, a:visited {
+    text-decoration: none;
+}
+.mesopodamian:hover {
+    color: #111;
+    background-color: #ffc300;
+}
+#wrapper {
+    margin: 0 auto;
+    max-width: 60%;
+}
+.remove {
+    font-family: Roboto;
+    color: #111;
+    font-size: 12pt;
+}
+.content {
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
+.busStopTitle {
+    position: relative;
+    min-width: 100%;
+    display: grid;
+    grid-template-columns: auto 58px;
+    column-gap: 0px;
+}
+.busStopName {
+    font-family: 'Sora', sans-serif;
+    color: #1f8fbe;
+    font-weight: 400;
+    font-size: 20pt;
+    text-align: left;
+    padding: 10px;
+    margin: 0px 0px 15px 0px;
+    max-width: 100%;
+}
+.deleteStop {
+    clear: both;
+    margin: 12px;
+    padding: 0px 10px;
+    line-height: 30px;
+    max-height: 22pt;
+    border: 1px solid rgba(153, 153, 153, 0);
+    border-radius: 5px;
+    color: rgb(230, 77, 77);
+}
+
+.deleteStop:hover {
+    cursor: pointer;
+    background-color: rgba(0, 0, 0, 0.04);
+    border: 1px solid rgba(153, 153, 153, 0.25);
+}
+.container {
+    font-size: 14pt;
+    display: grid;
+    grid-template-columns: 40px auto 20px 90px;
+    column-gap: 0px;
+    row-gap: 0px;
+}
+
+.busNr {
+    font-weight: 700;
+    grid-column: 1;
+    text-align: right;
+}
+
+.busDir {
+    padding-left: 15px;
+    grid-column: 2;
+}
+
+.busVeh {
+    font-weight: 300;
+    grid-column: 3;
+    text-align: right;
+}
+.busVeh img{
+    max-width: 15px;
+    height: auto;
+    margin: 0;
+    padding: 0;
+}
+
+.busTime {
+    grid-column: 4;
+    text-align: right;
+    padding-right: 10px;
+}
+.border {
+    padding-bottom: 5px;
+    padding-top: 5px;
+    border-bottom: 1px solid rgba(153, 153, 153, 0.25);
+}
+
+@media screen and (max-width: 800px) {
+    #wrapper {
+        max-width: 90%;
+    }
+    header {
+        max-width: 90%;
+        font-size: 20pt;
+    }
+    #adder {
+        min-width: 90%;
+    }
+    #adder ul {
+        min-width: 90%;
+    }
+    #adder li {
+        line-height: 40px;
+        min-height: 40px;
+    }
+}
