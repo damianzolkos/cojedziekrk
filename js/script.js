@@ -203,8 +203,8 @@ function printData(parsedData) {
 var loader = document.getElementById("loader");
 
 var savedStops = new Array;
-var loadedStops = localStorage.getItem('stops');
-if (localStorage.getItem('stops') === null) {
+var loadedStops = localStorage.getItem('stopsCoJedzieKrk');
+if (localStorage.getItem('stopsCoJedzieKrk') === null) {
     savedStops = new Array;
 } else {
     savedStops = JSON.parse(loadedStops);
@@ -263,7 +263,7 @@ function addStop(id) {
                     loader.style.display = 'none';
                 });
                 savedStops.push(id);
-                localStorage.setItem('stops', JSON.stringify(savedStops));
+                localStorage.setItem('stopsCoJedzieKrk', JSON.stringify(savedStops));
 
                 document.getElementById("zeroStops").style.display = "none";
                 document.getElementById("newStopID").value = "";
@@ -280,7 +280,7 @@ function removeStop(id) {
     document.getElementById("content_" + id).remove();
     var index = savedStops.indexOf(id);
     savedStops.splice(index, 1);
-    localStorage.setItem('stops', JSON.stringify(savedStops));
+    localStorage.setItem('stopsCoJedzieKrk', JSON.stringify(savedStops));
     if (savedStops == 0) {
         document.getElementById("zeroStops").style.display = "block";
     }
